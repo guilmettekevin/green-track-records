@@ -1,0 +1,121 @@
+Event,Standard Event,Display Name,Type,Leg,Round,Hand Timed,Mark Min,Mark Max,Total Min,Total Max,Order
+60M,60M,60m,Running,,Final,Y,6.5,12.0,,,5
+100M,100M,100m,Running,,Final,Y,10.0,20.0,,,10
+100M (Trials),100M,100m,Running,,Prelim,Y,10.0,20.0,,,10
+200M,200M,200m,Running,,Final,Y,20.5,40.0,,,20
+200M (Trials),200M,200m,Running,,Prelim,Y,20.5,40.0,,,20
+400M,400M,400m,Running,,Final,Y,46.0,1:40,,,30
+400M (Trials),400M,400m,Running,,Prelim,Y,46.0,1:40,,,30
+800M,800M,800m,Running,,Final,,1:50,4:20,,,40
+800M (Trials),800M,800m,Running,,Prelim,,1:50,4:20,,,40
+1600M,1600M,1600m,Running,,Final,,4:00,10:00,,,50
+1600M (Trials),1600M,1600m,Running,,Prelim,,4:00,10:00,,,50
+3200M,3200M,3200m,Running,,Final,,8:45,21:00,,,60
+60M HH,60M HH,60m Hurdles,Running,,Final,Y,7.5,14.0,,,65
+100HH,100HH,100m Hurdles,Running,,Final,Y,13.0,30.0,,,70
+100HH (Trials),100HH,100m Hurdles,Running,,Prelim,Y,13.0,30.0,,,70
+110HH,110HH,110m Hurdles,Running,,Final,Y,13.5,30.0,,,71
+110HH (Trials),110HH,110m Hurdles,Running,,Prelim,Y,13.5,30.0,,,71
+300IH,300IH,300m Hurdles,Running,,Final,Y,36.0,1:15,,,80
+300IH (Trials),300IH,300m Hurdles,Running,,Prelim,Y,36.0,1:15,,,80
+High Jump,High Jump,High Jump,Field,,Final,,3-0,7-0,,,100
+Pole Vault,Pole Vault,Pole Vault,Field,,Final,,5-0,18-6,,,110
+Long Jump,Long Jump,Long Jump,Field,,Final,,8-0,25-0,,,120
+Shot Put,Shot Put,Shot Put,Field,,Final,,10-0,65-0,,,130
+Discus,Discus,Discus,Field,,Final,,30-0,200-0,,,140
+4X100M,4X100M,4x100m Relay,Relay,,Final,Y,9.5,20.0,41.0,1:15,200
+4X100M (Trials),4X100M,4x100m Relay,Relay,,Prelim,Y,9.5,20.0,41.0,1:15,200
+4X200M,4X200M,4x200m Relay,Relay,,Final,Y,20.5,40.0,1:26,2:30,210
+4X200M (Trials),4X200M,4x200m Relay,Relay,,Prelim,Y,20.5,40.0,1:26,2:30,210
+4X400M,4X400M,4x400m Relay,Relay,,Final,Y,46.0,1:40,3:15,6:30,220
+4X400M (Trials),4X400M,4x400m Relay,Relay,,Prelim,Y,46.0,1:40,3:15,6:30,220
+4X800M,4X800M,4x800m Relay,Relay,,Final,,1:50,4:20,7:40,16:00,230
+4X1200M,4X1200M,4x1200m Relay,Relay,,Final,,3:00,6:30,13:00,25:00,235
+4x1200M,4X1200M,4x1200m Relay,Relay,,Final,,3:00,6:30,13:00,25:00,235
+4X1600M,4X1600M,4x1600m Relay,Relay,,Final,,4:00,10:00,17:00,36:00,240
+SMR - 100M,SMR,Sprint Medley Relay,Relay,100M,Final,Y,9.5,20.0,1:30,3:20,250
+SMR - 200M,SMR,Sprint Medley Relay,Relay,200M,Final,Y,20.5,40.0,1:30,3:20,250
+SMR - 400M,SMR,Sprint Medley Relay,Relay,400M,Final,Y,46.0,1:40,1:30,3:20,250
+DMR - 1200M,DMR,Distance Medley Relay,Relay,1200M,Final,,3:00,6:30,10:00,20:00,260
+DMR - 1600M,DMR,Distance Medley Relay,Relay,1600M,Final,,4:00,10:00,10:00,20:00,260
+DMR - 400M,DMR,Distance Medley Relay,Relay,400M,Final,,46.0,1:40,10:00,20:00,260
+DMR - 800M,DMR,Distance Medley Relay,Relay,800M,Final,,1:50,4:20,10:00,20:00,260
+4X100M Shuttle Hurdle,4X100M Shuttle Hurdle,4x100m Shuttle Hurdle Relay,Relay,,Final,Y,13.0,30.0,52.0,1:50,270
+4X110M Shuttle Hurdle,4X110M Shuttle Hurdle,4x110m Shuttle Hurdle Relay,Relay,,Final,Y,13.5,30.0,54.0,1:50,271
+4X100M Throwers,4X100M Throwers,4x100m Throwers Relay,Relay,,Final,Y,9.5,20.0,41.0,1:30,272
+4X200M Mixed,4X200M Mixed,Mixed 4x200m Relay,Relay,,Final,Y,20.5,40.0,1:26,2:30,280
+4X400M Mixed,4X400M Mixed,Mixed 4x400m Relay,Relay,,Final,Y,46.0,1:40,3:15,6:30,281
+4X800M Mixed,4X800M Mixed,Mixed 4x800m Relay,Relay,,Final,,1:50,4:20,7:40,16:00,282
+3 x HJ Relay,3 x HJ Relay,High Jump Relay (3),Field Relay,,Final,,3-0,7-0,9-0,21-0,300
+3 x PV Relay,3 x PV Relay,Pole Vault Relay (3),Field Relay,,Final,,5-0,17-0,15-0,51-0,310
+3 x LJ Relay,3 x LJ Relay,Long Jump Relay (3),Field Relay,,Final,,8-0,25-0,24-0,75-0,320
+3 x SP Relay,3 x SP Relay,Shot Put Relay (3),Field Relay,,Final,,10-0,65-0,30-0,195-0,330
+3 x DT Relay,3 x DT Relay,Discus Relay (3),Field Relay,,Final,,30-0,200-0,90-0,600-0,340
+2 x HJ Relay,2 x HJ Relay,High Jump Relay (2),Field Relay,,Final,,3-0,7-0,6-0,14-0,350
+2 x PV Relay,2 x PV Relay,Pole Vault Relay (2),Field Relay,,Final,,5-0,17-0,10-0,34-0,360
+2 x LJ Relay,2 x LJ Relay,Long Jump Relay (2),Field Relay,,Final,,8-0,25-0,16-0,50-0,370
+2 x SP Relay,2 x SP Relay,Shot Put Relay (2),Field Relay,,Final,,10-0,65-0,20-0,130-0,380
+2 x DT Relay,2 x DT Relay,Discus Relay (2),Field Relay,,Final,,30-0,200-0,60-0,400-0,390
+100 Yard Dash,100Y,100 Yard Dash,Running,,Final,Y,9.0,16.0,,,900
+100 Yards,100Y,100 Yard Dash,Running,,Final,Y,9.0,16.0,,,900
+100 Yd Dash,100Y,100 Yard Dash,Running,,Final,Y,9.0,16.0,,,900
+100 yd,100Y,100 Yard Dash,Running,,Final,Y,9.0,16.0,,,900
+100Y,100Y,100 Yard Dash,Running,,Final,Y,9.0,16.0,,,900
+220 Yard Dash,220Y,220 Yard Dash,Running,,Final,Y,20.0,35.0,,,905
+220 Yards,220Y,220 Yard Dash,Running,,Final,Y,20.0,35.0,,,905
+220 yd,220Y,220 Yard Dash,Running,,Final,Y,20.0,35.0,,,905
+220Y,220Y,220 Yard Dash,Running,,Final,Y,20.0,35.0,,,905
+440 Yard Dash,440Y,440 Yard Dash,Running,,Final,Y,46.0,1:30,,,910
+440 Yards,440Y,440 Yard Dash,Running,,Final,Y,46.0,1:30,,,910
+440 yd,440Y,440 Yard Dash,Running,,Final,Y,46.0,1:30,,,910
+440Y,440Y,440 Yard Dash,Running,,Final,Y,46.0,1:30,,,910
+880 Yard Run,880Y,880 Yard Run,Running,,Final,,1:50,3:30,,,915
+880 Yards,880Y,880 Yard Run,Running,,Final,,1:50,3:30,,,915
+880 yd,880Y,880 Yard Run,Running,,Final,,1:50,3:30,,,915
+880Y,880Y,880 Yard Run,Running,,Final,,1:50,3:30,,,915
+Half Mile,880Y,880 Yard Run,Running,,Final,,1:50,3:30,,,915
+1 Mile,Mile,Mile Run,Running,,Final,,4:00,8:00,,,920
+Mile,Mile,Mile Run,Running,,Final,,4:00,8:00,,,920
+Mile Run,Mile,Mile Run,Running,,Final,,4:00,8:00,,,920
+One Mile Run,Mile,Mile Run,Running,,Final,,4:00,8:00,,,920
+2 Mile,2 Mile,Two Mile Run,Running,,Final,,8:40,16:00,,,925
+2 Mile Run,2 Mile,Two Mile Run,Running,,Final,,8:40,16:00,,,925
+Two Mile Run,2 Mile,Two Mile Run,Running,,Final,,8:40,16:00,,,925
+Two Miles Run,2 Mile,Two Mile Run,Running,,Final,,8:40,16:00,,,925
+80 Yard Hurdles,80YH,80 Yard Hurdles,Running,,Final,Y,10.0,18.0,,,930
+80 Yard Low Hurdles,80YH,80 Yard Hurdles,Running,,Final,Y,10.0,18.0,,,930
+80 yd hurdles,80YH,80 Yard Hurdles,Running,,Final,Y,10.0,18.0,,,930
+80YH,80YH,80 Yard Hurdles,Running,,Final,Y,10.0,18.0,,,930
+120 Yard High Hurdles,120YHH,120 Yard High Hurdles,Running,,Final,Y,13.0,25.0,,,935
+120 Yard Hurdles,120YHH,120 Yard High Hurdles,Running,,Final,Y,13.0,25.0,,,935
+120 yd HH,120YHH,120 Yard High Hurdles,Running,,Final,Y,13.0,25.0,,,935
+120YHH,120YHH,120 Yard High Hurdles,Running,,Final,Y,13.0,25.0,,,935
+180 Yard Hurdles,180YLH,180 Yard Low Hurdles,Running,,Final,Y,18.0,30.0,,,940
+180 Yard Low Hurdles,180YLH,180 Yard Low Hurdles,Running,,Final,Y,18.0,30.0,,,940
+180 yd LH,180YLH,180 Yard Low Hurdles,Running,,Final,Y,18.0,30.0,,,940
+180YLH,180YLH,180 Yard Low Hurdles,Running,,Final,Y,18.0,30.0,,,940
+330 Yard Hurdles,330YIH,330 Yard Intermediate Hurdles,Running,,Final,Y,36.0,1:10,,,945
+330 Yard Intermediate Hurdles,330YIH,330 Yard Intermediate Hurdles,Running,,Final,Y,36.0,1:10,,,945
+330 yd IH,330YIH,330 Yard Intermediate Hurdles,Running,,Final,Y,36.0,1:10,,,945
+330YIH,330YIH,330 Yard Intermediate Hurdles,Running,,Final,Y,36.0,1:10,,,945
+440 Yard Relay,440Y Relay,440 Yard Relay,Relay,,Final,Y,9.0,16.0,42.0,1:10,950
+440Y Relay,440Y Relay,440 Yard Relay,Relay,,Final,Y,9.0,16.0,42.0,1:10,950
+4X110Y,440Y Relay,440 Yard Relay,Relay,,Final,Y,9.0,16.0,42.0,1:10,950
+4x110 Yard Relay,440Y Relay,440 Yard Relay,Relay,,Final,Y,9.0,16.0,42.0,1:10,950
+4X220Y,880Y Relay,880 Yard Relay,Relay,,Final,Y,20.0,35.0,1:28,2:30,955
+4x220 Yard Relay,880Y Relay,880 Yard Relay,Relay,,Final,Y,20.0,35.0,1:28,2:30,955
+880 Yard Relay,880Y Relay,880 Yard Relay,Relay,,Final,Y,20.0,35.0,1:28,2:30,955
+880Y Relay,880Y Relay,880 Yard Relay,Relay,,Final,Y,20.0,35.0,1:28,2:30,955
+4X440Y,Mile Relay,Mile Relay,Relay,,Final,Y,46.0,1:30,3:15,6:00,960
+4x440 Yard Relay,Mile Relay,Mile Relay,Relay,,Final,Y,46.0,1:30,3:15,6:00,960
+Mile Relay,Mile Relay,Mile Relay,Relay,,Final,Y,46.0,1:30,3:15,6:00,960
+One Mile Relay,Mile Relay,Mile Relay,Relay,,Final,Y,46.0,1:30,3:15,6:00,960
+2 Mile Relay,2 Mile Relay,Two Mile Relay,Relay,,Final,,1:50,3:30,7:45,14:00,965
+4X880Y,2 Mile Relay,Two Mile Relay,Relay,,Final,,1:50,3:30,7:45,14:00,965
+4x880 Yard Relay,2 Mile Relay,Two Mile Relay,Relay,,Final,,1:50,3:30,7:45,14:00,965
+Two Mile Relay,2 Mile Relay,Two Mile Relay,Relay,,Final,,1:50,3:30,7:45,14:00,965
+880 Medley Relay,880Y Medley Relay,880 Yard Medley Relay,Relay,,Final,Y,9.0,1:30,1:40,2:40,970
+880 Yard Medley Relay,880Y Medley Relay,880 Yard Medley Relay,Relay,,Final,Y,9.0,1:30,1:40,2:40,970
+880Y Medley Relay,880Y Medley Relay,880 Yard Medley Relay,Relay,,Final,Y,9.0,1:30,1:40,2:40,970
+SMR,SMR,Sprint Medley Relay,Relay,,Final,Y,9.5,1:40,1:30,3:20,250
+DMR,DMR,Distance Medley Relay,Relay,,Final,,46.0,10:00,10:00,20:00,260

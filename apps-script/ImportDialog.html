@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<base target="_top">
+<style>
+  body { font-family: Arial, sans-serif; font-size: 13px; color: #222; margin: 4px; }
+  fieldset { border: 0; padding: 0; margin: 0 0 12px; }
+  legend, label.lbl { font-weight: bold; display: block; margin-bottom: 6px; }
+  .row { display: flex; gap: 16px; }
+  textarea { width: 100%; height: 140px; font-family: monospace; font-size: 11px; }
+  button { background: #e35a0c; color: #fff; border: 0; padding: 8px 16px; border-radius: 4px; font-weight: bold; cursor: pointer; }
+  button:disabled { background: #bbb; }
+  #msg { margin-top: 12px; line-height: 1.45; }
+  .err { color: #a3261b; }
+  .muted { color: #666; }
+</style>
+</head>
+<body>
+  <p class="muted">In Track Central, print <b>All Career Performances</b> for one team and save it as a text file. Import boys and girls separately. Results already in the sheet are skipped.</p>
+  <p class="muted">For points, print <b>Scoring Performances</b> for one team and season and import it the same way (the team is read from the report). It fills in Place and Points on results already in the sheet, so import the season's results first.</p>
+  <fieldset>
+    <legend>Team</legend>
+    <div class="row">
+      <label><input type="radio" name="g" value="Boys"> Boys</label>
+      <label><input type="radio" name="g" value="Girls"> Girls</label>
+    </div>
+  </fieldset>
+  <label class="lbl" for="file">Choose the export file</label>
+  <input type="file" id="file" accept=".txt,text/plain">
+  <p class="muted" style="margin:10px 0 4px">…or paste its contents here:</p>
+  <textarea id="paste" placeholder="Paste the export text"></textarea>
+  <p><button id="go">Import</button></p>
+  <div id="msg"></div>
+<script>
+  var go = document.getElementById('go'), msg = document.getElementById('msg');
+  function gender() { var c = document.querySelector('input[name=g]:checked'); return c ? c.value : ''; }
+  function send(text) {
+    go.disabled = true; msg.className = ''; msg.textContent = 'Importing… this can take up to a minute for a full history.';
+    google.script.run
+      .withSuccessHandler(function (r) {
+        go.disabled = false;
+        if (r.scoring) {
+          var t = '<b>' + r.team + ' ' + r.season + ' scoring:</b> ' + r.matched + ' of ' + r.found + ' scoring performances matched, ' + r.places + ' places filled in.';
+          if (r.unmatched.length) t += '<br><span class="err">Not found in Results (import the season\'s All Career Performances first, or check the name/mark):<br>' + r.unmatched.slice(0, 15).join('<br>') + (r.unmatched.length > 15 ? '<br>…and ' + (r.unmatched.length - 15) + ' more' : '') + '</span>';
+          msg.innerHTML = t + '<br><br>The website picks this up tonight, or use Track Records &gt; Publish website now.';
+          return;
+        }
+        var s = '<b>' + r.added.toLocaleString() + '</b> new results added (' + r.found.toLocaleString() + ' in the file).';
+        if (r.athletes) s += '<br>' + r.athletes + ' new athletes added to the Athletes tab.';
+        if (r.meets) s += '<br>' + r.meets + ' new meet names added to the Meets tab.';
+        if (r.unknownEvents.length) s += '<br><span class="err">These events aren\'t in the Events tab yet: ' + r.unknownEvents.join(', ') + '. Add a row for each so the website can use them.</span>';
+        s += '<br><br>The website picks this up tonight, or use Track Records &gt; Publish website now.';
+        msg.innerHTML = s;
+      })
+      .withFailureHandler(function (e) { go.disabled = false; msg.className = 'err'; msg.textContent = e.message; })
+      .importTrackCentral(text, gender());
+  }
+  go.onclick = function () {
+    var f = document.getElementById('file').files[0], t = document.getElementById('paste').value;
+    if (!gender() && !/Scoring Performances/i.test(t.slice(0, 300)) && !f) { msg.className = 'err'; msg.textContent = 'Pick Boys or Girls first.'; return; }
+    if (f) { var rd = new FileReader(); rd.onload = function () { send(rd.result); }; rd.readAsText(f); }
+    else if (t.trim()) send(t);
+    else { msg.className = 'err'; msg.textContent = 'Choose the export file or paste its text.'; }
+  };
+</script>
+</body>
+</html>

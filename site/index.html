@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Green Track &amp; Field Record Book</title>
+<meta name="description" content="All-time results, school records, top lists and athlete histories for Green High School track and field.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800;900&family=Barlow:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<!--BODY-->
+<header class="masthead">
+  <div class="mast-inner">
+    <a class="brand" href="#/">
+      <span class="brand-school">Green Bulldogs</span>
+      <span class="brand-title">Track &amp; Field Record Book</span>
+    </a>
+    <div class="search">
+      <label class="sr-only" for="q">Search athletes, events and meets</label>
+      <input id="q" type="search" placeholder="Search athletes, events, meets…" aria-controls="qres" autocomplete="off">
+      <div id="qres" class="qres" hidden></div>
+    </div>
+  </div>
+</header>
+<div class="track">
+  <nav class="tabs" aria-label="Sections">
+    <a href="#/" data-tab="home">Records</a>
+    <a href="#/top" data-tab="top">Top Lists</a>
+    <a href="#/relays" data-tab="relays">Relays</a>
+    <a href="#/athletes" data-tab="athletes">Athletes</a>
+    <a href="#/season" data-tab="season">Seasons</a>
+    <a href="#/team" data-tab="team">Team</a>
+    <a href="#/meets" data-tab="meets">Meets</a>
+    <a href="#/fun" data-tab="fun">Fun Stats</a>
+    <a href="#/whatif" data-tab="whatif">What If</a>
+    <a href="#/about" data-tab="about">About</a>
+  </nav>
+</div>
+<main id="app" class="wrap" tabindex="-1"><p class="loading">Loading the record book…</p></main>
+<footer class="wrap foot" id="foot"></footer>
+<div id="tip" class="tip" hidden></div>
+<button type="button" id="totop" class="totop" aria-label="Back to top" hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5l-7 7m7-7l7 7M12 5v14" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+<script src="app.js"></script>
+<!--/BODY-->
+</body>
+</html>

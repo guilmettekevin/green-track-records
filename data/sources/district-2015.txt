@@ -1,0 +1,565 @@
+Boys 100 Meter Dash
+
+PLACE ATHLETE TEAM MARK
+1 Deionne Harper JR Mass. Washington 10.84
+2 Andrae Martin SR Coventry 11.23
+3 Jacob Myers JR Uniontown Lake 11.32
+4 Marquise Blair SR Wooster 11.39
+5 Maurice Norwood SR Canton McKinley 11.40
+6 Justice Kemp JR Mass. Washington 11.56
+7 Dusty Burkhart SO Coventry 11.58
+8 Micos Green FR GlenOak 11.59
+Girls 100 Meter Dash
+
+PLACE ATHLETE TEAM MARK
+1 Malia Turley SR Mass. Washington 12.27
+2 Amanda Wightman SR Coventry 12.35
+3 Jessica Hart SR Uniontown Lake 12.59
+4 Lindsey Fisher SR Hoover 12.69
+5 Megan Mayle FR Canton McKinley 12.80
+6 Sabrianna Lever SR GlenOak 12.83
+7 Leiah Lewis SO GlenOak 12.89
+8 Daijah Ming FR Canton McKinley 12.92
+Boys 200 Meter Dash
+
+PLACE ATHLETE TEAM MARK
+1 Austin Jasinski SO Mass. Washington 21.93
+2 Deionne Harper JR Mass. Washington 22.01
+3 Paul Murray JR GlenOak 22.22
+4 Zack Lake SR Coventry 22.51
+5 Maurice Norwood SR Canton McKinley 23.04
+6 Micos Green FR GlenOak 23.52
+7 Andrew Turner SO Uniontown Lake 23.60
+8 Jacob Myers JR Uniontown Lake 23.84
+Girls 200 Meter Dash
+
+PLACE ATHLETE TEAM MARK
+1 Malia Turley SR Mass. Washington 24.99
+2 Amanda Wightman SR Coventry 25.03
+3 Faith Strickland SR Mass. Perry 26.16
+4 Gracie Hendricks SO GlenOak 26.49
+5 Alexis Shearer SO Louisville 26.50
+6 Selena Pantoja SO Canton McKinley 26.65
+7 Lindsey Fisher SR Hoover 26.88
+8 Spenzer Hunter FR GlenOak 27.00
+Boys 400 Meter Dash
+
+PLACE ATHLETE TEAM MARK
+1 Zack Lake SR Coventry 50.11
+2 Mark Worley SO Hoover 51.51
+3 Gage Feola SO GlenOak 51.69
+4 Tyler Howell SR Hoover 52.05
+5 Sam Hyde JR Mass. Jackson 52.10
+6 Nidal Boutros SR Mass. Jackson 53.38
+7 Jaret Skaggs JR Coventry 53.90
+8 Steven Ashcraft SO Canton McKinley 54.70
+Girls 400 Meter Dash
+
+PLACE ATHLETE TEAM MARK
+1 Jetaiya Smith SR GlenOak 57.88
+2 Faith Strickland SR Mass. Perry 59.54
+3 Selena Pantoja SO Canton McKinley 59.66
+4 Hailey Miller SO Louisville 1:00.96
+5 Ally Michel SO Hoover 1:01.70
+6 Landry Carneal SO Uniontown Lake 1:02.24
+7 Azure Curtis FR Canton McKinley 1:02.56
+8 Sydney Sleek SR Wooster 1:02.98
+Boys 800 Meter Run
+
+PLACE ATHLETE TEAM MARK
+1 Kevin White SR Wooster 1:56.66
+2 Alex Nupp JR GlenOak 1:58.08
+3 Nick Chaplik SO Louisville 1:58.26
+4 Brett Miller SR Mass. Jackson 1:58.55
+5 Christopher Cannon SO Wooster 1:58.56
+6 Harrison Hollon SR Hoover 1:59.95
+7 Tyrus Jones SR Mass. Jackson 2:01.31
+8 Dakota Noble SR Uniontown Lake 2:03.10
+9 Zach Devries SR GlenOak 2:03.26
+10 Noah Murray SO Louisville 2:04.21
+11 Joe Zwick SO Uniontown Lake 2:06.13
+12 Josh White SR Mass. Perry 2:07.11
+13 Nick Powell JR Canton McKinley 2:07.29
+14 Nate Skaggs FR Coventry 2:07.75
+15 Steven Ashcraft SO Canton McKinley 2:12.96
+Girls 800 Meter Run
+
+PLACE ATHLETE TEAM MARK
+1 Grace Werren SO GlenOak 2:23.28
+2 Alexandria Dutton SR Uniontown Lake 2:24.07
+3 Taylor Wilson SR Mass. Perry 2:24.48
+4 Isabelle Cannon SO Wooster 2:25.34
+5 Miriam Blaine JR Green 2:27.23
+6 Madison Kile SO Hoover 2:28.89
+7 Andrea Hufstetler FR Mass. Perry 2:30.77
+8 Sydney Schmidt SO Green 2:30.90
+9 Gigi Kinney SO Mass. Jackson 2:32.28
+10 Lauren Meredith FR Canton McKinley 2:35.22
+11 Georgia Kiko SO Louisville 2:35.59
+12 Mimi Wiles FR Wooster 2:36.05
+13 Hope Wagner SR GlenOak 2:41.01
+14 Brianna Horton FR Louisville 2:42.08
+15 Jessica Grant-thompson JR Ak. Garfield 2:44.19
+16 Talicity Marshall FR Canton McKinley 2:47.05
+Boys 1600 Meter Run
+
+PLACE ATHLETE TEAM MARK
+1 Kevin White SR Wooster 4:19.61
+2 Jacob Kernell SR Uniontown Lake 4:22.11
+3 Grant Holland SR GlenOak 4:29.56
+4 Ben Tornow JR Louisville 4:31.18
+5 Noah Schaub SR Green 4:34.49
+6 Seth Gronow FR Louisville 4:38.95
+7 Jaylon Grimes SO Mass. Jackson 4:40.57
+8 Connor Niro FR Wooster 4:41.18
+9 Nick Beule SR GlenOak 4:41.52
+10 Nick Powell JR Canton McKinley 4:44.85
+11 Daniel Cronk SO Mass. Perry 4:46.95
+12 Alex Ryan SR Mass. Perry 4:48.85
+13 Evan Davenport JR Coventry 4:52.37
+14 Zach Napholz JR Hoover 4:52.79
+15 Jamarcus Hudson SO Timken 4:55.17
+16 Spencer Wirick SR Uniontown Lake 4:56.23
+17 Jaegar Cook SR Hoover 4:56.63
+18 Drew Woods JR Ak. East 4:58.97
+19 Will Morisak SR Coventry 5:04.42
+20 Antwon Young FR Mass. Washington 5:22.18
+21 Mason Lloyd SO Mass. Washington 5:30.84
+22 Jaylin Tabler FR Barberton 5:31.40
+23 Logan Seifert SR Barberton 5:51.82
+Girls 1600 Meter Run
+
+PLACE ATHLETE TEAM MARK
+1 Alyssa Thomas JR Green 5:12.87
+2 Hannah Thompson SR GlenOak 5:19.36
+3 Hannah Werren SO GlenOak 5:20.16
+4 Greta Taylor JR Mass. Jackson 5:20.39
+5 Alexandria Dutton SR Uniontown Lake 5:23.54
+6 Madison Kile SO Hoover 5:25.55
+7 Miriam Blaine JR Green 5:29.92
+8 Kasie Perretta SO Mass. Perry 5:34.35
+9 Carlie Perretta SR Mass. Perry 5:38.49
+10 Maureen Mckeown SO Wooster 5:39.42
+11 Brianna Horton FR Louisville 5:50.26
+12 Sarah Lairson SO Louisville 5:51.77
+13 Lexi Johnson SR Hoover 5:56.28
+14 Lenna Neokratis SR Wooster 5:58.41
+15 Carolyn Bullock JR Coventry 5:59.75
+16 Dot Muren SO Barberton 6:07.92
+17 Erin Ball SO Canton South 6:12.53
+18 Jada Jones JR Timken 6:16.96
+19 Anna Schafer SR Uniontown Lake 6:17.48
+20 Michaela Gifford JR Mass. Washington 6:23.24
+21 Hannah Frazee SO Barberton 6:37.62
+22 Brittany Cooley SO Mass. Washington 7:02.46
+Boys 3200 Meter Run
+
+PLACE ATHLETE TEAM MARK
+1 Jacob Kernell SR Uniontown Lake 9:36.54
+2 Noah Chaplik SO Louisville 9:37.43
+3 Conner Delahanty SO Uniontown Lake 9:43.10
+4 Johnny Stevenson SO Mass. Perry 9:43.70
+5 Matthew Chidsey SO Wooster 9:49.48
+6 Jared Fehlman SR Mass. Jackson 9:52.98
+7 Josh Duffie SR GlenOak 9:55.08
+8 Nate Mallue JR Mass. Jackson 9:55.99
+9 Zach Fresenko SO Louisville 9:56.50
+10 Cole Morris SO Mass. Perry 10:22.61
+11 Jared Cline JR Green 10:31.39
+12 Zach Buchholz SR Wooster 10:32.81
+13 Zach Napholz JR Hoover 10:42.40
+14 Jason Nagy SO GlenOak 10:45.72
+15 Alex Art SR Hoover 10:54.53
+16 Sam Neugebauer SR Coventry 11:03.66
+17 Ryan Sacher JR Barberton 12:37.72
+18 Tyler Mitchell FR Barberton 12:56.73
+Girls 3200 Meter Run
+
+PLACE ATHLETE TEAM MARK
+1 Alyssa Thomas JR Green 11:28.49
+2 Hannah Thompson SR GlenOak 11:42.12
+3 Madelyn Bartolone FR Mass. Perry 11:44.75
+4 Anna Fash SR Wooster 11:59.14
+5 Greta Taylor JR Mass. Jackson 12:10.67
+6 Emma Harmon SO GlenOak 12:19.01
+7 Sydney Greven FR Green 12:23.57
+8 Jordan Floyd JR Mass. Jackson 12:24.19
+9 Lauren Kile SO Hoover 12:27.39
+10 Sydnee Fenn SR Mass. Perry 12:31.45
+11 Shelby Vacha SR Louisville 12:31.68
+12 Jamie Chovan SR Hoover 12:33.37
+13 Natalie Perry SO Canton McKinley 12:36.53
+14 Tracy Morgan SO Wooster 12:54.23
+15 Samantha Minor SO Uniontown Lake 13:13.43
+16 Dot Muren SO Barberton 13:14.76
+17 Megan Harris SR Canton South 13:32.16
+18 Carolyn Bullock JR Coventry 13:33.69
+19 Isabel Kiko JR Louisville 13:45.95
+20 Andrea Dixon FR Uniontown Lake 13:57.37
+Girls 100 Meter Hurdles
+
+PLACE ATHLETE TEAM MARK
+1 Karrah Spencer SO Mass. Washington 15.56
+2 Brynn Guist SO Louisville 16.01
+3 Allissa Bury SR GlenOak 16.03
+4 Kimberly Kramer FR Green 16.11
+5 Jacquelya Mitchell SR Canton McKinley 16.57
+6 Jordan Delauder SO Canton South 16.66
+7 Madison Novosel SO Louisville 16.75
+8 Aiche N'diaye SR Wooster 17.13
+Boys 110 Meter Hurdles
+
+PLACE ATHLETE TEAM MARK
+1 Kyle Hall FR GlenOak 14.17
+2 Matt Peare SO Hoover 14.56
+3 Maurice Norwood SR Canton McKinley 14.89
+4 Hason Larson JR GlenOak 14.92
+5 Isaiah Hunter SO Canton McKinley 15.10
+6 Kobe Russell JR Wooster 15.44
+7 Josh Dunham SR Wooster 15.72
+8 Nick Christensen SR Mass. Jackson 15.91
+Boys 300 Meter Hurdles
+
+PLACE ATHLETE TEAM MARK
+1 Kyle Hall FR GlenOak 39.61
+2 Pierlus Burton SO GlenOak 40.80
+3 Tremayne Collins JR Coventry 41.25
+4 Isaiah Hunter SO Canton McKinley 41.34
+5 Josh Dunham SR Wooster 41.92
+6 Nick Christensen SR Mass. Jackson 43.21
+7 Brandon Reynolds SR Louisville 43.31
+Girls 300 Meter Hurdles
+
+PLACE ATHLETE TEAM MARK
+1 Dajia Mills SR GlenOak 45.78
+2 Devin Kring JR Louisville 47.58
+3 Indy Clark SR Mass. Washington 48.14
+4 Jaleia Jones SO Timken 48.54
+5 Jacquelya Mitchell SR Canton McKinley 48.76
+6 Jessica Ezeji JR Wooster 49.17
+7 Brynn Guist SO Louisville 49.99
+Boys 4x100 Meter Relay
+
+PLACE TEAM MARK
+1 Mass. Washington 42.94
+2 GlenOak 43.52
+3 Canton McKinley 44.60
+4 Uniontown Lake 44.84
+5 Mass. Perry 45.04
+6 Wooster 45.12
+7 Coventry 45.97
+Girls 4x100 Meter Relay
+
+PLACE TEAM MARK
+1 Mass. Washington 50.00
+2 GlenOak 50.26
+3 Uniontown Lake 51.44
+4 Mass. Jackson 51.51
+5 Canton South 51.88
+6 Green 52.91
+7 Louisville 53.23
+Boys 4x200 Meter Relay
+
+PLACE TEAM MARK
+1 Mass. Washington 1:29.76
+2 GlenOak 1:31.38
+3 Coventry 1:32.44
+4 Canton McKinley 1:32.95
+5 Green 1:33.76
+6 Mass. Jackson 1:33.86
+7 Uniontown Lake 1:34.90
+8 Louisville 1:36.84
+Girls 4x200 Meter Relay
+
+PLACE TEAM MARK
+1 GlenOak 1:43.61
+2 Mass. Washington 1:45.85
+3 Louisville 1:48.13
+4 Canton McKinley 1:48.47
+5 Uniontown Lake 1:48.95
+6 Green 1:49.18
+7 Hoover 1:49.85
+8 Timken 1:51.05
+Boys 4x400 Meter Relay
+
+PLACE TEAM MARK
+1 GlenOak 3:26.26
+2 Coventry 3:30.45
+3 Hoover 3:30.56
+4 Mass. Jackson 3:31.08
+5 Uniontown Lake 3:31.96
+6 Canton McKinley 3:34.57
+7 Green 3:34.93
+8 Mass. Washington 3:35.34
+Girls 4x400 Meter Relay
+
+PLACE TEAM MARK
+1 GlenOak 4:03.45
+2 Canton McKinley 4:09.87
+3 Uniontown Lake 4:12.48
+4 Wooster 4:12.62
+5 Green 4:13.22
+6 Hoover 4:15.21
+7 Louisville 4:16.26
+8 Mass. Perry 4:19.80
+Boys 4x800 Meter Relay
+
+PLACE TEAM MARK
+1 Wooster 8:01.12
+2 Louisville 8:01.84
+3 GlenOak 8:03.25
+4 Uniontown Lake 8:03.35
+5 Mass. Jackson 8:05.44
+6 Hoover 8:18.11
+7 Mass. Perry 8:30.16
+8 Green 8:30.62
+9 Coventry 8:36.30
+10 Mass. Washington 8:42.65
+Girls 4x800 Meter Relay
+
+PLACE TEAM MARK
+1 GlenOak 9:43.45
+2 Mass. Perry 10:03.33
+3 Wooster 10:04.35
+4 Hoover 10:13.59
+5 Louisville 10:32.21
+6 Mass. Jackson 10:34.85
+7 Canton McKinley 10:35.47
+8 Uniontown Lake 11:13.92
+9 Coventry 11:55.75
+Boys High Jump
+
+PLACE ATHLETE TEAM MARK
+1 Lance Thornton SR GlenOak 6-4
+2 Zaybreyon Perry SO Canton McKinley 6-4
+3 Josh Dunham SR Wooster 6-2
+4 Keishaun Sims JR Mass. Perry 6-2
+5 Marquesz Franks SR Ak. Garfield 6-2
+6 Joe Stambolzioski FR Mass. Jackson 6-0
+7 Nick Jones JR Coventry 6-0
+8 Xavier Hatchett JR Canton McKinley 5-10
+9 Dillan Raines SO Coventry 5-10
+10 Dan Phillips SR Louisville 5-8
+10 Sterling Jones JR Mass. Washington 5-8
+10 Kregg Jackson SO Mass. Jackson 5-8
+10 Noah Pritchard SO Green 5-8
+10 J'tahn Hampton JR GlenOak 5-8
+10 Corey Konigsberger JR Uniontown Lake 5-8
+16 Caleb Robinson SR Timken 5-6
+Girls High Jump
+
+PLACE ATHLETE TEAM MARK
+1 Dajia Mills SR GlenOak 5-4
+2 Jessica Monroe JR Mass. Washington 5-2
+3 Karrah Spencer SO Mass. Washington 5-0
+4 Brandie Snow JR Uniontown Lake 5-0
+5 Allissa Bury SR GlenOak 4-10
+6 Jordan Delauder SO Canton South 4-8
+6 Hannah Philippi SO Canton South 4-8
+8 Madelynn Stowe FR Green 4-8
+9 Haley Jenkins SR Green 4-8
+9 Brynn Guist SO Louisville 4-8
+9 Amber Ash SR Uniontown Lake 4-8
+9 Anna Alkire SR Mass. Jackson 4-8
+9 Stephanie Walton SR Wooster 4-8
+9 Marganne Byers SR Coventry 4-8
+9 Caroline Voegele JR Hoover 4-8
+9 Sarah Weeks FR Wooster 4-8
+17 Autumn Strickland SR Timken 4-6
+17 Naudier Becton FR Mass. Jackson 4-6
+17 Vanessa Janssen JR Coventry 4-6
+17 Hannah Volpe SO Mass. Perry 4-6
+17 Savannah Biss SR Hoover 4-6
+Boys Long Jump
+
+PLACE ATHLETE TEAM MARK
+1 Austin Jasinski SO Mass. Washington 23-1.5
+2 Eric Glover-williams SR Canton McKinley 22-10.5
+3 Marquise Blair SR Wooster 22-1
+4 Keishaun Sims JR Mass. Perry 21-0.5
+5 Loren Bell SR GlenOak 20-7
+6 Hason Larson JR GlenOak 20-5.5
+7 Zaybreyon Perry SO Canton McKinley 19-11
+8 Sebastian Weaver JR Mass. Jackson 19-10.5
+9 Tyler Howell SR Hoover 19-2.5
+10 Devon Scott SO Mass. Jackson 19-1
+11 Marcus Brittain SR Mass. Perry 18-11.5
+12 Dominique Robinson SO Timken 18-9
+13 Dillan Raines SO Coventry 18-8
+14 Josh Dunham SR Wooster 18-6.5
+15 William Cvammen SR Green 18-6
+16 Daylin Haines SR Ak. Garfield 18-1
+17 Nick Jones JR Coventry 17-10
+18 Nicholas Bruner SR Uniontown Lake 16-11.5
+19 Walter Schrock SR Louisville 16-11
+20 Klay Moll FR Mass. Washington 16-5
+21 Drew Murphy SO Barberton 15-11
+22 Zach Grimm FR Barberton 13-9
+23 Eric Juarez JR Uniontown Lake 13-4
+Girls Long Jump
+
+PLACE ATHLETE TEAM MARK
+1 Indy Clark SR Mass. Washington 17-11
+2 Stephanie Walton SR Wooster 17-6.5
+3 Autumn Strickland SR Timken 17-6
+4 Faith Strickland SR Mass. Perry 16-9.5
+5 Megan Mayle FR Canton McKinley 16-9
+6 Brandie Snow JR Uniontown Lake 16-5.5
+7 Sydney Riffle SO Green 16-5
+8 Ally Michel SO Hoover 16-2
+9 Jessica Monroe JR Mass. Washington 16-1.5
+10 Anna Alkire SR Mass. Jackson 16-0
+11 Morgan Fisher FR Mass. Perry 15-11
+11 Lindsay Robinson SO Hoover 15-11
+13 Allissa Bury SR GlenOak 15-8.5
+14 Jenna Zhu JR Wooster 15-8
+15 Marlena Evans FR Louisville 15-3.5
+16 Kayla Pukys SO Louisville 15-2.5
+17 Aly Wickemeyer SR Mass. Jackson 15-2
+18 Jordan Delauder SO Canton South 14-11.5
+19 Victoria Lamb JR Green 14-7
+20 Chaniah Hall JR Canton McKinley 14-6.5
+20 Anna Morrow SR Canton South 14-6.5
+22 Madison Rekstis FR GlenOak 14-4.5
+23 Desree Clauss JR Uniontown Lake 13-11
+Boys Pole Vault
+
+PLACE ATHLETE TEAM MARK
+1 Matt Peare SO Hoover 16-0
+2 Lucas Kelley JR Mass. Perry 15-4
+3 Ryan Hallbauer JR Green 12-6
+4 Samuel Pollard JR GlenOak 12-0
+5 Brayden Poling SO Mass. Jackson 12-0
+5 Nathan Moraghan SO Uniontown Lake 12-0
+7 Chris Masin SR Hoover 12-0
+7 Max Baker FR Mass. Perry 12-0
+9 Andrew Miller SR GlenOak 12-0
+10 Ian Harty JR Mass. Jackson 11-6
+11 Brandon Moraghan FR Uniontown Lake 11-0
+11 Alex Dodd FR Green 11-0
+13 Zach Dreher FR Wooster 11-0
+14 Michael Moodispaw JR Wooster 10-6
+15 Akil Stokes SO Canton McKinley 10-6
+Girls Pole Vault
+
+PLACE ATHLETE TEAM MARK
+1 Allissa Bury SR GlenOak 12-3
+2 Macee Erickson SO Green 12-3
+3 Alissa Jenkins SR Green 10-0
+4 Elizabeth Weeks JR Wooster 9-6
+5 Hannah Keller SO Hoover 8-6
+6 Taylor Critchfield JR Mass. Jackson 8-6
+7 Rachel Hart SR GlenOak 8-0
+7 Madison Burkey SO Wooster 8-0
+9 Kaitlyn Daiger JR Mass. Jackson 8-0
+10 Nautica Daniels FR Canton McKinley 7-6
+11 Selena Pantoja SO Canton McKinley 7-0
+Boys Discus
+
+PLACE ATHLETE TEAM MARK
+1 Trell Lawson JR Canton McKinley 152-10
+2 Malik Compton JR GlenOak 140-8
+3 Terry Gooch JR Louisville 139-4
+4 Dominick Labriola JR Mass. Perry 137-7
+5 Trenton Riddell JR Green 132-0
+6 Kobie Shephard SR Louisville 131-11
+7 Connor Stermer SR Wooster 127-1
+8 Brennan Hemlick SR Uniontown Lake 126-9
+9 Quentin Anderson SR Uniontown Lake 122-4
+10 David Robinson SR Green 120-2
+10 Zach Arelt SR Mass. Jackson 120-2
+12 Joseph Easley SR Mass. Washington 119-3
+13 Cole Goodman JR Barberton 119-1
+14 Damere Johnson SR Ak. East 116-8
+15 Bruce Wolff SO Hoover 115-6
+16 Jonny Todd JR GlenOak 115-1
+17 Trevor Miller SO Mass. Jackson 114-4
+18 Shane Stevens FR Mass. Washington 114-3
+19 Tyson Jackson SR Wooster 112-6
+20 Matt Burrier SR Hoover 98-11
+Girls Discus
+
+PLACE ATHLETE TEAM MARK
+1 Ann Marie Trissel SR Canton South 131-11
+2 Makayla Hart SR Wooster 120-9
+3 Elizabeth Mogus JR Green 113-5
+4 Miranda West JR Uniontown Lake 112-1
+5 Reece Turley FR Mass. Washington 104-4
+6 Tamyah Stout SO Canton McKinley 103-9
+7 Mackenzie Corrin FR Mass. Perry 103-1
+8 Ashley Onabiyi JR Uniontown Lake 101-8
+9 Heather Baker JR Hoover 100-6
+10 Adrian Evans SO Wooster 97-11
+11 Alexa Carpenter SO Mass. Perry 95-7
+12 Olivia Hurtt FR Mass. Jackson 94-9
+13 Mykah Ulrich SR Louisville 93-7
+14 Hailey Ruth SR Green 92-8
+15 Laurren Payton SR Hoover 91-10
+16 Sabrina Zanin JR Mass. Washington 90-9
+17 Madison Rusu JR Mass. Jackson 90-3
+18 Katie Lipster JR GlenOak 84-11
+19 Chelsea Dayton SR Canton South 83-3
+20 Morgan Deless SO GlenOak 81-4
+21 Alyssa Roberts FR Coventry 76-11
+22 Desiree Jackson JR Ak. East 74-11
+23 Alissa Newberry FR Coventry 70-7
+24 Rachel Berlin SO Barberton 62-2
+25 Aaliyah Brunner SR Canton McKinley 61-3
+26 Brittni Lewis JR Barberton 58-10
+Boys Shot Put
+
+PLACE ATHLETE TEAM MARK
+1 Tyson Jackson SR Wooster 52-6.5
+2 Dominick Labriola JR Mass. Perry 51-0.75
+3 Matt Carrick SO Mass. Perry 48-9.25
+4 Rahzul Young JR Louisville 48-4.25
+5 Zach Worthy SR GlenOak 48-2.25
+6 Trell Lawson JR Canton McKinley 48-2
+7 Jonny Todd JR GlenOak 45-4.25
+8 Cole Goodman JR Barberton 44-8.75
+9 Damere Johnson SR Ak. East 44-7.25
+10 Zach Arelt SR Mass. Jackson 44-4.5
+11 Bryce Hargrove JR Coventry 43-8.75
+12 Kobie Shephard SR Louisville 43-8.5
+13 Jacob Hutcherson SO Uniontown Lake 41-7.75
+14 Brennan Hemlick SR Uniontown Lake 41-1.25
+15 Gene Jones SR Mass. Washington 41-0.75
+16 Tristen Pursley SR Green 40-6.75
+17 Patrick Kotnik JR Hoover 40-2.75
+18 Bruce Wolff SO Hoover 40-1.5
+19 Andrew Reo SR Canton McKinley 39-2.75
+20 Tyler Reed SR Green 38-9.75
+21 Seth Folks SO Wooster 37-3.25
+22 Jayson Johnson JR Mass. Washington 36-7.5
+23 Trevor Miller SO Mass. Jackson 36-5
+24 Darius Brown SO Timken 35-7
+25 Travis Thompson JR Barberton 30-8.75
+Girls Shot Put
+
+PLACE ATHLETE TEAM MARK
+1 Miranda West JR Uniontown Lake 39-9.75
+2 Tamyah Stout SO Canton McKinley 36-10
+3 Aaliyah Brunner SR Canton McKinley 35-1.25
+4 Mckhenn Calhoun FR Green 34-6.75
+5 Taylor Ulik SO Hoover 34-5.25
+6 Alexa Carpenter SO Mass. Perry 34-4.75
+7 Ashley Onabiyi JR Uniontown Lake 34-2.75
+8 Heqnia Horner FR Timken 32-6.75
+9 Tamia Ridley FR Mass. Washington 32-4.25
+10 Hannah Yeagley SR Louisville 31-5.25
+11 Katie Lipster JR GlenOak 31-2.25
+12 Ann Marie Trissel SR Canton South 31-1.75
+13 Demi Carrasco JR GlenOak 30-10.75
+14 Abbie Soloninka JR Green 30-6
+15 Madison Rusu JR Mass. Jackson 30-5.75
+16 Olivia Hurtt FR Mass. Jackson 30-4.75
+17 Reece Turley FR Mass. Washington 30-2.5
+18 Heather Baker JR Hoover 29-6
+19 Mackenzie Corrin FR Mass. Perry 29-4.75
+20 Sabrina Chupp SR Wooster 29-4.25
+21 Jema Scott-ward JR Ak. East 29-1.5
+22 Alexis Baer SO Canton South 28-5.25
+23 Alyssa Roberts FR Coventry 24-3.5
+24 Brittni Lewis JR Barberton 23-9.25
+25 Kilea Ward JR Barberton 22-7
+26 Sophia Pegley FR Coventry 20-4.25

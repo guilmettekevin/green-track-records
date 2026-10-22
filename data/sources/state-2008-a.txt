@@ -1,0 +1,840 @@
+Licensed to OHSAA Championship Meet                       Hy-Tek's Meet Manager
+                             2008 OHSAA Division I                             
+                 Jesse Owens Memorial Stadium-Ohio State Univ.                 
+                                    Results                                    
+ 
+Event 2  Boys 4x800 Meter Relay
+=======================================================================
+  State Meet: % 7:41.17  2007        Cleveland Heights                         
+                         *(D. Cowsette/M. Love/S. Watts/J. Hall)           
+State Record: # 7:41.17  2007        Cleveland Heights                         
+                         *(D. Cowsette/M. Love/S. Watts/J. Hall)           
+    School                                               Finals  Points
+=======================================================================
+Section  1  
+  1 Cle. Heights                                        7:41.38   10   
+     1) Sylvester Watts 12              2) Adam Katt 12                   
+     3) Dontave Cowsette 12             4) Jared Hall 12                  
+  2 Reynoldsburg                                        7:44.17    8   
+     1) Ben Humphrey 12                 2) Calvin Garza 11                
+     3) Darryl Murphy 11                4) Mike Knisley 12                
+  3 Strongsville                                        7:45.86    6   
+     1) Aaron Moran 12                  2) Mark Warman 12                 
+     3) Colby Alexander 10              4) Joey Cherico 12                
+  4 Medina                                              7:46.21    5   
+     1) Donny Roys 11                   2) Kent Rankin 12                 
+     3) Tyler Gonzales 10               4) Sam Maynard 12                 
+  5 Hudson                                              7:50.97    4   
+     1) Alex Nye 12                     2) Matt Woods 12                  
+     3) Steve Fischer 11                4) Alex Erdmann 11                
+  6 Centerville                                         7:52.14    3   
+     1) Corey Byron 12                  2) Shawn Roberts 11               
+     3) Robbie Stoecklein 12            4) Eli Husfelt 12                 
+  7 North Canton Hoover                                 7:57.41    2   
+     1) Nick Stroemple 12               2) Adam Stackpole 12              
+     3) Zach Goulet 11                  4) Parker Queen 10                
+  8 Mason                                               7:57.82    1   
+     1) Brendan Caprio 12               2) Tim Huesing 11                 
+     3) Naman Rakheja 12                4) Zach Wills 9                   
+  9 Col. St. Francis DeSales                            8:01.77  
+     1) Vinny Balzano 10                2) Zach Aust 12                   
+     3) Matt Farkas 12                  4) Mike Rutherford 12             
+ 10 Tol. St. John's Jesuit                              8:03.51  
+     1) Brett Wagner 12                 2) Dave Reing 12                  
+     3) Kevin Yarnell 11                4) Joe Miller 12                  
+ 11 Cle. Glenville                                      8:05.73  
+     1) Marvel Brooks 11                2) Ernest Downing 12              
+     3) Quincy Downing 9                4) Marcus Brooks 11               
+ 12 Gr. City Central Crossing                           8:06.08  
+     1) Matt Shaffer 11                 2) Corey Roberts 12               
+     3) Chris Aldea 11                  4) Lucas Murphy 12                
+ 13 Worth. Kilbourne                                    8:11.37  
+     1) Dustin Ubbing 12                2) Philip Bunting 12              
+     3) Ryan Richardson 11              4) John Batchelder 12             
+ 14 Huber Heights Wayne                                 8:11.53  
+     1) Jamichael Lampley 10            2) Joe Harris 12                  
+     3) Ryan Logan 12                   4) Jamin Tunstall 12              
+ 15 Lakewood St. Edward                                 8:12.15  
+     1) Peter Miles 12                  2) Mike Schweisthal 12            
+     3) Matt O'Connor 12                4) Stephen Miles 11               
+ 16 Day. Carroll                                        8:17.01  
+     1) Steve Foreman 9                 2) Joe Janson 12                  
+     3) Chadd Kiggins 9                 4) Andrew Trick 11                
+
+Event 4  Boys 110 Meter Hurdles 39"
+=======================================================================
+  State Meet: % 13.40  2004        Ted Ginn Jr.(Cleveland Glenville)           
+State Record: # 13.30  1990        Chris Nelloms(Dayton Dunbar)                
+    Name                    Year School                  Finals  Points
+=======================================================================
+Section  1 Finals   Wind: -1.2
+  1 516 Terence Somerville    12 Akron Buchte             13.88   10   
+  2 610 Michael Willey        12 Miamisburg               14.18    8   
+  3 521 Tyshaun Peoples       12 Cle. Glenvil             14.22    6   
+  4 140 Dailyn Moore          11 Sandusky                 14.40    5   
+  5 500 Jordan Goffena        12 Sidney                   14.45    4   
+  6 25 Johnnie Legrair        12 Copley                   14.62    3   
+  7 923 Sean Kemmerer         12 Wadsworth                14.68    2   
+  8 539 Austin Curbow         12 Gahanna Linc             14.71    1   
+ 
+Event 4  Boys 110 Meter Hurdles 39"
+================================================================
+8 Advance:  Top 4 Each Heat plus Next 0 Best Times
+  State Meet: % 13.40  2004        Ted Ginn Jr.(Cleveland Glenville)           
+State Record: # 13.30  1990        Chris Nelloms(Dayton Dunbar)                
+    Name                    Year School                 Prelims 
+================================================================
+Heat  1 Preliminaries   Wind: -3.3
+  1 516 Terence Somerville    12 Akron Buchte             14.37Q 
+  2 500 Jordan Goffena        12 Sidney                   14.65Q 
+  3 539 Austin Curbow         12 Gahanna Linc             14.77Q 
+  4 610 Michael Willey        12 Miamisburg               14.80Q 
+  5 915 Matt Jurcak           12 Olmsted Fall             14.92  
+  6 747 Caleb Matthews        11 Young. Board             15.09  
+  7 531 Ruben Belen           12 Medina                   15.21  
+  8 246 Mario Dovell          11 Col. Whetsto             15.29  
+Heat  2 Preliminaries   Wind: -1.9
+  1 521 Tyshaun Peoples       12 Cle. Glenvil             14.42Q 
+  2 25 Johnnie Legrair        12 Copley                   14.56Q 
+  3 140 Dailyn Moore          11 Sandusky                 14.71Q 
+  4 923 Sean Kemmerer         12 Wadsworth                14.84Q 
+  5 502 Garrett Hart          12 Batavia Amel             15.04  
+  6 11 Devaunte Nicholson     12 Canton Timke             15.16  
+  7 6 Aaron Bibbs             12 Day. Dunbar              15.67  
+  8 705 Terrell Carter        12 Col. Indepen             15.74   
+ 
+Event 6  Boys 100 Meter Dash
+=======================================================================
+  State Meet: % 10.50  2006        Brandon Saine(Pigua)                        
+State Record: # 10.38  2006        Brandon Saine(Piqua)                        
+    Name                    Year School                  Finals  Points
+=======================================================================
+Section  1 Finals   Wind: -0.6
+  1 774 James Allen           12 Young. East              10.77   10   
+  2 184 Carlin Isles          12 Massillon Ja             10.78    8   
+  3 215 Princeton Bryson      12 Tol. Bowsher             10.84    6   
+  4 730 DeVier Posey          12 Cin. LaSalle             10.87    5   
+  5 305 Mark Mays             11 Clayton Nort             10.87    4   
+  6 401 Ryan Jones            12 Day. Thurgoo             10.93    3   
+  7 250 Blake Callahan        12 Col. Whetsto             10.98    2   
+  8 741 Kendall Owens         12 Cin. LaSalle             11.14    1  
+ 
+Event 6  Boys 100 Meter Dash
+================================================================
+8 Advance:  Top 4 Each Heat plus Next 0 Best Times
+  State Meet: % 10.50  2006        Brandon Saine(Pigua)                        
+State Record: # 10.38  2006        Brandon Saine(Piqua)                        
+    Name                    Year School                 Prelims 
+================================================================
+Heat  1 Preliminaries   Wind: -3.2
+  1 730 DeVier Posey          12 Cin. LaSalle             10.87Q 
+  2 184 Carlin Isles          12 Massillon Ja             11.03Q 
+  3 250 Blake Callahan        12 Col. Whetsto             11.12Q 
+  4 741 Kendall Owens         12 Cin. LaSalle             11.17Q 
+  5 901 Lase Brooks           12 Akron North              11.19  
+  6 1 Jordan Hoppel           11 North Olmste             11.21  
+  7 967 Ryan Barber           10 Wester. Sout             11.32  
+  8 285 Bryon Ballard         12 Canton McKin             11.37  
+Heat  2 Preliminaries   Wind: -2.6
+  1 215 Princeton Bryson      12 Tol. Bowsher             10.86Q 
+  2 305 Mark Mays             11 Clayton Nort             10.98Q 
+  3 774 James Allen           12 Young. East              11.00Q 
+  4 401 Ryan Jones            12 Day. Thurgoo             11.02Q 
+  5 611 Anthony Chandler      12 Zanesville               11.05  
+  6 512 Blake Heriot          10 Gahanna Linc             11.06  
+  7 121 DeAver Williamson     10 Warren G. Ha             11.29  
+  8 735 Lyndon Anderson       10 Elyria                   11.32
+ 
+Event 8  Boys 4x200 Meter Relay
+=======================================================================
+  State Meet: % 1:25.09  2005        Cleveland Glenville                       
+                         *(D. McBryde/R. Fisher/F. Lenix/A. Evans)         
+State Record: # 1:25.04  2005        Cleveland Glenville                       
+                         *(F. Lenix/R. Fisher/D. McBryde/A. Evans)         
+    School                                               Finals  Points
+=======================================================================
+Section  1 Finals
+  1 Trotwood-Madison                                    1:25.44   10   
+     1) Chris Burrows 12                2) Donte Lyons 12                 
+     3) Derricus Purdy 12               4) William Henry 10               
+  2 Cle. Glenville                                      1:26.48    8   
+     1) Ronald Griffin 11               2) Shane Wynn 9                   
+     3) Cordale Scott 12                4) Tyshaun Peoples 12             
+  3 Cle. Heights                                        1:26.54    6   
+     1) Jonathan Hardy 10               2) Dontave Cowsette 12            
+     3) Bryan Underwood 11              4) Jerrell Settles 11             
+  4 West Chester Lakota West                            1:27.51    5   
+     1) Rashod McClendon 12             2) Bakari Bussey 12               
+     3) David Brown 12                  4) Dwight Phillips 12             
+  5 Day. Dunbar                                         1:27.84    4   
+     1) Terrence Glenn 11               2) Antonio Parks 12               
+     3) Antonio Blanks 9                4) William Oliver 12              
+  6 Lakewood St. Edward                                 1:28.28    3   
+     1) Alex Cameron 11                 2) Derek Larsen 11                
+     3) Mike Schweisthal 12             4) Seth Cunningham 10             
+  7 Col. Whetstone                                      1:28.49    2   
+     1) Blake Callahan 12               2) Mario Dovell 11                
+     3) Jamon Hodges 12                 4) Marcus Penn 10                 
+  8 Tol. Whitmer                                        1:29.56    1   
+     1) Kevin Koger 12                  2) Nicolas Young 12               
+     3) Jeremy Jones 12                 4) Anthony Allen 12               
+ 
+Event 8  Boys 4x200 Meter Relay
+================================================================
+Top 8 Advance by Time
+  State Meet: % 1:25.09  2005        Cleveland Glenville                       
+                         *(D. McBryde/R. Fisher/F. Lenix/A. Evans)         
+State Record: # 1:25.04  2005        Cleveland Glenville                       
+                         *(F. Lenix/R. Fisher/D. McBryde/A. Evans)         
+    School                                              Prelims 
+================================================================
+Heat  1 Preliminaries
+  1 Trotwood-Madison                                    1:26.10q 
+     1) Chris Burrows 12                2) Donte Lyons 12                 
+     3) Derricus Purdy 12               4) William Henry 10               
+  2 Cle. Glenville                                      1:26.60q 
+     1) Ronald Griffin 11               2) Shane Wynn 9                   
+     3) Cordale Scott 12                4) Tyshaun Peoples 12             
+  3 Day. Dunbar                                         1:27.19q 
+     1) Terrence Glenn 11               2) Antonio Parks 12               
+     3) Antonio Blanks 9                4) William Oliver 12              
+  4 Col. Whetstone                                      1:27.68q 
+     1) Blake Callahan 12               2) Mario Dovell 11                
+     3) Jamon Hodges 12                 4) Marcus Penn 10                 
+  5 Tol. Whitmer                                        1:28.27q 
+     1) Kevin Koger 12                  2) Nicolas Young 12               
+     3) Jeremy Jones 12                 4) Anthony Allen 12               
+  6 Col. Independence                                   1:28.50  
+     1) Deon Brown 12                   2) DeAndre Irving 12              
+     3) Luther Nicholas 12              4) Andrey Peake 12                
+  7 Hilliard Darby                                      1:29.29  
+     1) Nate Scales 11                  2) Stephen Wells 12               
+     3) Jordan Rispress 11              4) Tony Nop 11                    
+  8 Shaker Heights                                      1:29.55  
+     1) Perez Ashford 11                2) Matt Laird 11                  
+     3) Roman Lawson 11                 4) Keith Cleveland Jr. 11         
+Heat  2 Preliminaries
+  1 West Chester Lakota West                            1:26.93q 
+     1) Rashod McClendon 12             2) Bakari Bussey 12               
+     3) David Brown 12                  4) Dwight Phillips 12             
+  2 Lakewood St. Edward                                 1:27.82q 
+     1) Alex Cameron 11                 2) Derek Larsen 11                
+     3) Brandon Williams 12             4) Seth Cunningham 10             
+  3 Cle. Heights                                        1:27.85q 
+     1) Jonathan Hardy 10               2) Wael El-Halaby 12              
+     3) Bryan Underwood 11              4) Jerrell Settles 11             
+  4 Sylvania Southview                                  1:28.76  
+     1) James Hall 10                   2) Moe May 10                     
+     3) Barry Ellison 12                4) Bernard Pinckney 11            
+  5 Twinsburg                                           1:28.84  
+     1) Eric Cooper 11                  2) Jalil Bishop 10                
+     3) Shawn Rall 12                   4) Dominic Allen 10               
+  6 Wooster                                             1:29.14  
+     1) D'Metre House 11                2) Jon Graves 10                  
+     3) Quennell Owens 12               4) Jake Buckwalter 12             
+  7 Piqua                                               1:29.39  
+     1) James Dunn 11                   2) Shamar Thomas 12               
+     3) Justin Hemm 12                  4) Mike Mayor 12                  
+  8 Pick. Central                                       1:30.55  
+     1) Ronald Burgess 11               2) Malcolm Pannell 10             
+     3) Patrick White 11                4) James Wood 11         
+ 
+Event 10  Boys 1600 Meter Run
+=======================================================================
+  State Meet: % 4:05.13  1988        Bob Kennedy(Westerville North)            
+State Record: # 4:05.13  1988        Bob Kennedy(Westerville North)            
+    Name                    Year School                  Finals  Points
+=======================================================================
+Section  1  
+  1 390 Danny Neff            11 Vandalia But           4:15.90   10   
+  2 914 Alex Erdmann          11 Hudson                 4:17.22    8   
+  3 151 Joe Miller            12 Tol. St. Joh           4:17.60    6   
+  4 546 Ryan Hershner         11 Lexington              4:18.07    5   
+  5 951 Alex Nye              12 Hudson                 4:18.37    4   
+  6 808 Makorobondo Salukomb  12 Lakewood               4:18.67    3   
+  7 536 Mike Heller           12 Munroe Falls           4:18.72    2   
+  8 501 Andrew Trick          11 Day. Carroll           4:20.02    1   
+  9 236 Holden Marsh          12 Cin. Arc. Mo           4:20.87  
+ 10 120 Kevin Yarnell         11 Tol. St. Joh           4:22.87  
+ 11 665 Dustin Ubbing         12 Worth. Kilbo           4:25.86  
+ 12 548 Chase Beckmann        11 Gahanna Linc           4:26.63  
+ 13 11 Chris Fallon           12 Copley                 4:26.73  
+ 14 932 Kyle Kling            12 Louisville             4:30.17  
+ 15 715 Nate Lonsway          11 Dublin Coffm           4:34.41  
+ -- 844 Corey Byron           12 Centerville                DNF              
+ 
+Event 12  Boys 4x100 Meter Relay
+=======================================================================
+  State Meet: % 40.91  2002        Middletown                                  
+                       *(T. Thompson/N. Ahmad/M. Johnson/D. Hunter)      
+State Record: # 40.79  2002        Middletown                                  
+                       *(T. Thompson/N. Ahmad/M. Johnson/D. Hunter)      
+    School                                               Finals  Points
+=======================================================================
+Section  1 Finals
+  1 Col. Whetstone                                        41.93   10   
+     1) Blake Callahan 12               2) Mario Dovell 11                
+     3) Jamon Hodges 12                 4) Marcus Penn 10                 
+  2 Cle. Heights                                          42.08    8   
+     1) Jonathan Hardy 10               2) Wael El-Halaby 12              
+     3) Ryan Bounds 9                   4) Bryan Underwood 11             
+  3 Warren G. Harding                                     42.23    6   
+     1) Jarrale Butts 11                2) Aunre' Davis 11                
+     3) Joseph Threats 11               4) DeAver Williamson 10           
+  4 Lakewood St. Edward                                   42.31    5   
+     1) Alex Cameron 11                 2) Otis Prunty 10                 
+     3) Seth Cunningham 10              4) Latwan Anderson 10             
+  5 West Chester Lakota West                              42.32    4   
+     1) Rashod McClendon 12             2) Bakari Bussey 12               
+     3) David Brown 12                  4) Dwight Phillips 12             
+  6 Huber Heights Wayne                                   42.47    3   
+     1) D'Auntae Thornton 12            2) Javon Marshall 11              
+     3) Erique Geiger 11                4) Demoye Bogle 10                
+  7 Euclid                                                42.48    2   
+     1) Jeffvon Gill 11                 2) John Franklin 11               
+     3) Devon Jennings 12               4) Travis Smith 12                
+  8 Lebanon                                               42.48    1   
+     1) Joe MacCutcheon 11              2) Trey Bonny 10                  
+     3) Logan Norris 11                 4) Chase Cochran 10     
+ 
+Event 12  Boys 4x100 Meter Relay
+================================================================
+Top 8 Advance by Time
+  State Meet: % 40.91  2002        Middletown                                  
+                       *(T. Thompson/N. Ahmad/M. Johnson/D. Hunter)      
+State Record: # 40.79  2002        Middletown                                  
+                       *(T. Thompson/N. Ahmad/M. Johnson/D. Hunter)      
+    School                                              Prelims 
+================================================================
+Heat  1 Preliminaries
+  1 Lebanon                                               42.26q 
+     1) Joe MacCutcheon 11              2) Trey Bonny 10                  
+     3) Logan Norris 11                 4) Chase Cochran 10               
+  2 Huber Heights Wayne                                   42.40q 
+     1) D'Auntae Thornton 12            2) Javon Marshall 11              
+     3) Erique Geiger 11                4) Demoye Bogle 10                
+  3 Cle. Heights                                          42.41q 
+     1) Jonathan Hardy 10               2) Wael El-Halaby 12              
+     3) Ryan Bounds 9                   4) Bryan Underwood 11             
+  4 Euclid                                                42.55q 
+     1) Jeffvon Gill 11                 2) John Franklin 11               
+     3) Devon Jennings 12               4) Travis Smith 12                
+  5 Warren G. Harding                                     42.58q 
+     1) Jarrale Butts 11                2) Aunre' Davis 11                
+     3) Joseph Threats 11               4) DeAver Williamson 10           
+  6 Sandusky                                              43.57  
+     1) Dashun Ferrell 11               2) Corey Gilbert 12               
+     3) Devontae Knight 10              4) Dailyn Moore 11                
+  7 Piqua                                                 43.76  
+     1) Isaiah Blair 12                 2) James Dunn 11                  
+     3) Justin Hemm 12                  4) Mike Mayor 12                  
+ -- Copley                                                   DQ  
+     1) Justen White-Reid 12            2) Kerrington Smith 12            
+     3) Johnnie Legrair 12              4) Phil Ferguson 12               
+Heat  2 Preliminaries
+  1 Col. Whetstone                                        42.14q 
+     1) Blake Callahan 12               2) Mario Dovell 11                
+     3) Jamon Hodges 12                 4) Marcus Penn 10                 
+  2 West Chester Lakota West                              42.45q 
+     1) Rashod McClendon 12             2) Bakari Bussey 12               
+     3) David Brown 12                  4) Dwight Phillips 12             
+  3 Lakewood St. Edward                                   42.57q 
+     1) Alex Cameron 11                 2) Otis Prunty 10                 
+     3) Seth Cunningham 10              4) Latwan Anderson 10             
+  4 Gahanna Lincoln                                       42.65  
+     1) Earl Cunningham 10              2) Blake Heriot 10                
+     3) Darius Reeves 12                4) Brandon Thomas 10              
+  5 Tol. Whitmer                                          42.73  
+     1) Anthony Allen 12                2) Kevin Koger 12                 
+     3) Nicolas Young 12                4) Jeremy Jones 12                
+  6 Col. Marion-Franklin                                  42.86  
+     1) Earnest Lunsford 11             2) Tyrell Massey 11               
+     3) Travon Moore 12                 4) Paris Turner 12                
+  7 North Olmsted                                         42.96  
+     1) Cory Molnar 12                  2) Keith Troyer 12                
+     3) Pat Tomko 11                    4) Jordan Hoppel 11               
+  8 Wooster                                               43.21  
+     1) D'Metre House 11                2) Jon Graves 10                  
+     3) Quennell Owens 12               4) Jake Buckwalter 12   
+ 
+Event 14  Boys 400 Meter Dash
+=======================================================================
+  State Meet: % 45.59  1990        Chris Nelloms(Dayton Dunbar)                
+State Record: # 45.59  1990        Chris Nelloms(Dayton Dunbar)                
+    Name                    Year School                  Finals  Points
+=======================================================================
+Section  1 Finals
+  1 730 DeVier Posey          12 Cin. LaSalle             47.41   10   
+  2 129 Thomas Murdaugh       12 Dublin Sciot             47.47    8   
+  3 304 William Henry         10 Trotwood-Mad             47.67    6   
+  4 967 Ryan Barber           10 Wester. Sout             47.68    5   
+  5 721 Kendall Gregory       12 Strongsville             48.12    4   
+  6 320 Javon Walker          11 Clayton Nort             48.74    3   
+  7 503 Willie Brown          11 Cle. John Ad             48.93    2   
+  8 950 Nathan Davis          11 Upper Arling             48.98    1            
+ 
+Event 14  Boys 400 Meter Dash
+================================================================
+8 Advance:  Top 4 Each Heat plus Next 0 Best Times
+  State Meet: % 45.59  1990        Chris Nelloms(Dayton Dunbar)                
+State Record: # 45.59  1990        Chris Nelloms(Dayton Dunbar)                
+    Name                    Year School                 Prelims 
+================================================================
+Heat  1 Preliminaries
+  1 304 William Henry         10 Trotwood-Mad             48.07Q 
+  2 967 Ryan Barber           10 Wester. Sout             48.12Q 
+  3 320 Javon Walker          11 Clayton Nort             48.52Q 
+  4 503 Willie Brown          11 Cle. John Ad             49.31Q 
+  5 434 Dontave Cowsette      12 Cle. Heights             50.24  
+  6 902 Donte Covington       11 Akron North              50.50  
+  7 763 Anthony West          12 Young. East              51.94  
+  8 816 Ronald Burgess        11 Pick. Centra             53.19  
+Heat  2 Preliminaries
+  1 730 DeVier Posey          12 Cin. LaSalle             48.12Q 
+  2 129 Thomas Murdaugh       12 Dublin Sciot             48.17Q 
+  3 721 Kendall Gregory       12 Strongsville             48.30Q 
+  4 950 Nathan Davis          11 Upper Arling             49.26Q 
+  5 314 Keith Cleveland Jr.   11 Shaker Heigh             49.93  
+  6 528 Quincy Downing         9 Cle. Glenvil             50.05  
+  7 348 Donte Lyons           12 Trotwood-Mad             50.92  
+  8 497 Kyle Esber            10 Canton GlenO             51.24    
+ 
+Event 16  Boys 300 Meter Hurdles 36"
+=======================================================================
+  State Meet: % 36.38  1988        Glenn Terry(Cincinnati Sycamore)            
+State Record: # 36.34  2001        Derrick Williams(Canton GlenOak)            
+    Name                    Year School                  Finals  Points
+=======================================================================
+Section  1 Finals
+  1 610 Michael Willey        12 Miamisburg               36.59   10   
+  2 237 Jordan Rispress       11 Hilliard Dar             37.45    8   
+  3 516 Terence Somerville    12 Akron Buchte             37.63    6   
+  4 500 Jordan Goffena        12 Sidney                   37.97    5   
+  5 539 Austin Curbow         12 Gahanna Linc             38.38    4   
+  6 747 Caleb Matthews        11 Young. Board             38.98    3   
+  7 224 Lamont Lattimore      12 Cin. Winton              39.16    2   
+  8 866 Kelby Rosengarten     12 Celina                   39.41    1   
+ 
+Event 16  Boys 300 Meter Hurdles 36"
+================================================================
+8 Advance:  Top 4 Each Heat plus Next 0 Best Times
+  State Meet: % 36.38  1988        Glenn Terry(Cincinnati Sycamore)            
+State Record: # 36.34  2001        Derrick Williams(Canton GlenOak)            
+    Name                    Year School                 Prelims 
+================================================================
+Heat  1 Preliminaries
+  1 610 Michael Willey        12 Miamisburg               38.51Q 
+  2 539 Austin Curbow         12 Gahanna Linc             38.85Q 
+  3 224 Lamont Lattimore      12 Cin. Winton              39.02Q 
+  4 747 Caleb Matthews        11 Young. Board             39.33Q 
+  5 940 Ryan Bosman           11 Hudson                   39.51  
+  6 922 Anthony Allen         12 Tol. Whitmer             39.91  
+  7 721 Derek Larsen          11 Lakewood St.             40.15  
+ -- 14 Antonio Blanks          9 Day. Dunbar                 FS  
+Heat  2 Preliminaries
+  1 500 Jordan Goffena        12 Sidney                   38.39Q 
+  2 237 Jordan Rispress       11 Hilliard Dar             38.53Q 
+  3 516 Terence Somerville    12 Akron Buchte             38.54Q 
+  4 866 Kelby Rosengarten     12 Celina                   38.66Q 
+  5 307 Patrick Hazelwood     12 Pick. North              39.62  
+  6 521 Tyshaun Peoples       12 Cle. Glenvil             39.73  
+  7 989 Anthony Schrock       10 Wadsworth                40.55  
+  8 915 Matt Jurcak           12 Olmsted Fall             41.40
+ 
+Event 18  Boys 800 Meter Run
+=======================================================================
+  State Meet: % 1:48.93  2001        Mark Sylvester(Cleveland St. Ignatius)    
+State Record: # 1:48.93  2001        Mark Sylvester(Cleveland St. Ignatius)    
+    Name                    Year School                  Finals  Points
+=======================================================================
+Section  1  
+  1 153 Mike Knisley          12 Reynoldsburg           1:51.54   10   
+  2 470 Jared Hall            12 Cle. Heights           1:51.83    8   
+  3 523 Sam Maynard           12 Medina                 1:52.24    6   
+  4 901 Moise Frisch          11 Tol. Whitmer           1:52.35    5   
+  5 616 Mike Rutherford       12 Col. St. Fra           1:52.68    4   
+  6 664 Vinny Balzano         10 Col. St. Fra           1:52.80    3   
+  7 838 Shawn Roberts         11 Centerville            1:54.46    2   
+  8 807 Tim Chippy            12 Middleburg H           1:54.53    1   
+  9 280 Ryan Logan            12 Huber Height           1:55.04  
+ 10 2 Steven Testa            12 Cuy. Falls Walsh       1:55.06  
+ 11 741 Matt Moore            12 Young. Board           1:56.43  
+ 12 449 Sylvester Watts       12 Cle. Heights           1:56.82  
+ 13 390 Danny Neff            11 Vandalia But           1:58.13  
+ 14 664 John Batchelder       12 Worth. Kilbo           1:58.65  
+ 15 965 Joseph Rodriguez      11 Tol. Start             2:00.75  
+ 16 308 Phillip Grannan       12 Cin. St. Xav           2:01.03   
+ 
+Event 20  Boys 200 Meter Dash
+=======================================================================
+  State Meet: % 20.47  1990        Chris Nelloms(Dayton Dunbar)                
+State Record: # 20.47  1990        Chris Nelloms(Dayton Dunbar)                
+    Name                    Year School                  Finals  Points
+=======================================================================
+Section  1 Finals   Wind: -2.7
+  1 512 Blake Heriot          10 Gahanna Linc             21.41   10   
+  2 610 Michael Willey        12 Miamisburg               21.71    8   
+  3 215 Princeton Bryson      12 Tol. Bowsher             21.74    6   
+  4 730 DeVier Posey          12 Cin. LaSalle             21.86    5   
+  5 41 Phil Ferguson          12 Copley                   22.18    4   
+  6 523 Cordale Scott         12 Cle. Glenvil             22.20    3   
+  7 250 Blake Callahan        12 Col. Whetsto             22.31    2   
+ -- 774 James Allen           12 Young. East                 FS  
+ 
+Event 20  Boys 200 Meter Dash
+================================================================
+8 Advance:  Top 4 Each Heat plus Next 0 Best Times
+  State Meet: % 20.47  1990        Chris Nelloms(Dayton Dunbar)                
+State Record: # 20.47  1990        Chris Nelloms(Dayton Dunbar)                
+    Name                    Year School                 Prelims 
+================================================================
+Heat  1 Preliminaries   Wind: -3.9
+  1 512 Blake Heriot          10 Gahanna Linc             21.77Q 
+  2 215 Princeton Bryson      12 Tol. Bowsher             21.92Q 
+  3 523 Cordale Scott         12 Cle. Glenvil             22.42Q 
+  4 610 Michael Willey        12 Miamisburg               22.42Q 
+  5 723 Seth Cunningham       10 Lakewood St.             22.46  
+  6 519 Kenny Veal            12 Hamilton                 22.62  
+  7 790 Tyler Stevenson       12 Wester. Cent             22.72  
+  8 813 Joe Wheeler           12 Green                    23.11  
+Heat  2 Preliminaries   Wind: -4.0
+  1 730 DeVier Posey          12 Cin. LaSalle             21.92Q 
+  2 250 Blake Callahan        12 Col. Whetsto             21.98Q 
+  3 774 James Allen           12 Young. East              22.03Q 
+  4 41 Phil Ferguson          12 Copley                   22.08Q 
+  5 269 Demoye Bogle          10 Huber Height             22.12  
+  6 342 Blake Witherspoon     12 Lorain South             22.51  
+  7 173 Ben Ray               11 Col. Beechcr             22.86  
+  8 610 John Spooney          10 Nordonia                 23.32 
+ 
+Event 22  Boys 3200 Meter Run
+=======================================================================
+  State Meet: % 9:00.97  2000        Steve Padgett(Cincinnati LaSalle)         
+State Record: # 8:56.35  2003        Chris Kollar(Strongsville)                
+    Name                    Year School                  Finals  Points
+=======================================================================
+Section  1  
+  1 914 Zach Wills             9 Mason                  9:15.34   10   
+  2 605 Greg Roeth            12 Miamisburg             9:16.20    8   
+  3 456 Chase Violet          12 Lima Shawnee           9:19.25    6   
+  4 151 Joe Miller            12 Tol. St. Joh           9:22.60    5   
+  5 618 Stuart Edmonds        11 Twinsburg              9:22.61    4   
+  6 200 Joseph Jackson        12 Hilliard Dar           9:23.58    3   
+  7 738 Josh Tormasi          11 Massillon Pe           9:26.45    2   
+  8 373 Nathan Corder         12 Pick. North            9:27.08    1   
+  9 507 Donny Roys            11 Medina                 9:29.08  
+ 10 105 Mark Wieferich        11 Marietta               9:36.68  
+ 11 335 Daniel Thaler         12 Cin. St. Xav           9:39.66  
+ 12 536 Mike Heller           12 Munroe Falls           9:41.80  
+ 13 402 Shoayb Bascal         11 Findlay                9:44.22  
+ 14 101 David Rafailedes      12 Massillon Ja           9:49.00  
+ 15 392 Doug Norris           10 Vandalia But           9:54.57  
+ 16 917 Cory Irwin            12 Canal Winche          10:07.48               
+ 
+Event 24  Boys 4x400 Meter Relay
+=======================================================================
+  State Meet: % 3:13.46  2008        Trotwood-Madison                          
+                         *(W. Henry/J. Paschal/D. Lyons/D. Purdy)          
+State Record: # 3:13.46  2008        Trotwood-Madison                          
+                         *(W. Henry/J. Paschal/D. Lyons/D. Purdy)          
+    School                                               Finals  Points
+=======================================================================
+Section  1 Finals
+  1 Trotwood-Madison                                    3:13.46#  10   
+     1) William Henry 10                2) Jordon Paschal 10              
+     3) Donte Lyons 12                  4) Derricus Purdy 12              
+  2 Day. Dunbar                                         3:14.94    8   
+     1) Aaron Bibbs 12                  2) Thuron Ham 11                  
+     3) Antonio Blanks 9                4) William Oliver 12              
+  3 Col. Independence                                   3:15.76    6   
+     1) Andrey Peake 12                 2) DeAndre Irving 12              
+     3) Terrell Carter 12               4) Ryan Dodson 12                 
+  4 Cle. Glenville                                      3:16.14    5   
+     1) Marcus Brooks 11                2) Cordale Scott 12               
+     3) Marvel Brooks 11                4) Quincy Downing 9               
+  5 Cle. Heights                                        3:17.88    4   
+     1) Bryan Underwood 11              2) Wael El-Halaby 12              
+     3) Jared Hall 12                   4) Dontave Cowsette 12            
+  6 Strongsville                                        3:18.68    3   
+     1) Ryan Oblak 12                   2) Aaron Moran 12                 
+     3) Derek Halladay 12               4) Kendall Gregory 12             
+  7 Cin. Winton Woods                                   3:19.42    2   
+     1) Joe Booker 12                   2) Juan Glover 10                 
+     3) Maurice Norman 11               4) Maalik Bomar 11                
+  8 Hamilton                                            3:21.79    1   
+     1) Kenny Lewis 9                   2) Nigel Mcmullen 12              
+     3) Denicos Allen 11                4) Kenny Veal 12    
+ 
+Event 24  Boys 4x400 Meter Relay
+================================================================
+Top 8 Advance by Time
+  State Meet: % 3:13.46  2008        Trotwood-Madison                          
+                         *(W. Henry/J. Paschal/D. Lyons/D. Purdy)          
+State Record: # 3:13.46  2008        Trotwood-Madison                          
+                         *(W. Henry/J. Paschal/D. Lyons/D. Purdy)          
+    School                                              Prelims 
+================================================================
+Heat  1 Preliminaries
+  1 Trotwood-Madison                                    3:14.05q 
+     1) William Henry 10                2) Jordon Paschal 10              
+     3) Donte Lyons 12                  4) Derricus Purdy 12              
+  2 Col. Independence                                   3:15.82q 
+     1) Andrey Peake 12                 2) DeAndre Irving 12              
+     3) Terrell Carter 12               4) Ryan Dodson 12                 
+  3 Cle. Glenville                                      3:16.84q 
+     1) Marcus Brooks 11                2) Cordale Scott 12               
+     3) Marvel Brooks 11                4) Quincy Downing 9               
+  4 Cin. Winton Woods                                   3:18.32q 
+     1) Joe Booker 12                   2) Juan Glover 10                 
+     3) Maurice Norman 11               4) Maalik Bomar 11                
+  5 Shaker Heights                                      3:22.18  
+     1) Perez Ashford 11                2) Elijha Owens 9                 
+     3) Matt Laird 11                   4) Keith Cleveland Jr. 11         
+  6 Medina                                              3:22.57  
+     1) John Schweinfurth 12            2) Spencer Shewbridge 11          
+     3) Dan Sloat 12                    4) Sam Maynard 12                 
+  7 Canton McKinley                                     3:23.51  
+     1) Andy Moore 12                   2) Richard Curtis 12              
+     3) Alaun Morrow 11                 4) Tremaine Oneal 12              
+  8 Mt. Vernon                                          3:23.75  
+     1) Lucas Armstrong 10              2) Thoren Lindsey 11              
+     3) Doug Biddle 12                  4) Joey Estep 12                  
+Heat  2 Preliminaries
+  1 Day. Dunbar                                         3:17.37q 
+     1) Aaron Bibbs 12                  2) Thuron Ham 11                  
+     3) Antonio Blanks 9                4) William Oliver 12              
+  2 Cle. Heights                                        3:17.63q 
+     1) Sylvester Watts 12              2) Wael El-Halaby 12              
+     3) Jared Hall 12                   4) Dontave Cowsette 12            
+  3 Strongsville                                        3:18.73q 
+     1) Ryan Oblak 12                   2) Aaron Moran 12                 
+     3) Derek Halladay 12               4) Kendall Gregory 12             
+  4 Hamilton                                            3:20.99q 
+     1) Kenny Lewis 9                   2) Nigel Mcmullen 12              
+     3) Denicos Allen 11                4) Kenny Veal 12                  
+  5 Reynoldsburg                                        3:22.39  
+     1) Julius Greer 11                 2) Mike Knisley 12                
+     3) Tashod Peterson 12              4) Shelby Porras 12               
+  6 Gahanna Lincoln                                     3:24.58  
+     1) Earl Cunningham 10              2) Joe LaRoche 12                 
+     3) Harry McFann 10                 4) Austin Curbow 12               
+  7 Lakewood St. Edward                                 3:26.74  
+     1) Alex Cameron 11                 2) Stephen Miles 11               
+     3) Mike Schweisthal 12             4) Brandon Williams 12            
+  8 Wadsworth                                           3:27.21  
+     1) Neal Iles 10                    2) Dan Mueller 11                 
+     3) Mitch White 12                  4) Aaron Tipton 10                 
+ 
+Event 26  Boys Discus Throw
+=======================================================================
+  State Meet: % 201-11  1987        Charles Moye(Akron Ellet)                  
+State Record: # 204-05  1987        Charles Moye(Akron Ellet)                  
+    Name                    Year School                  Finals  Points
+=======================================================================
+Flight  1  
+  1 751 Chandler Burden       12 Cin. LaSalle            187-06   10   
+      181-10  187-06  184-10  175-03  153-03  177-08
+  2 936 Drew Ebersole         12 Grafton Midv            182-04    8   
+      182-04  180-03  161-03  175-09  176-03  178-05
+  3 360 Zach Marinucci        11 Brunswick               169-04    4   
+      169-04  FOUL  163-02  FOUL  154-11  FOUL
+  4 180 Cody Riffle           10 Tol. St. Joh            166-11    1   
+      166-11  156-00  FOUL  FOUL  152-03  151-03
+  5 335 Sam Longo             11 Bellbrook               154-09  
+      126-08  154-09  FOUL           
+  6 750 Dustin Brode          10 Canfield                152-01  
+      152-01  FOUL  FOUL         
+  7 599 Tommy Phelps          11 Cin. Northwe            141-01  
+      FOUL  141-01  FOUL         
+  8 177 Steve Pacholek        12 Tol. St. Joh            134-07  
+      134-07  FOUL  FOUL         
+Flight  2  
+  1 718 Lucas Ferguson        11 Mt. Vernon              179-06    6   
+      164-05  173-02  179-06  173-03  170-11  171-00
+  2 793 Evan Klepec           12 Young. Board            177-10    5   
+      172-02  176-02  166-09  177-10  165-07  164-00
+  3 450 Mike Gritz            12 Lyndhurst Br            169-00    3   
+      159-08  168-00  FOUL  169-00  158-05  150-02
+  4 620 James Hilbert         12 Worth. Kilbo            168-08    2   
+      161-02  164-04  168-08  159-11  168-01  152-03
+  5 796 Alex Lipinsky         11 Young. Board            164-01  
+      155-03  163-09  164-01  FOUL  FOUL  FOUL
+  6 747 Kenny Anunike         12 Lewis Center            141-07  
+      FOUL  FOUL  141-07           
+  7 444 T.J. White            12 Troy                    135-04  
+      FOUL  FOUL  135-04         
+ -- 848 Nathan Hoch           12 Logan                     FOUL  
+      FOUL  FOUL  FOUL         
+ 
+Event 28  Boys High Jump
+=======================================================================
+ Comp. Hts.: 6'2"-6'4"-6'6" then 1" increments
+ Warm-up Height: 6'0"
+  State Meet: % 7-02.25  1987        Mark Cannon(Elyria)                       
+State Record: # 7-02.25  1987        Mark Cannon(Elyria)                       
+    Name                    Year School                  Finals  Points
+=======================================================================
+Flight  1  
+  1 911 Erik Kynard           11 Tol. Rogers            7-00.00   10   
+  2 480 Dwayne King           11 Cle. Heights           6-09.00    8   
+  3 838 Justin Steigerwald    12 Cin. Oak Hil          J6-08.00    4   
+  3 991 Braheem Wahid         12 Kent                  J6-08.00    5   
+  3 109 Cody Westbrook        11 Marietta              J6-08.00    3   
+  3 313 Kenneth Agee          11 Shaker Heigh           6-08.00    6   
+  7 452 Eugene Cannaday       11 Sunbury Big            6-07.00    2   
+  8 3 Mario Troutman          12 Spr. North            J6-06.00  
+  8 224 Tyler McIntosh        11 Hilliard Dar           6-06.00    0.50
+  8 316 Dominique Reed        11 Trotwood-Mad          J6-06.00  
+  8 622 Josh Dugan            11 Harrison              J6-06.00  
+  8 420 Josh Crawford         12 Mansfield Ma           6-06.00    0.50
+ 13 392 Michael Ballentine     9 Pick. North            6-04.00  
+ 14 111 Tiron Jester          12 Bedford                6-02.00  
+ 14 620 Andrew Davis          12 Nordonia              J6-02.00  
+ -- 531 Ruben Belen           12 Medina                      NH  
+ 
+Event 30  Boys Long Jump
+============================================================================
+  State Meet: % 25-09.50  1996        Ra'Mon Johnson(Warrensville Heights)     
+State Record: # 25-09.50  1996        Ra'Mon Johnson(Warrensville Heights)     
+    Name                    Year School                  Finals  Wind Points
+============================================================================
+  1 521 Tyshaun Peoples       12 Cle. Glenvil          23-01.00  -0.9  10   
+     21-05(-3.5) 22-08(-3.7) 22-00(-3.1) 23-00(-1.5) 21-11.25(-2.3) 23-01(-0.9)
+  2 111 Tiron Jester          12 Bedford               22-09.50  -1.4   6   
+     21-01.50(-3.0) 22-09.50(-1.4) 21-08(-2.3) 22-00(-1.8) 22-02.50(-2.3) 21-07(-1.3)
+  3 933 Jeremy Jones          12 Tol. Whitmer          22-06.50  -2.2   5   
+     22-06.50(-2.2) 21-09.50(-2.4) 22-05(-1.8) 21-09(-1.6) 22-05.50(-3.2) 22-06(-3.0)
+  4 516 Terence Somerville    12 Akron Buchte          22-05.00  -2.7   4   
+     22-01(-1.7) 22-04.50(-2.5) 22-04.50(-3.6) 22-05(-2.7) 21-10.50(-0.9) 19-08(-2.1)
+  5 401 Jason Bartlett        11 Wapakoneta            21-08.50  -3.6 
+     21-08.50(-3.6) FOUL      FOUL              
+  6 620 Andrew Davis          12 Nordonia              21-08.25  -2.6 
+     FOUL      21-08.25(-2.6) 21-07.75(-1.7)         
+  7 516 Reggie Mitchell       11 Cin. Elder            21-07.00  -3.4 
+     20-05(-3.5) 20-05.50(-4.0) 21-07(-3.4)         
+  8 356 Josh Woods            11 Marysville            21-01.00  -0.9 
+     20-09.50(-2.4) 20-02.50(-2.1) 21-01(-0.9)         
+Flight  2  
+  1 184 Carlin Isles          12 Massillon Ja          22-10.00  -1.1   8   
+     FOUL      FOUL      22-10(-1.1) 22-05(-1.0) FOUL      22-02.75(-1.7)
+  2 622 Josh Dugan            11 Harrison              22-03.00  -0.8   3   
+     FOUL      22-03(-0.8) FOUL      FOUL      PASS        
+  3 329 Steve Hull            11 Cin. Sycamor          22-02.50  -1.1   2   
+     19-05(-3.1) 22-02.50(-1.1) 21-06.25(-1.1) 21-09.50(-2.2) 21-07.50(-1.4) FOUL     
+  4 445 Shaun Joplin          11 Sylvania Sou          22-02.25  -2.2   1   
+     22-00.50(-0.9) 22-02.25(-1.3) 21-08(-1.8) 21-02(-4.1) 21-05.50(-2.1) 20-11.50(-1.4)
+  5 452 Eugene Cannaday       11 Sunbury Big           22-02.00   1.2 
+     22-00.25(-1.8) 22-02(1.2) FOUL      FOUL      20-09.75(-2.5) FOUL     
+  6 507 Earl Cunningham       10 Gahanna Linc          21-09.00  -2.1 
+     21-03.75(-1.4) 20-08(-0.9) 21-09(-2.1)         
+  7 331 Jordon Albright       12 Cin. Princet          20-01.75  -2.2 
+     19-03(-2.4) 19-10(-1.9) 20-01.75(-2.2)         
+ 
+Event 32  Boys Shot Put
+=======================================================================
+  State Meet: % 69-05.25  2007        Jimmie Pacifico(Vandalia Butler)         
+State Record: # 71-06.25  2007        Jimmie Pacifico(Vandalia Butler)         
+    Name                    Year School                  Finals  Points
+=======================================================================
+Flight  1  
+  1 751 Chandler Burden       12 Cin. LaSalle          61-02.50   10   
+      61-02.50  58-00.25  57-09.25  58-08.50  58-02.75  57-11.75
+  2 336 Brandon Moore         12 Trotwood-Mad          55-09.00    2   
+      52-08.75  54-10  54-04  55-08.75  55-09  55-01.25
+  3 750 Dustin Brode          10 Canfield              55-02.50    1   
+      50-07  55-02.50  FOUL  54-09.50  FOUL  53-04.25
+  4 538 Ryan Danehy           12 Batavia Amel          53-04.25  
+      50-10  53-04.25  53-01         
+  5 450 Mike Gritz            12 Lyndhurst Br          51-02.00  
+      FOUL  49-10.25  51-02            
+  6 680 Patrick Omameh        12 Col. St. Fra          50-03.00  
+      48-00.50  FOUL  50-03         
+  7 884 Bob McEvoy            11 Cle. St. Ign          49-06.25  
+      FOUL  49-06.25  48-04.25         
+ -- 897 Jacob Archer          11 Celina                    FOUL  
+      FOUL  FOUL  FOUL         
+Flight  2  
+  1 360 Zach Marinucci        11 Brunswick             59-04.50    8   
+      59-04.50  56-01.25  54-08  55-11.50  58-00.25  58-09
+  2 795 Corey Linsley         11 Young. Board          58-05.50    6   
+      57-04.50  57-06  55-04  58-01.75  58-05.50  55-11
+  3 936 Drew Ebersole         12 Grafton Midv          57-09.00    5   
+      53-02.25  55-03  57-02.50  FOUL  FOUL  57-09
+  4 33 Andrew Illig           12 Cuy. Falls Walsh      56-05.50    4   
+      55-09.25  55-01.50  55-03.50  FOUL  56-05.50  FOUL
+  5 188 Andy Hills            12 Tol. St. Joh          55-11.75    3   
+      52-11.75  55-11.75  FOUL  52-11.75  54-07.75  FOUL
+  6 22 Darren Bass            12 Lima Senior           55-02.00  
+      FOUL  51-11.75  55-02  53-00.25  FOUL  54-00.25
+  7 718 Lucas Ferguson        11 Mt. Vernon            53-02.00  
+      FOUL  FOUL  53-02         
+  8 335 Sam Longo             11 Bellbrook             52-00.00  
+      49-11.50  FOUL  52-00         
+ 
+Event 34  Boys Pole Vault
+=======================================================================
+ Comp. Hts.: 13'0"-13'6"-14'0" then 4" increments
+ Warm-up Height: 12'6"
+  State Meet: %    16-00  1989        Justin Daler(Toledo St. John's Jesuit)   
+State Record: # 16-00.25  2001        Dominic Pellittieri(Amherst Steele)      
+    Name                    Year School                  Finals  Points
+=======================================================================
+Flight  1  
+  1 993 Derek Hopkins         12 Tol. Whitmer          15-04.00   10   
+  2 448 John Greenlee         11 Cin. St. Xav          15-00.00    8   
+  3 619 Chadd Pierce          11 Solon                 14-08.00    6   
+  3 613 Jordan Minnick        11 Zanesville           J14-08.00    5   
+  5 635 Chris Uhle             9 Powell Olent         J14-04.00    3   
+  5 201 Tommy Marks           12 Huber Height          14-04.00    4   
+  5 840 Robert Robinson       12 Logan                J14-04.00    2   
+  8 123 Jimmy Bullock         12 Dublin Sciot         J14-00.00  
+  8 160 Anthony Houston       11 Maple Height          14-00.00    1   
+  8 949 Aaron Warner          11 Tallmadge            J14-00.00  
+ 11 314 Zach Johnson          12 Cin. Princet          13-06.00  
+ 11 403 Adam Kalivoda         11 Amherst Stee          13-06.00  
+ 11 802 James Howe            10 Holland Spri         J13-06.00  
+ 11 648 Mike Humphrey         12 Solon                J13-06.00  
+ 15 868 Kyle Kubera           11 Cle. St. Ign          13-00.00  
+ -- 9 Graham Morgan           11 Lebanon                     NH                                          
+ 
+                    Men - Team Rankings - 17 Events Scored
+===============================================================================
+    1) Cle. Heights                44        2) Cin. LaSalle               41   
+    3) Miamisburg                  34        4) Cle. Glenville             32   
+    5) Trotwood-Madison            28        6) Tol. Whitmer               21   
+    7) Akron Buchtel               20        8) Reynoldsburg               18   
+    9) Hudson                      16        9) Massillon Jackson          16   
+    9) Col. Whetstone              16       12) Gahanna Lincoln            15   
+   12) Tol. St. John's Jesuit      15       14) Young. Boardman            14   
+   15) Grafton Midview             13       15) Strongsville               13   
+   17) Tol. Bowsher                12       17) Day. Dunbar                12   
+   17) Brunswick                   12       20) Hilliard Darby             11.50
+   21) Medina                      11       21) Mason                      11   
+   23) Vandalia Butler             10       23) Young. East                10   
+   23) Tol. Rogers                 10       26) West Chester Lakota West    9   
+   26) Sidney                       9       28) Lakewood St. Edward         8   
+   28) Dublin Scioto                8       28) Cin. St. Xavier             8   
+   31) Col. St. Francis DeSales     7       31) Huber Heights Wayne         7   
+   31) Clayton Northmont            7       31) Copley                      7   
+   35) Solon                        6       35) Bedford                     6   
+   35) Shaker Heights               6       35) Lima Shawnee                6   
+   35) Col. Independence            6       35) Mt. Vernon                  6   
+   35) Warren G. Harding            6       42) Sandusky                    5   
+   42) Wester. South                5       42) Kent Roosevelt              5   
+   42) Lexington                    5       42) Zanesville                  5   
+   42) Centerville                  5       48) Cuy. Falls Walsh Jesuit     4   
+   48) Twinsburg                    4       48) Cin. Winton Woods           4   
+   48) Cin. Oak Hills               4       52) Lyndhurst Brush             3   
+   52) Day. Thurgood Marshall       3       52) Harrison                    3   
+   52) Marietta                     3       52) Powell Olentangy Liberty    3   
+   52) Lakewood                     3       58) Massillon Perry             2   
+   58) Sunbury Big Walnut           2       58) North Canton Hoover         2   
+   58) Cle. John Adams              2       58) Cin. Sycamore               2   
+   58) Euclid                       2       58) Worth. Kilbourne            2   
+   58) Wadsworth                    2       58) Stow-Munroe Falls           2   
+   58) Logan                        2       68) Canfield                    1   
+   68) Maple Heights                1       68) Celina                      1   
+   68) Upper Arlington              1       68) Middleburg Hts. Midpark     1   
+   68) Day. Carroll                 1       68) Lebanon                     1   
+   68) Hamilton                     1       68) Sylvania Southview          1   
+   68) Pick. North                  1       78) Mansfield Madison Comp.     0.50

@@ -1,0 +1,12120 @@
+#1
+Girls'
+4x800 Relay
+Varsity
+Finals
+Team
+Relay
+Seed
+Finals
+Pts
+1
+TALLMADGE
+'A'
+9:21.02
+9:30.29
+10
+1)
+Hay, Allison 12
+2)
+Ross, Tapanga 11
+3)
+Martuccio, Mackenzie 11
+4)
+Martuccio, Makayla 11
+2
+WADSWORTH
+'A'
+9:30.50
+9:34.51
+8
+1)
+Gerschutz, Maggie 11
+2)
+Dolgowicz, Ella 10
+3)
+Ross, Cami 12
+4)
+Otradovec, Hailey 12
+3
+MED HIGHLAND
+'A'
+9:47.25
+9:47.78
+6
+1)
+Pylypiak, Celia 11
+2)
+Forshey, Madison 11
+3)
+Keough, Olivia 9
+4)
+Schuler, Katie 11
+4
+GREEN
+'A'
+9:55.30
+10:00.52
+5
+1)
+Adekunle, Zakaiya 11
+2)
+Sveda, Lucia 11
+3)
+Cicerchi, Allison 12
+4)
+Glass, Londyn 11
+5
+WOOSTER
+'A'
+10:23.45
+10:28.28
+4
+1)
+Bokrossy, Noemi 10
+2)
+Whyte, Madelynn 11
+3)
+Shaffer, Tristen 11
+4)
+Scott, Ava 10
+6
+HOBAN
+'A'
+10:51.06
+10:56.82
+3
+1)
+Kenst, Lucie 10
+2)
+Marks, Jane 9
+3)
+Dougherty, Ashlyn 10
+4)
+Quernermoen, Elisa 9
+7
+REVERE
+'A'
+9:59.34
+11:07.52
+2
+1)
+Lawrence, Camryn 10
+2)
+Slaby, Ella 11
+3)
+Parsons, Rosa 12
+4)
+Fondran, Laura 11
+8
+CUY. FALLS
+'A'
+11:12.58
+11:19.06
+1
+1)
+Miller, Macey 11
+2)
+Shay, Bella 11
+3)
+Smith, Ruby 11
+4)
+Simmons, Cadence 11
+
+#2
+Boys'
+4x800 Relay
+Varsity
+Finals
+Team
+Relay
+Seed
+Finals
+Pts
+1
+REVERE
+'A'
+8:04.92
+8:00.31
+10
+1)
+Ledley, Jack 11
+2)
+Albrecht, Quin 11
+3)
+Janke, Will 11
+4)
+Wells, Will 12
+2
+MED HIGHLAND
+'A'
+8:03.61
+8:03.69
+8
+1)
+Klein, Colton 11
+2)
+Bossart, Andrew 11
+3)
+Welch, Andrew 10
+4)
+Hildenbrand, John 10
+3
+BUCKEYE
+'A'
+8:08.80
+8:09.04
+6
+1)
+Pshonyak, Dimitry 11
+2)
+Stahl, Joseph 9
+3)
+Rieth, Nolan 11
+4)
+Salazar, Brady 12
+4
+TALLMADGE
+'A'
+8:17.78
+8:13.85
+5
+1)
+Noah, Donevan 10
+2)
+Carr, Andrew 12
+3)
+Durbin, Bryson 11
+4)
+Gurley, Micah 12
+5
+HOBAN
+'A'
+8:21.88
+8:19.72
+4
+1)
+Gursky, Max 10
+2)
+Blaser, Sebastian 12
+3)
+DiNicola, Colin 12
+4)
+Gaffney, Thomas 12
+6
+WOOSTER
+'A'
+8:38.44
+8:37.49
+3
+1)
+Melrose, Roy 9
+2)
+Older, William 12
+3)
+Wood, Kade 12
+4)
+Richard, Trey Jr
+7
+CUY. FALLS
+'A'
+8:34.68
+8:44.38
+2
+1)
+Campisi, Domenic 12
+2)
+Fox, Nathan 11
+3)
+Miller, Kyle 10
+4)
+Cybyk, Dorian 12
+8
+AKRON SVSM
+'A'
+8:54.66
+8:47.66
+1
+1)
+Chuba, Marcus 11
+2)
+Schlueter, Owen 11
+3)
+Sullivan, Isaac 11
+4)
+Parish, Caleb 11
+9
+GREEN
+'A'
+8:41.28
+8:48.78
+1)
+Buckshaw, Carter 10
+2)
+Connelly, Kellan 12
+3)
+San Jose, Luke 9
+4)
+Reinhardt, Justin 10
+10
+COPLEY
+'A'
+8:40.24
+9:14.53
+1)
+Frazee, Owen 10
+2)
+O'Neill, Hugh 11
+3)
+Rodriguez, Antonio 10
+4)
+Ali, Amru 11
+
+#5
+Girls'
+100m Hurdles
+Varsity
+Prelims
+Athlete
+Yr
+Team
+Seed
+Prelims
+Wind
+Compiled
+1
+Hafner, Teagan
+9
+WOOSTER
+14.70
+14.87
+q
++2.8
+2
+Haude, Brooke
+10
+WADSWORTH
+15.08
+15.42
+q
++1.6
+3
+Moore, Haley
+11
+FIRESTONE
+16.46
+15.67
+q
++2.8
+4
+Adekunle, Ayona
+12
+GREEN
+15.85
+15.85
+q
++1.6
+5
+Pylypiak, Celia
+11
+MED HIGHLAND
+16.10
+15.90
+q
++1.6
+6
+Hartschuh, Audrey
+11
+MED HIGHLAND
+16.43
+16.55
+q
++1.6
+7
+McMurray, Aubrey
+12
+REVERE
+16.85
+16.85
+q
++1.6
+8
+Hunter, Alizya
+12
+REVERE
+16.79
+16.94
+q
++1.6
+9
+Wills, Lindsay
+12
+ROOSEVELT
+17.10
+17.00
++2.8
+10
+Richards, Mariah
+12
+FIRESTONE
+16.99
+17.02
++1.6
+(17.012)
+11
+Diamond, Aleena
+12
+TALLMADGE
+16.81
+17.02
++1.6
+(17.017)
+12
+Easterly, Presley
+12
+COPLEY
+17.22
+17.11
++2.8
+(17.107)
+13
+Beadling, Liana
+11
+GREEN
+17.32
+17.11
++1.6
+(17.109)
+14
+Walters, Naomi
+10
+TALLMADGE
+16.54
+17.19
++2.8
+15
+Baker, Akiylah
+10
+HOBAN
+17.75
+17.82
++1.6
+16
+Rochford, Lillian
+9
+COPLEY
+17.88
+18.14
++1.6
+17
+Garner, Dae'Anie
+9
+CUY. FALLS
+18.42
+18.38
++2.8
+18
+Mudrey-Camino, Liv
+11
+HOBAN
+18.18
+18.40
++2.8
+19
+Hargrove, Savannah
+11
+CUY. FALLS
+17.60
+18.92
++1.6
+20
+Myles, Kailey
+9
+BARBERTON
+20.65
+20.52
++1.6
+21
+Clark, Air'yona
+10
+AK. GARFIELD
+21.72
+20.79
++1.6
+--
+Russell, Landrey
+11
+WOOSTER
+18.47
+SCR
+Heat 1
+1
+Adekunle, Ayona
+12
+GREEN
+15.85
+15.85
+q
++1.6
+2
+Pylypiak, Celia
+11
+MED HIGHLAND
+16.10
+15.90
+q
++1.6
+3
+McMurray, Aubrey
+12
+REVERE
+16.85
+16.85
+q
++1.6
+4
+Diamond, Aleena
+12
+TALLMADGE
+16.81
+17.02
++1.6
+(17.017)
+5
+Baker, Akiylah
+10
+HOBAN
+17.75
+17.82
++1.6
+6
+Hargrove, Savannah
+11
+CUY. FALLS
+17.60
+18.92
++1.6
+7
+Myles, Kailey
+9
+BARBERTON
+20.65
+20.52
++1.6
+8
+Clark, Air'yona
+10
+AK. GARFIELD
+21.72
+20.79
++1.6
+Heat 2
+1
+Haude, Brooke
+10
+WADSWORTH
+15.08
+15.42
+q
++1.6
+2
+Hartschuh, Audrey
+11
+MED HIGHLAND
+16.43
+16.55
+q
++1.6
+3
+Hunter, Alizya
+12
+REVERE
+16.79
+16.94
+q
++1.6
+4
+Richards, Mariah
+12
+FIRESTONE
+16.99
+17.02
++1.6
+(17.012)
+5
+Beadling, Liana
+11
+GREEN
+17.32
+17.11
++1.6
+(17.109)
+6
+Rochford, Lillian
+9
+COPLEY
+17.88
+18.14
++1.6
+--
+Russell, Landrey
+11
+WOOSTER
+18.47
+SCR
+Heat 3
+1
+Hafner, Teagan
+9
+WOOSTER
+14.70
+14.87
+q
++2.8
+2
+Moore, Haley
+11
+FIRESTONE
+16.46
+15.67
+q
++2.8
+3
+Wills, Lindsay
+12
+ROOSEVELT
+17.10
+17.00
++2.8
+4
+Easterly, Presley
+12
+COPLEY
+17.22
+17.11
++2.8
+(17.107)
+5
+Walters, Naomi
+10
+TALLMADGE
+16.54
+17.19
++2.8
+6
+Garner, Dae'Anie
+9
+CUY. FALLS
+18.42
+18.38
++2.8
+7
+Mudrey-Camino, Liv
+11
+HOBAN
+18.18
+18.40
++2.8
+
+#6
+Boys'
+110m Hurdles
+Varsity
+Prelims
+Athlete
+Yr
+Team
+Seed
+Prelims
+Wind
+Compiled
+1
+McQueen, Kyle
+12
+ROOSEVELT
+14.72
+14.58
+q
++1.9
+2
+Hann, Ali
+12
+AKRON SVSM
+14.65
+14.82
+q
++2.0
+3
+Stupczy, Zack
+11
+REVERE
+15.12
+15.37
+q
++1.8
+4
+Dingle, Xai'Yeire
+11
+AK. NORTH
+15.68
+15.72
+q
++0.9
+5
+Shepard, Jahiem
+12
+ROOSEVELT
+15.70
+15.77
+q
++0.9
+6
+Demming, Isaac
+9
+MED HIGHLAND
+15.85
+15.79
+q
++2.0
+7
+Fockler, Collin
+11
+WOOSTER
+16.14
+15.94
+q
++1.8
+(15.934)
+8
+Hunt, Ty
+11
+TALLMADGE
+15.83
+15.94
+q
++1.9
+(15.937)
+9
+Trahey, Will
+10
+FIRESTONE
+16.08
+16.23
++1.9
+10
+McMichael, Anthony
+12
+GREEN
+16.02
+16.34
++2.0
+11
+Jimenez, Matthew
+9
+WOOSTER
+17.16
+16.55
++2.0
+12
+Graf-Burr, Dakari
+11
+FIRESTONE
+16.23
+16.57
++0.9
+13
+Lake, Oliver
+10
+COPLEY
+16.49
+16.61
++0.9
+14
+Gowin, Carter
+12
+COPLEY
+17.02
+17.16
++2.0
+15
+Seibert, Henri
+12
+TALLMADGE
+16.92
+17.27
++1.9
+16
+Harrison, Kemonte
+11
+AK. GARFIELD
+16.77
+17.44
++1.8
+17
+Mark, Michael
+11
+REVERE
+17.39
+17.46
++1.9
+18
+Stupecki, Matthew
+10
+MED HIGHLAND
+17.67
+17.68
++1.8
+19
+Johnson, Darren
+9
+CUY. FALLS
+18.16
+17.69
++0.9
+20
+Adekunle, Uziah
+9
+GREEN
+18.25
+17.80
++0.9
+21
+Pleasant, Jayden
+11
+AKRON SVSM
+18.40
+18.14
++1.8
+22
+Blevins, Ben
+10
+HOBAN
+18.54
+18.28
++1.9
+23
+Bohannon, A.J.
+12
+BUCKEYE
+19.26
+19.65
++2.0
+--
+Smith, Logan
+12
+HOBAN
+15.77
+DQ
+(Pushed hurdle with hands.)
+--
+Cielma, Rhys
+10
+BUCKEYE
+18.86
+SCR
+Heat 1
+1
+Dingle, Xai'Yeire
+11
+AK. NORTH
+15.68
+15.72
+q
++0.9
+2
+Shepard, Jahiem
+12
+ROOSEVELT
+15.70
+15.77
+q
++0.9
+3
+Graf-Burr, Dakari
+11
+FIRESTONE
+16.23
+16.57
++0.9
+4
+Lake, Oliver
+10
+COPLEY
+16.49
+16.61
++0.9
+5
+Johnson, Darren
+9
+CUY. FALLS
+18.16
+17.69
++0.9
+6
+Adekunle, Uziah
+9
+GREEN
+18.25
+17.80
++0.9
+Heat 2
+1
+Stupczy, Zack
+11
+REVERE
+15.12
+15.37
+q
++1.8
+2
+Fockler, Collin
+11
+WOOSTER
+16.14
+15.94
+q
++1.8
+(15.934)
+3
+Harrison, Kemonte
+11
+AK. GARFIELD
+16.77
+17.44
++1.8
+4
+Stupecki, Matthew
+10
+MED HIGHLAND
+17.67
+17.68
++1.8
+5
+Pleasant, Jayden
+11
+AKRON SVSM
+18.40
+18.14
++1.8
+--
+Smith, Logan
+12
+HOBAN
+15.77
+DQ
+(Pushed hurdle with hands.)
+Heat 3
+1
+McQueen, Kyle
+12
+ROOSEVELT
+14.72
+14.58
+q
++1.9
+2
+Hunt, Ty
+11
+TALLMADGE
+15.83
+15.94
+q
++1.9
+(15.937)
+3
+Trahey, Will
+10
+FIRESTONE
+16.08
+16.23
++1.9
+4
+Seibert, Henri
+12
+TALLMADGE
+16.92
+17.27
++1.9
+5
+Mark, Michael
+11
+REVERE
+17.39
+17.46
++1.9
+6
+Blevins, Ben
+10
+HOBAN
+18.54
+18.28
++1.9
+Heat 4
+1
+Hann, Ali
+12
+AKRON SVSM
+14.65
+14.82
+q
++2.0
+2
+Demming, Isaac
+9
+MED HIGHLAND
+15.85
+15.79
+q
++2.0
+3
+McMichael, Anthony
+12
+GREEN
+16.02
+16.34
++2.0
+4
+Jimenez, Matthew
+9
+WOOSTER
+17.16
+16.55
++2.0
+5
+Gowin, Carter
+12
+COPLEY
+17.02
+17.16
++2.0
+6
+Bohannon, A.J.
+12
+BUCKEYE
+19.26
+19.65
++2.0
+--
+Cielma, Rhys
+10
+BUCKEYE
+18.86
+SCR
+
+#7
+Girls'
+100 Meters
+Varsity
+Prelims
+Athlete
+Yr
+Team
+Seed
+Prelims
+Wind
+Compiled
+1
+Harris, Kaidyn
+12
+ROOSEVELT
+12.50
+12.53
+q
++2.5
+2
+Stoops, Jessica
+12
+WADSWORTH
+12.29
+12.63
+q
++2.0
+3
+Crews, Trinity
+11
+BARBERTON
+13.23
+13.00
+q
++2.0
+4
+Carter, Janiyah
+10
+ELLET
+12.83
+13.06
+q
++2.6
+5
+Williams, Sayanni
+10
+FIRESTONE
+13.05
+13.07
+q
++2.3
+6
+Chesney, Uana
+11
+AK. NORTH
+13.20
+q
++2.6
+7
+Robinson, Lily
+10
+WOOSTER
+13.30
+13.21
+q
++2.3
+8
+Milicia, Madeline
+10
+REVERE
+13.23
+13.24
+q
++2.5
+9
+Swain, Jamyrah
+10
+FIRESTONE
+13.22
+13.28
++2.0
+10
+Hicks, Mikenna
+9
+CUY. FALLS
+13.37
+13.30
++2.5
+11
+Hicks, Kaliee
+12
+HOBAN
+13.13
+13.31
++2.3
+12
+Whitling, Audrey
+11
+MED HIGHLAND
+13.16
+13.32
++2.6
+13
+Norris, Alexis
+12
+WADSWORTH
+13.38
+13.36
++2.0
+14
+Hadi, MacKenzie
+9
+COPLEY
+13.26
+13.41
++2.3
+15
+Aschenbrener, Ellie
+12
+TALLMADGE
+13.44
++2.3
+16
+Coleman, Anna
+10
+MED HIGHLAND
+13.25
+13.47
++2.6
+17
+Gesing, Aubrey
+12
+REVERE
+13.42
+13.48
++2.0
+18
+Allison, Aubree
+9
+GREEN
+13.95
+13.63
++2.3
+19
+Davis, Navie
+9
+TALLMADGE
+13.54
+13.64
++2.5
+20
+Gray, Violet
+12
+CUY. FALLS
+13.31
+13.65
++2.6
+21
+Weaver, TaAjia
+11
+COPLEY
+14.02
+13.75
++2.6
+22
+Winfield, Alaina
+11
+GREEN
+13.89
+13.85
++2.3
+(13.842)
+22
+Ohmit, J'Anna
+11
+WOOSTER
+14.03
+13.85
++2.5
+(13.842)
+24
+Massey, Myjael
+10
+AK. NORTH
+14.48
+14.48
++2.5
+25
+Easter, Neavaeh
+9
+ELLET
+14.54
+14.86
++2.0
+26
+Tyler, Bailey
+11
+AK. GARFIELD
+16.50
+16.27
++2.5
+--
+Green, Moneizja
+12
+AK. GARFIELD
+15.41
+FS
+--
+Johnson, K'yana
+9
+ROOSEVELT
+13.89
+SCR
+Heat 1
+1
+Williams, Sayanni
+10
+FIRESTONE
+13.05
+13.07
+q
++2.3
+2
+Robinson, Lily
+10
+WOOSTER
+13.30
+13.21
+q
++2.3
+3
+Hicks, Kaliee
+12
+HOBAN
+13.13
+13.31
++2.3
+4
+Hadi, MacKenzie
+9
+COPLEY
+13.26
+13.41
++2.3
+5
+Aschenbrener, Ellie
+12
+TALLMADGE
+13.44
++2.3
+6
+Allison, Aubree
+9
+GREEN
+13.95
+13.63
++2.3
+7
+Winfield, Alaina
+11
+GREEN
+13.89
+13.85
++2.3
+(13.842)
+Heat 2
+1
+Carter, Janiyah
+10
+ELLET
+12.83
+13.06
+q
++2.6
+2
+Chesney, Uana
+11
+AK. NORTH
+13.20
+q
++2.6
+3
+Whitling, Audrey
+11
+MED HIGHLAND
+13.16
+13.32
++2.6
+4
+Coleman, Anna
+10
+MED HIGHLAND
+13.25
+13.47
++2.6
+5
+Gray, Violet
+12
+CUY. FALLS
+13.31
+13.65
++2.6
+6
+Weaver, TaAjia
+11
+COPLEY
+14.02
+13.75
++2.6
+--
+Johnson, K'yana
+9
+ROOSEVELT
+13.89
+SCR
+Heat 3
+1
+Harris, Kaidyn
+12
+ROOSEVELT
+12.50
+12.53
+q
++2.5
+2
+Milicia, Madeline
+10
+REVERE
+13.23
+13.24
+q
++2.5
+3
+Hicks, Mikenna
+9
+CUY. FALLS
+13.37
+13.30
++2.5
+4
+Davis, Navie
+9
+TALLMADGE
+13.54
+13.64
++2.5
+5
+Ohmit, J'Anna
+11
+WOOSTER
+14.03
+13.85
++2.5
+(13.842)
+6
+Massey, Myjael
+10
+AK. NORTH
+14.48
+14.48
++2.5
+7
+Tyler, Bailey
+11
+AK. GARFIELD
+16.50
+16.27
++2.5
+Heat 4
+1
+Stoops, Jessica
+12
+WADSWORTH
+12.29
+12.63
+q
++2.0
+2
+Crews, Trinity
+11
+BARBERTON
+13.23
+13.00
+q
++2.0
+3
+Swain, Jamyrah
+10
+FIRESTONE
+13.22
+13.28
++2.0
+4
+Norris, Alexis
+12
+WADSWORTH
+13.38
+13.36
++2.0
+5
+Gesing, Aubrey
+12
+REVERE
+13.42
+13.48
++2.0
+6
+Easter, Neavaeh
+9
+ELLET
+14.54
+14.86
++2.0
+--
+Green, Moneizja
+12
+AK. GARFIELD
+15.41
+FS
+
+#8
+Boys'
+100 Meters
+Varsity
+Prelims
+Athlete
+Yr
+Team
+Seed
+Prelims
+Wind
+Compiled
+1
+Prince, DeCarlo
+12
+AKRON SVSM
+10.84
+10.73
+q
++4.2
+2
+Carter, Trey
+11
+ELLET
+10.82
+10.86
+q
++1.5
+(10.852)
+3
+Conley, Brenden
+10
+TALLMADGE
+10.86
+10.86
+q
++1.9
+(10.853)
+4
+Parmer, Mekhi
+11
+FIRESTONE
+10.87
+10.87
+q
++1.6
+5
+Bonnett, Brayden
+12
+BUCKEYE
+10.92
+10.95
+q
++1.6
+6
+Reid III, Robert
+12
+TALLMADGE
+11.02
+11.07
+q
++1.9
+7
+Haley, Semaj
+12
+AKRON SVSM
+11.34
+11.11
+q
++1.9
+8
+Reed, Evan
+12
+GREEN
+11.25
+11.15
+q
++1.9
+(11.142)
+9
+Francis, Cortland
+12
+FIRESTONE
+11.07
+11.15
++1.5
+(11.143)
+10
+Johnson, Emanuel
+10
+HOBAN
+11.53
+11.30
++4.2
+11
+Grice, Elijah
+10
+AK. EAST
+11.51
+11.34
++1.5
+12
+Lazar, Dylan
+12
+MED HIGHLAND
+11.38
+11.35
++4.2
+13
+Miller, Brayden
+10
+WOOSTER
+11.30
+11.37
++1.6
+14
+Arutyunyan, Caleb
+10
+GREEN
+11.18
+11.41
++1.5
+15
+Smith, Jihad
+10
+AK. NORTH
+11.55
+11.42
++1.9
+16
+Drvenkar, Harrison
+12
+REVERE
+11.23
+11.44
++4.2
+17
+Childs, Calvin
+11
+REVERE
+11.57
+11.55
++1.6
+18
+Pitts, Mike
+10
+HOBAN
+11.47
+11.56
++1.5
+(11.551)
+18
+Tuttle, Gavanni
+12
+CUY. FALLS
+11.30
+11.56
++1.6
+(11.551)
+20
+Charvat, Charles
+10
+MED HIGHLAND
+11.55
+11.61
++1.6
+21
+Hondroudakis, Eddie
+11
+BUCKEYE
+11.66
+11.75
++1.9
+22
+Mosely, Javon
+10
+WOOSTER
+11.86
+11.78
++4.2
+23
+Franklin, Chris
+12
+AK. GARFIELD
+11.91
+11.83
++1.5
+24
+Brown, Parker
+9
+COPLEY
+11.90
+11.90
++1.5
+25
+Gaston, Leonardo
+12
+CUY. FALLS
+11.97
+11.93
++4.2
+26
+Travis, Marlon
+12
+AK. GARFIELD
+11.97
+12.07
++1.9
+27
+Griffin, Cinque
+9
+ELLET
+12.05
+12.21
++1.6
+28
+Glenn-George, Noah
+10
+COPLEY
+12.54
++1.6
+--
+Ellington, Tyler
+11
+ROOSEVELT
+11.05
+SCR
+Heat 1
+1
+Parmer, Mekhi
+11
+FIRESTONE
+10.87
+10.87
+q
++1.6
+2
+Bonnett, Brayden
+12
+BUCKEYE
+10.92
+10.95
+q
++1.6
+3
+Miller, Brayden
+10
+WOOSTER
+11.30
+11.37
++1.6
+4
+Childs, Calvin
+11
+REVERE
+11.57
+11.55
++1.6
+5
+Tuttle, Gavanni
+12
+CUY. FALLS
+11.30
+11.56
++1.6
+(11.551)
+6
+Charvat, Charles
+10
+MED HIGHLAND
+11.55
+11.61
++1.6
+7
+Griffin, Cinque
+9
+ELLET
+12.05
+12.21
++1.6
+8
+Glenn-George, Noah
+10
+COPLEY
+12.54
++1.6
+Heat 2
+1
+Conley, Brenden
+10
+TALLMADGE
+10.86
+10.86
+q
++1.9
+(10.853)
+2
+Reid III, Robert
+12
+TALLMADGE
+11.02
+11.07
+q
++1.9
+3
+Haley, Semaj
+12
+AKRON SVSM
+11.34
+11.11
+q
++1.9
+4
+Reed, Evan
+12
+GREEN
+11.25
+11.15
+q
++1.9
+(11.142)
+5
+Smith, Jihad
+10
+AK. NORTH
+11.55
+11.42
++1.9
+6
+Hondroudakis, Eddie
+11
+BUCKEYE
+11.66
+11.75
++1.9
+7
+Travis, Marlon
+12
+AK. GARFIELD
+11.97
+12.07
++1.9
+Heat 3
+1
+Prince, DeCarlo
+12
+AKRON SVSM
+10.84
+10.73
+q
++4.2
+2
+Johnson, Emanuel
+10
+HOBAN
+11.53
+11.30
++4.2
+3
+Lazar, Dylan
+12
+MED HIGHLAND
+11.38
+11.35
++4.2
+4
+Drvenkar, Harrison
+12
+REVERE
+11.23
+11.44
++4.2
+5
+Mosely, Javon
+10
+WOOSTER
+11.86
+11.78
++4.2
+6
+Gaston, Leonardo
+12
+CUY. FALLS
+11.97
+11.93
++4.2
+--
+Ellington, Tyler
+11
+ROOSEVELT
+11.05
+SCR
+Heat 4
+1
+Carter, Trey
+11
+ELLET
+10.82
+10.86
+q
++1.5
+(10.852)
+2
+Francis, Cortland
+12
+FIRESTONE
+11.07
+11.15
++1.5
+(11.143)
+3
+Grice, Elijah
+10
+AK. EAST
+11.51
+11.34
++1.5
+4
+Arutyunyan, Caleb
+10
+GREEN
+11.18
+11.41
++1.5
+5
+Pitts, Mike
+10
+HOBAN
+11.47
+11.56
++1.5
+(11.551)
+6
+Franklin, Chris
+12
+AK. GARFIELD
+11.91
+11.83
++1.5
+7
+Brown, Parker
+9
+COPLEY
+11.90
+11.90
++1.5
+
+#9
+Girls'
+4x200 Relay
+Varsity
+Prelims
+Team
+Relay
+Seed
+Prelims
+Compiled
+1
+FIRESTONE
+'A'
+1:46.17
+1:45.58
+q
+1)
+Swain, Jamyrah 10
+2)
+Williams, Trinity 10
+3)
+Williams, Sayanni 10
+4)
+Blair, Aliza 11
+2
+WADSWORTH
+'A'
+1:42.79
+1:46.23
+q
+1)
+Haude, Brooke 10
+2)
+Maxwell, Bree 10
+3)
+Valatka, Ashley 11
+4)
+Otradovec, Hailey 12
+3
+HOBAN
+'A'
+1:46.55
+1:46.98
+q
+1)
+Golden, Jazze 12
+2)
+Baridor, Muudum 10
+3)
+Pearson, Anastasia 9
+4)
+Thompson, Aleece 11
+4
+MED HIGHLAND
+'A'
+1:47.08
+1:47.86
+q
+1)
+Whitling, Audrey 11
+2)
+Marquis, Scout 9
+3)
+Gryskiewicz, Allison 12
+4)
+Riedy, Bria 10
+5
+WOOSTER
+'A'
+1:46.51
+1:48.48
+q
+1)
+Robinson, Lily 10
+2)
+Scott, Taeyona 10
+3)
+Russell, Landrey 11
+4)
+Strand-Fox, Abi 12
+6
+REVERE
+'A'
+1:48.49
+1:49.86
+q
+1)
+Gesing, Aubrey 12
+2)
+Bir, Lauren 10
+3)
+DiSalvo, Lauren 12
+4)
+Wilson, Caroline 12
+7
+TALLMADGE
+'A'
+1:48.07
+1:50.88
+q
+1)
+Diamond, Aleena 12
+2)
+Cuva, Nina 10
+3)
+Wendland, Kaitlyn 9
+4)
+Davis, Navie 9
+8
+COPLEY
+'A'
+1:53.52
+q
+1)
+Hackney, Maliyah 11
+2)
+Hadi, MacKenzie 9
+3)
+Cowan, Brooklynn 10
+4)
+Powell, Ava 11
+9
+CUY. FALLS
+'A'
+1:59.89
+1:59.59
+1)
+Garner, Dae'Anie 9
+2)
+Delong, Kaidence 10
+3)
+Schimberg-Campbell, Khenady 11
+4)
+Norris, Delia 10
+Heat 1
+1
+FIRESTONE
+'A'
+1:46.17
+1:45.58
+q
+1)
+Swain, Jamyrah 10
+2)
+Williams, Trinity 10
+3)
+Williams, Sayanni 10
+4)
+Blair, Aliza 11
+2
+WOOSTER
+'A'
+1:46.51
+1:48.48
+q
+1)
+Robinson, Lily 10
+2)
+Scott, Taeyona 10
+3)
+Russell, Landrey 11
+4)
+Strand-Fox, Abi 12
+3
+REVERE
+'A'
+1:48.49
+1:49.86
+q
+1)
+Gesing, Aubrey 12
+2)
+Bir, Lauren 10
+3)
+DiSalvo, Lauren 12
+4)
+Wilson, Caroline 12
+4
+TALLMADGE
+'A'
+1:48.07
+1:50.88
+q
+1)
+Diamond, Aleena 12
+2)
+Cuva, Nina 10
+3)
+Wendland, Kaitlyn 9
+4)
+Davis, Navie 9
+Heat 2
+1
+WADSWORTH
+'A'
+1:42.79
+1:46.23
+q
+1)
+Haude, Brooke 10
+2)
+Maxwell, Bree 10
+3)
+Valatka, Ashley 11
+4)
+Otradovec, Hailey 12
+2
+HOBAN
+'A'
+1:46.55
+1:46.98
+q
+1)
+Golden, Jazze 12
+2)
+Baridor, Muudum 10
+3)
+Pearson, Anastasia 9
+4)
+Thompson, Aleece 11
+3
+MED HIGHLAND
+'A'
+1:47.08
+1:47.86
+q
+1)
+Whitling, Audrey 11
+2)
+Marquis, Scout 9
+3)
+Gryskiewicz, Allison 12
+4)
+Riedy, Bria 10
+4
+COPLEY
+'A'
+1:53.52
+q
+1)
+Hackney, Maliyah 11
+2)
+Hadi, MacKenzie 9
+3)
+Cowan, Brooklynn 10
+4)
+Powell, Ava 11
+5
+CUY. FALLS
+'A'
+1:59.89
+1:59.59
+1)
+Garner, Dae'Anie 9
+2)
+Delong, Kaidence 10
+3)
+Schimberg-Campbell, Khenady 11
+4)
+Norris, Delia 10
+
+#10
+Boys'
+4x200 Relay
+Varsity
+Prelims
+Team
+Relay
+Seed
+Prelims
+Compiled
+1
+TALLMADGE
+'A'
+1:28.58
+1:29.48
+q
+1)
+Cuva, Sonny 12
+2)
+Reid III, Robert 12
+3)
+Gotto, Angelo 10
+4)
+Conley, Brenden 10
+2
+GREEN
+'A'
+1:29.19
+1:29.60
+q
+1)
+Brauneck, Ben 12
+2)
+Liberatore, Reed 10
+3)
+McCann, Cade 11
+4)
+Reed, Evan 12
+3
+ROOSEVELT
+'A'
+1:29.13
+1:30.11
+q
+1)
+Ellington, Tyler 11
+2)
+Shan Talbert, Ke' 12
+3)
+Portis, Jaiden 12
+4)
+Hassler, Simon 12
+4
+FIRESTONE
+'A'
+1:31.01
+1:30.58
+q
+1)
+Parmer, Mekhi 11
+2)
+Roebuck, Emmanuel 11
+3)
+Francis, Cortland 12
+4)
+Garrett, Carter 9
+5
+HOBAN
+'A'
+1:31.19
+1:31.33
+q
+(1:31.324)
+1)
+Sneed, Josiah 12
+2)
+Jansky, Reilley 12
+3)
+Folk, La'Near 12
+4)
+Simpson, Eiann 12
+6
+AKRON SVSM
+'A'
+1:31.36
+1:31.33
+q
+(1:31.330)
+1)
+Lindsey, Stephen 11
+2)
+Dickerson, Timonthy 9
+3)
+Hodges, Dwight 10
+4)
+Chapman, Elijah 10
+7
+BUCKEYE
+'A'
+1:31.70
+1:33.00
+q
+1)
+Salazar, Brady 12
+2)
+Miller, Cael 11
+3)
+Hondroudakis, Eddie 11
+4)
+Bonnett, Brayden 12
+8
+COPLEY
+'A'
+1:33.52
+q
+1)
+Tufts, Aiden 11
+2)
+Stanford, Breylen 10
+3)
+Conteh, Sonkita 10
+4)
+McKnight, Andrew 12
+9
+CUY. FALLS
+'A'
+1:32.49
+1:34.44
+1)
+Alston, Nash 9
+2)
+Smith, Martin 10
+3)
+Luster, Jordan 10
+4)
+Lutz, Isaiah 11
+10
+BARBERTON
+'A'
+1:33.43
+1:34.56
+1)
+Bailey, Terrean 12
+2)
+Thompson, Cleophus 10
+3)
+Clark, Dhe'marjhe 10
+4)
+Petrie, Spartacus 12
+11
+REVERE
+'A'
+1:32.41
+1:34.97
+1)
+Peron, Arthur 12
+2)
+Ford, Langston 12
+3)
+Juby, Donovan 12
+4)
+Childs, Calvin 11
+12
+MED HIGHLAND
+'A'
+1:33.05
+1:35.17
+1)
+Metzger, Christopher 12
+2)
+Martens-Kwiatowski, Carson 12
+3)
+Iannaggi, Frankie 11
+4)
+Charvat, Charles 10
+--
+AK. NORTH
+'A'
+DNS
+1)
+Idusuyi, josh 12
+2)
+Smith, Jihad 10
+3)
+Dingle, Xai'Yeire 11
+4)
+Stubbs, Gavin 11
+--
+WOOSTER
+'A'
+1:31.89
+DQ
+(Out of exchange zone 2.)
+1)
+Meier, Kaj 11
+2)
+Miller, Brayden 10
+3)
+Warner, Darian 10
+4)
+Bird, Landen 11
+--
+AK. EAST
+'A'
+1:31.88
+SCR
+1)
+Cherry, Lawrence 11
+2)
+Mckinnie, Cashmiere 10
+3)
+Wharton, Terrell 12
+4)
+Grice, Elijah 10
+Heat 1
+1
+GREEN
+'A'
+1:29.19
+1:29.60
+q
+1)
+Brauneck, Ben 12
+2)
+Liberatore, Reed 10
+3)
+McCann, Cade 11
+4)
+Reed, Evan 12
+2
+ROOSEVELT
+'A'
+1:29.13
+1:30.11
+q
+1)
+Ellington, Tyler 11
+2)
+Shan Talbert, Ke' 12
+3)
+Portis, Jaiden 12
+4)
+Hassler, Simon 12
+3
+AKRON SVSM
+'A'
+1:31.36
+1:31.33
+q
+(1:31.330)
+1)
+Lindsey, Stephen 11
+2)
+Dickerson, Timonthy 9
+3)
+Hodges, Dwight 10
+4)
+Chapman, Elijah 10
+4
+BUCKEYE
+'A'
+1:31.70
+1:33.00
+q
+1)
+Salazar, Brady 12
+2)
+Miller, Cael 11
+3)
+Hondroudakis, Eddie 11
+4)
+Bonnett, Brayden 12
+5
+COPLEY
+'A'
+1:33.52
+q
+1)
+Tufts, Aiden 11
+2)
+Stanford, Breylen 10
+3)
+Conteh, Sonkita 10
+4)
+McKnight, Andrew 12
+6
+BARBERTON
+'A'
+1:33.43
+1:34.56
+1)
+Bailey, Terrean 12
+2)
+Thompson, Cleophus 10
+3)
+Clark, Dhe'marjhe 10
+4)
+Petrie, Spartacus 12
+7
+REVERE
+'A'
+1:32.41
+1:34.97
+1)
+Peron, Arthur 12
+2)
+Ford, Langston 12
+3)
+Juby, Donovan 12
+4)
+Childs, Calvin 11
+8
+MED HIGHLAND
+'A'
+1:33.05
+1:35.17
+1)
+Metzger, Christopher 12
+2)
+Martens-Kwiatowski, Carson 12
+3)
+Iannaggi, Frankie 11
+4)
+Charvat, Charles 10
+Heat 2
+1
+TALLMADGE
+'A'
+1:28.58
+1:29.48
+q
+1)
+Cuva, Sonny 12
+2)
+Reid III, Robert 12
+3)
+Gotto, Angelo 10
+4)
+Conley, Brenden 10
+2
+FIRESTONE
+'A'
+1:31.01
+1:30.58
+q
+1)
+Parmer, Mekhi 11
+2)
+Roebuck, Emmanuel 11
+3)
+Francis, Cortland 12
+4)
+Garrett, Carter 9
+3
+HOBAN
+'A'
+1:31.19
+1:31.33
+q
+(1:31.324)
+1)
+Sneed, Josiah 12
+2)
+Jansky, Reilley 12
+3)
+Folk, La'Near 12
+4)
+Simpson, Eiann 12
+4
+CUY. FALLS
+'A'
+1:32.49
+1:34.44
+1)
+Alston, Nash 9
+2)
+Smith, Martin 10
+3)
+Luster, Jordan 10
+4)
+Lutz, Isaiah 11
+--
+AK. NORTH
+'A'
+DNS
+1)
+Idusuyi, josh 12
+2)
+Smith, Jihad 10
+3)
+Dingle, Xai'Yeire 11
+4)
+Stubbs, Gavin 11
+--
+WOOSTER
+'A'
+1:31.89
+DQ
+(Out of exchange zone 2.)
+1)
+Meier, Kaj 11
+2)
+Miller, Brayden 10
+3)
+Warner, Darian 10
+4)
+Bird, Landen 11
+--
+AK. EAST
+'A'
+1:31.88
+SCR
+1)
+Cherry, Lawrence 11
+2)
+Mckinnie, Cashmiere 10
+3)
+Wharton, Terrell 12
+4)
+Grice, Elijah 10
+
+#12
+Boys'
+1600 Meters
+Varsity
+Prelims
+Athlete
+Yr
+Team
+Seed
+Prelims
+Compiled
+1
+Chuba, Marcus
+11
+AKRON SVSM
+4:33.97
+4:53.35
+Q
+2
+Pshonyak, Dimitry
+11
+BUCKEYE
+4:23.36
+4:54.17
+Q
+3
+Noah, Donevan
+10
+TALLMADGE
+4:21.77
+4:54.38
+Q
+4
+Stahl, Joseph
+9
+BUCKEYE
+4:32.66
+4:56.69
+Q
+5
+Gaffney, Thomas
+12
+HOBAN
+4:44.79
+4:58.05
+Q
+6
+Miller, Kyle
+10
+CUY. FALLS
+4:54.26
+4:58.25
+Q
+7
+Hildenbrand, John
+10
+MED HIGHLAND
+4:23.50
+5:02.55
+Q
+8
+Wells, Will
+12
+REVERE
+4:11.92
+5:02.63
+Q
+9
+Gursky, Max
+10
+HOBAN
+4:37.52
+5:02.66
+Q
+10
+Stevenson, Carter
+12
+ROOSEVELT
+4:27.93
+5:02.81
+Q
+11
+Fox, Nathan
+11
+CUY. FALLS
+5:07.24
+5:02.88
+Q
+12
+Owens, John
+10
+REVERE
+4:34.61
+5:03.01
+Q
+13
+Frazee, Owen
+10
+COPLEY
+4:50.74
+5:03.70
+Q
+14
+Wiandt, Parker
+9
+FIRESTONE
+4:53.67
+5:03.77
+Q
+15
+Schlarb, Ian
+12
+COPLEY
+5:04.01
+Q
+16
+Wendland, Kaleb
+11
+TALLMADGE
+5:17.24
+5:05.64
+Q
+17
+Richard, Bode
+10
+WOOSTER
+4:59.13
+5:08.68
+18
+Zidron, Owen
+9
+WOOSTER
+4:58.51
+5:08.97
+19
+Bunn, Ayden
+11
+ELLET
+5:03.34
+5:09.00
+20
+Murawski, Ezekiel
+11
+MED HIGHLAND
+5:18.36
+5:14.24
+21
+Reinhardt, Justin
+10
+GREEN
+5:06.29
+5:16.26
+22
+Schlueter, Owen
+11
+AKRON SVSM
+5:05.23
+5:25.93
+23
+Cunningham, Robert
+9
+AK. EAST
+5:26.46
+5:32.49
+24
+Blacken Jr, George
+10
+BARBERTON
+5:39.13
+5:41.27
+25
+Myango, Daniel
+10
+AK. GARFIELD
+5:50.94
+6:03.97
+--
+Skeriotis, Aaron
+9
+FIRESTONE
+4:43.13
+SCR
+--
+Lucas, Michael
+10
+AK. GARFIELD
+5:50.00
+SCR
+Heat 1
+1
+Chuba, Marcus
+11
+AKRON SVSM
+4:33.97
+4:53.35
+Q
+2
+Pshonyak, Dimitry
+11
+BUCKEYE
+4:23.36
+4:54.17
+Q
+3
+Noah, Donevan
+10
+TALLMADGE
+4:21.77
+4:54.38
+Q
+4
+Stahl, Joseph
+9
+BUCKEYE
+4:32.66
+4:56.69
+Q
+5
+Gaffney, Thomas
+12
+HOBAN
+4:44.79
+4:58.05
+Q
+6
+Miller, Kyle
+10
+CUY. FALLS
+4:54.26
+4:58.25
+Q
+7
+Wiandt, Parker
+9
+FIRESTONE
+4:53.67
+5:03.77
+Q
+8
+Wendland, Kaleb
+11
+TALLMADGE
+5:17.24
+5:05.64
+Q
+9
+Bunn, Ayden
+11
+ELLET
+5:03.34
+5:09.00
+10
+Murawski, Ezekiel
+11
+MED HIGHLAND
+5:18.36
+5:14.24
+11
+Schlueter, Owen
+11
+AKRON SVSM
+5:05.23
+5:25.93
+12
+Myango, Daniel
+10
+AK. GARFIELD
+5:50.94
+6:03.97
+--
+Skeriotis, Aaron
+9
+FIRESTONE
+4:43.13
+SCR
+--
+Lucas, Michael
+10
+AK. GARFIELD
+5:50.00
+SCR
+Heat 2
+1
+Hildenbrand, John
+10
+MED HIGHLAND
+4:23.50
+5:02.55
+Q
+2
+Wells, Will
+12
+REVERE
+4:11.92
+5:02.63
+Q
+3
+Gursky, Max
+10
+HOBAN
+4:37.52
+5:02.66
+Q
+4
+Stevenson, Carter
+12
+ROOSEVELT
+4:27.93
+5:02.81
+Q
+5
+Fox, Nathan
+11
+CUY. FALLS
+5:07.24
+5:02.88
+Q
+6
+Owens, John
+10
+REVERE
+4:34.61
+5:03.01
+Q
+7
+Frazee, Owen
+10
+COPLEY
+4:50.74
+5:03.70
+Q
+8
+Schlarb, Ian
+12
+COPLEY
+5:04.01
+Q
+9
+Richard, Bode
+10
+WOOSTER
+4:59.13
+5:08.68
+10
+Zidron, Owen
+9
+WOOSTER
+4:58.51
+5:08.97
+11
+Reinhardt, Justin
+10
+GREEN
+5:06.29
+5:16.26
+12
+Cunningham, Robert
+9
+AK. EAST
+5:26.46
+5:32.49
+13
+Blacken Jr, George
+10
+BARBERTON
+5:39.13
+5:41.27
+
+#13
+Girls'
+4x100 Relay
+Varsity
+Prelims
+Team
+Relay
+Seed
+Prelims
+Compiled
+1
+WADSWORTH
+'A'
+51.13
+50.46
+q
+1)
+Haude, Brooke 10
+2)
+Valatka, Ashley 11
+3)
+Maxwell, Bree 10
+4)
+Blum, Bailey 11
+2
+ROOSEVELT
+'A'
+51.32
+51.29
+q
+1)
+Harris, Kaidyn 12
+2)
+Friedman, Mahlia 12
+3)
+Wills, Lindsay 12
+4)
+Johnson, K'yana 9
+3
+FIRESTONE
+'A'
+51.13
+51.56
+q
+1)
+Swain, Jamyrah 10
+2)
+Williams, Sayanni 10
+3)
+Johnson, Aubrey 12
+4)
+Stallsworth, Emani 12
+4
+HOBAN
+'A'
+50.59
+51.65
+q
+1)
+Hicks, Kaliee 12
+2)
+Golden, Jazze 12
+3)
+Baridor, Muudum 10
+4)
+Thompson, Aleece 11
+5
+REVERE
+'A'
+52.51
+52.48
+q
+1)
+Gesing, Aubrey 12
+2)
+Smith, Grace 9
+3)
+Bockstoce, Anna 9
+4)
+Milicia, Madeline 10
+6
+TALLMADGE
+'A'
+51.33
+52.53
+q
+1)
+Walters, Naomi 9
+2)
+Diamond, Aleena 12
+3)
+Davis, Navie 9
+4)
+Wendland, Kaitlyn 9
+7
+CUY. FALLS
+'A'
+53.07
+53.08
+q
+1)
+Hargrove, Savannah 11
+2)
+Gray, Violet 12
+3)
+Beasley, Aiken 10
+4)
+Hicks, Mikenna 9
+8
+COPLEY
+'A'
+53.62
+q
+1)
+Hackney, Maliyah 11
+2)
+Hadi, MacKenzie 9
+3)
+Powell, Ava 11
+4)
+Weaver, TaAjia 11
+9
+WOOSTER
+'A'
+52.10
+54.04
+1)
+Robinson, Lily 10
+2)
+Painter, Amarah 12
+3)
+Ohmit, J'Anna 11
+4)
+Stahl, Emery 12
+10
+GREEN
+'A'
+53.35
+55.71
+1)
+Krismer, Addison 12
+2)
+Beadling, Liana 11
+3)
+Price, Lauren 12
+4)
+Adekunle, Yaminah 10
+--
+MED HIGHLAND
+'A'
+51.23
+FS
+1)
+Whitling, Audrey 11
+2)
+Coleman, Anna 10
+3)
+Hartschuh, Audrey 11
+4)
+Riedy, Bria 10
+--
+AK. NORTH
+'A'
+57.99
+SCR
+1)
+Haywood, Dontee'a 11
+2)
+Massey, Myjael 10
+3)
+Brown, Sa'niyha 10
+4)
+Chesney, Uana 11
+Heat 1
+1
+WADSWORTH
+'A'
+51.13
+50.46
+q
+1)
+Haude, Brooke 10
+2)
+Valatka, Ashley 11
+3)
+Maxwell, Bree 10
+4)
+Blum, Bailey 11
+2
+FIRESTONE
+'A'
+51.13
+51.56
+q
+1)
+Swain, Jamyrah 10
+2)
+Williams, Sayanni 10
+3)
+Johnson, Aubrey 12
+4)
+Stallsworth, Emani 12
+3
+TALLMADGE
+'A'
+51.33
+52.53
+q
+1)
+Walters, Naomi 9
+2)
+Diamond, Aleena 12
+3)
+Davis, Navie 9
+4)
+Wendland, Kaitlyn 9
+4
+CUY. FALLS
+'A'
+53.07
+53.08
+q
+1)
+Hargrove, Savannah 11
+2)
+Gray, Violet 12
+3)
+Beasley, Aiken 10
+4)
+Hicks, Mikenna 9
+5
+WOOSTER
+'A'
+52.10
+54.04
+1)
+Robinson, Lily 10
+2)
+Painter, Amarah 12
+3)
+Ohmit, J'Anna 11
+4)
+Stahl, Emery 12
+6
+GREEN
+'A'
+53.35
+55.71
+1)
+Krismer, Addison 12
+2)
+Beadling, Liana 11
+3)
+Price, Lauren 12
+4)
+Adekunle, Yaminah 10
+Heat 2
+1
+ROOSEVELT
+'A'
+51.32
+51.29
+q
+1)
+Harris, Kaidyn 12
+2)
+Friedman, Mahlia 12
+3)
+Wills, Lindsay 12
+4)
+Johnson, K'yana 9
+2
+HOBAN
+'A'
+50.59
+51.65
+q
+1)
+Hicks, Kaliee 12
+2)
+Golden, Jazze 12
+3)
+Baridor, Muudum 10
+4)
+Thompson, Aleece 11
+3
+REVERE
+'A'
+52.51
+52.48
+q
+1)
+Gesing, Aubrey 12
+2)
+Smith, Grace 9
+3)
+Bockstoce, Anna 9
+4)
+Milicia, Madeline 10
+4
+COPLEY
+'A'
+53.62
+q
+1)
+Hackney, Maliyah 11
+2)
+Hadi, MacKenzie 9
+3)
+Powell, Ava 11
+4)
+Weaver, TaAjia 11
+--
+MED HIGHLAND
+'A'
+51.23
+FS
+1)
+Whitling, Audrey 11
+2)
+Coleman, Anna 10
+3)
+Hartschuh, Audrey 11
+4)
+Riedy, Bria 10
+--
+AK. NORTH
+'A'
+57.99
+SCR
+1)
+Haywood, Dontee'a 11
+2)
+Massey, Myjael 10
+3)
+Brown, Sa'niyha 10
+4)
+Chesney, Uana 11
+
+#14
+Boys'
+4x100 Relay
+Varsity
+Prelims
+Team
+Relay
+Seed
+Prelims
+Compiled
+1
+AKRON SVSM
+'A'
+43.04
+42.72
+q
+1)
+Haley, Semaj 12
+2)
+Hann, Ali 12
+3)
+Chapman, Elijah 10
+4)
+Prince, DeCarlo 12
+2
+TALLMADGE
+'A'
+42.82
+42.96
+q
+1)
+Cuva, Sonny 12
+2)
+Conley, Brenden 10
+3)
+Gotto, Angelo 10
+4)
+Reid III, Robert 12
+3
+FIRESTONE
+'A'
+43.06
+43.34
+q
+1)
+Wells, Lennox 10
+2)
+Francis, Cortland 12
+3)
+Garrett, Carter 9
+4)
+Parmer, Mekhi 11
+4
+GREEN
+'A'
+43.01
+43.48
+q
+1)
+Brauneck, Ben 12
+2)
+McCann, Cade 11
+3)
+Liberatore, Reed 10
+4)
+Reed, Evan 12
+5
+HOBAN
+'A'
+43.65
+43.49
+q
+1)
+Sneed, Josiah 12
+2)
+Jansky, Reilley 12
+3)
+Folk, La'Near 12
+4)
+Williams, Antonio 12
+6
+MED HIGHLAND
+'A'
+44.41
+q
+1)
+Lazar, Dylan 12
+2)
+Metzger, Christopher 12
+3)
+Iannaggi, Frankie 11
+4)
+Charvat, Charles 10
+7
+REVERE
+'A'
+45.22
+44.73
+q
+1)
+Drvenkar, Harrison 12
+2)
+Ford, Langston 12
+3)
+Juby, Donovan 12
+4)
+Childs, Calvin 11
+8
+AK. EAST
+'A'
+43.76
+45.06
+q
+1)
+Cherry, Lawrence 11
+2)
+Wharton, Terrell 12
+3)
+Mckinnie, Cashmiere 10
+4)
+Grice, Elijah 10
+9
+WOOSTER
+'A'
+45.39
+45.28
+1)
+Bird, Landen 11
+2)
+Fitzpatrick, Colin 11
+3)
+Mosely, Javon 10
+4)
+Miller, Brayden 10
+10
+CUY. FALLS
+'A'
+44.67
+45.47
+1)
+Tuttle, Gavanni 12
+2)
+Gaston, Leonardo 12
+3)
+Luster, Jordan 10
+4)
+O'Neal-Stiggers, Phillip 10
+11
+AK. GARFIELD
+'A'
+45.13
+45.48
+1)
+Travis, Marlon 12
+2)
+Ward, Xavier 9
+3)
+Franklin, Chris 12
+4)
+Blair, Ziiyahn 12
+12
+BUCKEYE
+'A'
+45.53
+46.83
+1)
+Balaban, Lucas 11
+2)
+Miller, Cael 11
+3)
+Russo, Brayden 9
+4)
+Hondroudakis, Eddie 11
+13
+COPLEY
+'A'
+46.90
+1)
+Conteh, Sonkita 10
+2)
+Brown, Parker 9
+3)
+Lake, Oliver 10
+4)
+McKnight, Andrew 12
+Heat 1
+1
+AKRON SVSM
+'A'
+43.04
+42.72
+q
+1)
+Haley, Semaj 12
+2)
+Hann, Ali 12
+3)
+Chapman, Elijah 10
+4)
+Prince, DeCarlo 12
+2
+GREEN
+'A'
+43.01
+43.48
+q
+1)
+Brauneck, Ben 12
+2)
+McCann, Cade 11
+3)
+Liberatore, Reed 10
+4)
+Reed, Evan 12
+3
+MED HIGHLAND
+'A'
+44.41
+q
+1)
+Lazar, Dylan 12
+2)
+Metzger, Christopher 12
+3)
+Iannaggi, Frankie 11
+4)
+Charvat, Charles 10
+4
+REVERE
+'A'
+45.22
+44.73
+q
+1)
+Drvenkar, Harrison 12
+2)
+Ford, Langston 12
+3)
+Juby, Donovan 12
+4)
+Childs, Calvin 11
+5
+AK. EAST
+'A'
+43.76
+45.06
+q
+1)
+Cherry, Lawrence 11
+2)
+Wharton, Terrell 12
+3)
+Mckinnie, Cashmiere 10
+4)
+Grice, Elijah 10
+6
+COPLEY
+'A'
+46.90
+1)
+Conteh, Sonkita 10
+2)
+Brown, Parker 9
+3)
+Lake, Oliver 10
+4)
+McKnight, Andrew 12
+Heat 2
+1
+TALLMADGE
+'A'
+42.82
+42.96
+q
+1)
+Cuva, Sonny 12
+2)
+Conley, Brenden 10
+3)
+Gotto, Angelo 10
+4)
+Reid III, Robert 12
+2
+FIRESTONE
+'A'
+43.06
+43.34
+q
+1)
+Wells, Lennox 10
+2)
+Francis, Cortland 12
+3)
+Garrett, Carter 9
+4)
+Parmer, Mekhi 11
+3
+HOBAN
+'A'
+43.65
+43.49
+q
+1)
+Sneed, Josiah 12
+2)
+Jansky, Reilley 12
+3)
+Folk, La'Near 12
+4)
+Williams, Antonio 12
+4
+WOOSTER
+'A'
+45.39
+45.28
+1)
+Bird, Landen 11
+2)
+Fitzpatrick, Colin 11
+3)
+Mosely, Javon 10
+4)
+Miller, Brayden 10
+5
+CUY. FALLS
+'A'
+44.67
+45.47
+1)
+Tuttle, Gavanni 12
+2)
+Gaston, Leonardo 12
+3)
+Luster, Jordan 10
+4)
+O'Neal-Stiggers, Phillip 10
+6
+AK. GARFIELD
+'A'
+45.13
+45.48
+1)
+Travis, Marlon 12
+2)
+Ward, Xavier 9
+3)
+Franklin, Chris 12
+4)
+Blair, Ziiyahn 12
+7
+BUCKEYE
+'A'
+45.53
+46.83
+1)
+Balaban, Lucas 11
+2)
+Miller, Cael 11
+3)
+Russo, Brayden 9
+4)
+Hondroudakis, Eddie 11
+
+#15
+Girls'
+400 Meters
+Varsity
+Prelims
+Athlete
+Yr
+Team
+Seed
+Prelims
+Compiled
+1
+Stoops, Jessica
+12
+WADSWORTH
+57.00
+58.55
+q
+2
+Otradovec, Hailey
+12
+WADSWORTH
+55.85
+1:00.76
+q
+3
+Thompson, Aleece
+11
+HOBAN
+1:01.45
+1:00.97
+q
+4
+Scott, Taeyona
+10
+WOOSTER
+59.83
+1:01.02
+q
+5
+Caples, Jordyn
+11
+MED HIGHLAND
+1:02.03
+1:01.43
+q
+6
+Strand-Fox, Abi
+12
+WOOSTER
+1:00.36
+1:02.21
+q
+(1:02.201)
+7
+Cuva, Nina
+10
+TALLMADGE
+1:00.72
+1:02.21
+q
+(1:02.208)
+8
+Elrod, Karsyn
+11
+GREEN
+59.37
+1:02.99
+q
+9
+Carroll, Larkin
+10
+REVERE
+1:05.06
+1:04.02
+10
+Williams, Trinity
+10
+FIRESTONE
+1:01.73
+1:05.47
+11
+Richards, Sophia
+10
+ROOSEVELT
+1:04.75
+1:05.59
+12
+Pazderak, Maggie
+10
+ROOSEVELT
+1:05.27
+1:05.94
+13
+Washington, Arion
+11
+HOBAN
+1:04.65
+1:07.24
+14
+Vinson, Samiah
+11
+BARBERTON
+1:07.31
+1:07.55
+15
+Rogers, Chyan
+11
+FIRESTONE
+1:03.40
+1:08.33
+16
+Hartschuh, Claire
+9
+MED HIGHLAND
+1:06.59
+1:09.71
+17
+Miller, Gabriella
+9
+COPLEY
+1:09.27
+1:11.31
+18
+Smith, Ruby
+11
+CUY. FALLS
+1:07.95
+1:12.37
+19
+Hull, Aaliyah
+9
+COPLEY
+1:08.61
+1:13.98
+20
+Hogue, Heaven
+11
+AK. GARFIELD
+1:16.15
+1:19.00
+21
+Hardaway, Milliona
+9
+AK. GARFIELD
+1:20.58
+1:23.16
+--
+Bir, Lauren
+10
+REVERE
+1:01.95
+SCR
+Heat 1
+1
+Scott, Taeyona
+10
+WOOSTER
+59.83
+1:01.02
+q
+2
+Caples, Jordyn
+11
+MED HIGHLAND
+1:02.03
+1:01.43
+q
+3
+Elrod, Karsyn
+11
+GREEN
+59.37
+1:02.99
+q
+4
+Vinson, Samiah
+11
+BARBERTON
+1:07.31
+1:07.55
+5
+Rogers, Chyan
+11
+FIRESTONE
+1:03.40
+1:08.33
+6
+Hartschuh, Claire
+9
+MED HIGHLAND
+1:06.59
+1:09.71
+7
+Hogue, Heaven
+11
+AK. GARFIELD
+1:16.15
+1:19.00
+8
+Hardaway, Milliona
+9
+AK. GARFIELD
+1:20.58
+1:23.16
+Heat 2
+1
+Stoops, Jessica
+12
+WADSWORTH
+57.00
+58.55
+q
+2
+Thompson, Aleece
+11
+HOBAN
+1:01.45
+1:00.97
+q
+3
+Strand-Fox, Abi
+12
+WOOSTER
+1:00.36
+1:02.21
+q
+(1:02.201)
+4
+Pazderak, Maggie
+10
+ROOSEVELT
+1:05.27
+1:05.94
+5
+Washington, Arion
+11
+HOBAN
+1:04.65
+1:07.24
+6
+Miller, Gabriella
+9
+COPLEY
+1:09.27
+1:11.31
+--
+Bir, Lauren
+10
+REVERE
+1:01.95
+SCR
+Heat 3
+1
+Otradovec, Hailey
+12
+WADSWORTH
+55.85
+1:00.76
+q
+2
+Cuva, Nina
+10
+TALLMADGE
+1:00.72
+1:02.21
+q
+(1:02.208)
+3
+Carroll, Larkin
+10
+REVERE
+1:05.06
+1:04.02
+4
+Williams, Trinity
+10
+FIRESTONE
+1:01.73
+1:05.47
+5
+Richards, Sophia
+10
+ROOSEVELT
+1:04.75
+1:05.59
+6
+Smith, Ruby
+11
+CUY. FALLS
+1:07.95
+1:12.37
+7
+Hull, Aaliyah
+9
+COPLEY
+1:08.61
+1:13.98
+
+#16
+Boys'
+400 Meters
+Varsity
+Prelims
+Athlete
+Yr
+Team
+Seed
+Prelims
+Compiled
+1
+Meier, Kaj
+11
+WOOSTER
+50.39
+50.41
+q
+2
+Roebuck, Emmanuel
+11
+FIRESTONE
+50.31
+50.77
+q
+3
+Simpson, Eiann
+12
+HOBAN
+50.94
+51.04
+q
+4
+Stanford, Breylen
+10
+COPLEY
+50.91
+51.28
+q
+5
+Salazar, Brady
+12
+BUCKEYE
+49.65
+51.53
+q
+6
+Peron, Arthur
+12
+REVERE
+52.32
+52.32
+q
+7
+Oberhaus, Chase
+11
+MED HIGHLAND
+52.68
+52.76
+q
+8
+Tufts, Aiden
+11
+COPLEY
+51.66
+52.92
+q
+9
+Melrose, Roy
+9
+WOOSTER
+53.19
+52.97
+10
+Gryskiewicz, Jordan
+9
+MED HIGHLAND
+56.19
+53.15
+11
+Stephens, Gabe
+12
+REVERE
+52.52
+53.19
+12
+Atanga, Josiah
+10
+ROOSEVELT
+53.24
+53.25
+13
+Yomoah, Evans
+10
+HOBAN
+53.66
+53.68
+14
+Lutz, Isaiah
+11
+CUY. FALLS
+51.50
+54.08
+15
+Hay, Aaron
+10
+TALLMADGE
+57.23
+54.74
+16
+Lindsey, Stephen
+11
+AKRON SVSM
+53.78
+54.77
+17
+Foringer, Jack
+11
+GREEN
+53.39
+55.33
+18
+Alston, Nash
+9
+CUY. FALLS
+54.53
+55.57
+19
+Woolridge, Jaiden
+11
+ROOSEVELT
+55.80
+55.68
+20
+Carr, Andrew
+12
+TALLMADGE
+53.39
+55.89
+21
+Thompson, Monty
+11
+AK. GARFIELD
+58.95
+57.15
+22
+Abbott, Paul
+11
+BUCKEYE
+56.88
+57.96
+23
+Williams, Cartel
+11
+ELLET
+55.89
+58.69
+24
+Myers, Journey
+9
+AK. GARFIELD
+59.93
+1:00.37
+25
+Rutherford, Tristan
+11
+GREEN
+57.92
+1:01.03
+--
+Ruffin, nate
+12
+AK. NORTH
+52.34
+SCR
+--
+Lee, Daenier
+9
+AKRON SVSM
+57.88
+SCR
+Heat 1
+1
+Simpson, Eiann
+12
+HOBAN
+50.94
+51.04
+q
+2
+Stanford, Breylen
+10
+COPLEY
+50.91
+51.28
+q
+3
+Melrose, Roy
+9
+WOOSTER
+53.19
+52.97
+4
+Gryskiewicz, Jordan
+9
+MED HIGHLAND
+56.19
+53.15
+5
+Atanga, Josiah
+10
+ROOSEVELT
+53.24
+53.25
+6
+Williams, Cartel
+11
+ELLET
+55.89
+58.69
+Heat 2
+1
+Meier, Kaj
+11
+WOOSTER
+50.39
+50.41
+q
+2
+Oberhaus, Chase
+11
+MED HIGHLAND
+52.68
+52.76
+q
+3
+Lutz, Isaiah
+11
+CUY. FALLS
+51.50
+54.08
+4
+Foringer, Jack
+11
+GREEN
+53.39
+55.33
+5
+Woolridge, Jaiden
+11
+ROOSEVELT
+55.80
+55.68
+6
+Abbott, Paul
+11
+BUCKEYE
+56.88
+57.96
+7
+Myers, Journey
+9
+AK. GARFIELD
+59.93
+1:00.37
+Heat 3
+1
+Roebuck, Emmanuel
+11
+FIRESTONE
+50.31
+50.77
+q
+2
+Tufts, Aiden
+11
+COPLEY
+51.66
+52.92
+q
+3
+Stephens, Gabe
+12
+REVERE
+52.52
+53.19
+4
+Hay, Aaron
+10
+TALLMADGE
+57.23
+54.74
+5
+Alston, Nash
+9
+CUY. FALLS
+54.53
+55.57
+6
+Carr, Andrew
+12
+TALLMADGE
+53.39
+55.89
+7
+Thompson, Monty
+11
+AK. GARFIELD
+58.95
+57.15
+Heat 4
+1
+Salazar, Brady
+12
+BUCKEYE
+49.65
+51.53
+q
+2
+Peron, Arthur
+12
+REVERE
+52.32
+52.32
+q
+3
+Yomoah, Evans
+10
+HOBAN
+53.66
+53.68
+4
+Lindsey, Stephen
+11
+AKRON SVSM
+53.78
+54.77
+5
+Rutherford, Tristan
+11
+GREEN
+57.92
+1:01.03
+--
+Ruffin, nate
+12
+AK. NORTH
+52.34
+SCR
+--
+Lee, Daenier
+9
+AKRON SVSM
+57.88
+SCR
+
+#17
+Girls'
+300m Hurdles
+Varsity
+Prelims
+Athlete
+Yr
+Team
+Seed
+Prelims
+Compiled
+1
+Haude, Brooke
+10
+WADSWORTH
+48.27
+46.75
+q
+2
+Pylypiak, Celia
+11
+MED HIGHLAND
+46.39
+47.02
+q
+3
+Walters, Naomi
+10
+TALLMADGE
+47.32
+47.11
+q
+4
+Adekunle, Ayona
+12
+GREEN
+47.56
+47.90
+q
+5
+Russell, Landrey
+11
+WOOSTER
+48.03
+48.40
+q
+6
+Wills, Lindsay
+12
+ROOSEVELT
+48.78
+48.63
+q
+7
+Moore, Haley
+11
+FIRESTONE
+51.68
+50.16
+q
+8
+Richards, Mariah
+12
+FIRESTONE
+50.47
+50.60
+q
+9
+Pylypiak, Grace
+9
+MED HIGHLAND
+51.75
+51.69
+10
+McMurray, Aubrey
+12
+REVERE
+52.75
+51.90
+11
+Milicia, Tessa
+12
+REVERE
+50.21
+52.03
+12
+Selden, Gwen
+11
+WOOSTER
+55.07
+53.03
+13
+Fan, Tien-Tien
+9
+COPLEY
+52.58
+53.51
+14
+Baker, Akiylah
+10
+HOBAN
+53.11
+53.82
+15
+Whitlow, Sadie
+12
+HOBAN
+51.69
+53.90
+16
+Diamond, Aleena
+12
+TALLMADGE
+52.01
+54.55
+17
+Rochford, Lillian
+9
+COPLEY
+53.73
+54.92
+18
+Price, Lauren
+12
+GREEN
+51.38
+55.96
+19
+Garner, Dae'Anie
+9
+CUY. FALLS
+56.37
+56.31
+20
+Lindsay, Kyla
+9
+ELLET
+56.95
+57.84
+21
+Dardie, Ahnasia
+9
+ELLET
+1:01.04
+58.72
+22
+Clark, Air'yona
+10
+AK. GARFIELD
+1:00.30
+1:04.00
+--
+Blum, Bailey
+11
+WADSWORTH
+51.23
+SCR
+Heat 1
+1
+Adekunle, Ayona
+12
+GREEN
+47.56
+47.90
+q
+2
+Russell, Landrey
+11
+WOOSTER
+48.03
+48.40
+q
+3
+McMurray, Aubrey
+12
+REVERE
+52.75
+51.90
+4
+Fan, Tien-Tien
+9
+COPLEY
+52.58
+53.51
+5
+Price, Lauren
+12
+GREEN
+51.38
+55.96
+6
+Lindsay, Kyla
+9
+ELLET
+56.95
+57.84
+7
+Clark, Air'yona
+10
+AK. GARFIELD
+1:00.30
+1:04.00
+--
+Blum, Bailey
+11
+WADSWORTH
+51.23
+SCR
+Heat 2
+1
+Haude, Brooke
+10
+WADSWORTH
+48.27
+46.75
+q
+2
+Walters, Naomi
+10
+TALLMADGE
+47.32
+47.11
+q
+3
+Moore, Haley
+11
+FIRESTONE
+51.68
+50.16
+q
+4
+Richards, Mariah
+12
+FIRESTONE
+50.47
+50.60
+q
+5
+Baker, Akiylah
+10
+HOBAN
+53.11
+53.82
+6
+Diamond, Aleena
+12
+TALLMADGE
+52.01
+54.55
+7
+Garner, Dae'Anie
+9
+CUY. FALLS
+56.37
+56.31
+8
+Dardie, Ahnasia
+9
+ELLET
+1:01.04
+58.72
+Heat 3
+1
+Pylypiak, Celia
+11
+MED HIGHLAND
+46.39
+47.02
+q
+2
+Wills, Lindsay
+12
+ROOSEVELT
+48.78
+48.63
+q
+3
+Pylypiak, Grace
+9
+MED HIGHLAND
+51.75
+51.69
+4
+Milicia, Tessa
+12
+REVERE
+50.21
+52.03
+5
+Selden, Gwen
+11
+WOOSTER
+55.07
+53.03
+6
+Whitlow, Sadie
+12
+HOBAN
+51.69
+53.90
+7
+Rochford, Lillian
+9
+COPLEY
+53.73
+54.92
+
+#18
+Boys'
+300m Hurdles
+Varsity
+Prelims
+Athlete
+Yr
+Team
+Seed
+Prelims
+Compiled
+1
+McQueen, Kyle
+12
+ROOSEVELT
+39.41
+40.49
+q
+2
+Dingle, Xai'Yeire
+11
+AK. NORTH
+40.97
+40.98
+q
+3
+Thompson, Cleophus
+10
+BARBERTON
+39.42
+41.00
+q
+4
+Breiding, Ben
+12
+TALLMADGE
+41.40
+41.36
+q
+5
+Isley, Xzavier
+11
+ELLET
+41.97
+41.51
+q
+6
+Hodges, Dwight
+10
+AKRON SVSM
+41.27
+42.09
+q
+7
+Fockler, Collin
+11
+WOOSTER
+41.80
+42.19
+q
+8
+Trahey, Will
+10
+FIRESTONE
+43.52
+42.84
+q
+9
+Johns, Quenton
+12
+TALLMADGE
+41.44
+43.06
+10
+Harrison, Kemonte
+11
+AK. GARFIELD
+42.59
+43.07
+11
+Janas, Riley
+12
+REVERE
+43.26
+43.38
+12
+Lord, Justin
+12
+GREEN
+43.44
+43.78
+13
+Lake, Oliver
+10
+COPLEY
+42.90
+44.04
+14
+Parish, Caleb
+11
+AKRON SVSM
+44.83
+44.05
+15
+Gaydos, Nicholas
+11
+MED HIGHLAND
+44.31
+44.41
+16
+Graf-Burr, Dakari
+11
+FIRESTONE
+43.38
+44.49
+(44.482)
+17
+Gordon, Malik
+10
+BARBERTON
+44.65
+44.49
+(44.487)
+18
+Shepard, Jahiem
+12
+ROOSEVELT
+43.91
+44.85
+19
+Jimenez, Matthew
+9
+WOOSTER
+45.81
+45.15
+20
+Hane, Brayden
+10
+GREEN
+45.52
+45.35
+21
+Gowin, Carter
+12
+COPLEY
+44.57
+45.87
+22
+Johnson, Darren
+9
+CUY. FALLS
+45.19
+45.90
+23
+Smith, Logan
+12
+HOBAN
+43.20
+46.24
+24
+Demming, Isaac
+9
+MED HIGHLAND
+45.71
+47.22
+25
+Murphy, Sam
+10
+HOBAN
+47.28
+47.72
+26
+Stupczy, Zack
+11
+REVERE
+42.25
+47.87
+--
+Bohannon, A.J.
+12
+BUCKEYE
+58.55
+SCR
+--
+Cielma, Rhys
+10
+BUCKEYE
+48.18
+SCR
+Heat 1
+1
+Breiding, Ben
+12
+TALLMADGE
+41.40
+41.36
+q
+2
+Hodges, Dwight
+10
+AKRON SVSM
+41.27
+42.09
+q
+3
+Janas, Riley
+12
+REVERE
+43.26
+43.38
+4
+Parish, Caleb
+11
+AKRON SVSM
+44.83
+44.05
+5
+Gordon, Malik
+10
+BARBERTON
+44.65
+44.49
+(44.487)
+6
+Smith, Logan
+12
+HOBAN
+43.20
+46.24
+--
+Bohannon, A.J.
+12
+BUCKEYE
+58.55
+SCR
+Heat 2
+1
+Dingle, Xai'Yeire
+11
+AK. NORTH
+40.97
+40.98
+q
+2
+Johns, Quenton
+12
+TALLMADGE
+41.44
+43.06
+3
+Lake, Oliver
+10
+COPLEY
+42.90
+44.04
+4
+Graf-Burr, Dakari
+11
+FIRESTONE
+43.38
+44.49
+(44.482)
+5
+Gowin, Carter
+12
+COPLEY
+44.57
+45.87
+6
+Johnson, Darren
+9
+CUY. FALLS
+45.19
+45.90
+--
+Cielma, Rhys
+10
+BUCKEYE
+48.18
+SCR
+Heat 3
+1
+Thompson, Cleophus
+10
+BARBERTON
+39.42
+41.00
+q
+2
+Fockler, Collin
+11
+WOOSTER
+41.80
+42.19
+q
+3
+Harrison, Kemonte
+11
+AK. GARFIELD
+42.59
+43.07
+4
+Lord, Justin
+12
+GREEN
+43.44
+43.78
+5
+Gaydos, Nicholas
+11
+MED HIGHLAND
+44.31
+44.41
+6
+Hane, Brayden
+10
+GREEN
+45.52
+45.35
+7
+Murphy, Sam
+10
+HOBAN
+47.28
+47.72
+Heat 4
+1
+McQueen, Kyle
+12
+ROOSEVELT
+39.41
+40.49
+q
+2
+Isley, Xzavier
+11
+ELLET
+41.97
+41.51
+q
+3
+Trahey, Will
+10
+FIRESTONE
+43.52
+42.84
+q
+4
+Shepard, Jahiem
+12
+ROOSEVELT
+43.91
+44.85
+5
+Jimenez, Matthew
+9
+WOOSTER
+45.81
+45.15
+6
+Demming, Isaac
+9
+MED HIGHLAND
+45.71
+47.22
+7
+Stupczy, Zack
+11
+REVERE
+42.25
+47.87
+
+#19
+Girls'
+800 Meters
+Varsity
+Prelims
+Athlete
+Yr
+Team
+Seed
+Prelims
+Compiled
+1
+Haines, Stella
+9
+ROOSEVELT
+2:32.36
+2:31.53
+Q
+2
+Ross, Tapanga
+11
+TALLMADGE
+2:21.54
+2:32.38
+Q
+3
+Wilson, Caroline
+12
+REVERE
+2:19.63
+2:32.61
+Q
+4
+Bokrossy, Noemi
+10
+WOOSTER
+2:25.59
+2:33.43
+Q
+5
+Hay, Allison
+12
+TALLMADGE
+2:14.58
+2:35.00
+Q
+6
+Dolgowicz, Ella
+10
+WADSWORTH
+2:22.99
+2:35.10
+Q
+7
+Keough, Olivia
+9
+MED HIGHLAND
+2:28.56
+2:35.24
+Q
+8
+Forshey, Madison
+11
+MED HIGHLAND
+2:24.85
+2:35.31
+Q
+9
+Buzard, Natalie
+10
+WADSWORTH
+2:30.64
+2:35.70
+Q
+10
+Eason, Nevaeh
+11
+ELLET
+2:38.20
+2:35.79
+Q
+11
+Marks, Jane
+9
+HOBAN
+2:36.74
+2:36.30
+Q
+12
+Cicerchi, Allison
+12
+GREEN
+2:35.88
+2:36.31
+Q
+13
+Scott, Ava
+10
+WOOSTER
+2:35.30
+2:36.50
+Q
+14
+Kenst, Lucie
+10
+HOBAN
+2:40.11
+2:38.18
+Q
+15
+Adekunle, Zakaiya
+11
+GREEN
+2:26.53
+2:38.57
+Q
+16
+Malinky, Darly
+10
+FIRESTONE
+2:40.63
+2:44.36
+17
+Slack, Maddy
+11
+ROOSEVELT
+2:39.66
+2:44.98
+Q
+18
+Parsons, Rosa
+12
+REVERE
+2:53.59
+2:45.79
+19
+Dejarnette, Cheyenne
+11
+FIRESTONE
+2:55.98
+2:48.88
+20
+Villarreal, Magdalena
+10
+COPLEY
+2:59.17
+2:57.76
+21
+Wooten, Samantha
+11
+ELLET
+3:09.89
+3:07.57
+22
+Green, Montaja
+12
+AK. GARFIELD
+3:31.34
+Heat 1
+1
+Haines, Stella
+9
+ROOSEVELT
+2:32.36
+2:31.53
+Q
+2
+Ross, Tapanga
+11
+TALLMADGE
+2:21.54
+2:32.38
+Q
+3
+Wilson, Caroline
+12
+REVERE
+2:19.63
+2:32.61
+Q
+4
+Bokrossy, Noemi
+10
+WOOSTER
+2:25.59
+2:33.43
+Q
+5
+Eason, Nevaeh
+11
+ELLET
+2:38.20
+2:35.79
+Q
+6
+Scott, Ava
+10
+WOOSTER
+2:35.30
+2:36.50
+Q
+7
+Adekunle, Zakaiya
+11
+GREEN
+2:26.53
+2:38.57
+Q
+8
+Slack, Maddy
+11
+ROOSEVELT
+2:39.66
+2:44.98
+Q
+9
+Dejarnette, Cheyenne
+11
+FIRESTONE
+2:55.98
+2:48.88
+10
+Villarreal, Magdalena
+10
+COPLEY
+2:59.17
+2:57.76
+11
+Green, Montaja
+12
+AK. GARFIELD
+3:31.34
+Heat 2
+1
+Hay, Allison
+12
+TALLMADGE
+2:14.58
+2:35.00
+Q
+2
+Dolgowicz, Ella
+10
+WADSWORTH
+2:22.99
+2:35.10
+Q
+3
+Keough, Olivia
+9
+MED HIGHLAND
+2:28.56
+2:35.24
+Q
+4
+Forshey, Madison
+11
+MED HIGHLAND
+2:24.85
+2:35.31
+Q
+5
+Buzard, Natalie
+10
+WADSWORTH
+2:30.64
+2:35.70
+Q
+6
+Marks, Jane
+9
+HOBAN
+2:36.74
+2:36.30
+Q
+7
+Cicerchi, Allison
+12
+GREEN
+2:35.88
+2:36.31
+Q
+8
+Kenst, Lucie
+10
+HOBAN
+2:40.11
+2:38.18
+Q
+9
+Malinky, Darly
+10
+FIRESTONE
+2:40.63
+2:44.36
+10
+Parsons, Rosa
+12
+REVERE
+2:53.59
+2:45.79
+11
+Wooten, Samantha
+11
+ELLET
+3:09.89
+3:07.57
+
+#20
+Boys'
+800 Meters
+Varsity
+Prelims
+Athlete
+Yr
+Team
+Seed
+Prelims
+Compiled
+1
+DiNicola, Colin
+12
+HOBAN
+2:00.34
+2:01.70
+Q
+2
+Johnson, Ethan
+10
+CUY. FALLS
+1:55.43
+2:05.52
+Q
+3
+Hawthorne, Braylon
+12
+ROOSEVELT
+1:55.85
+2:05.71
+Q
+4
+Ledley, Jack
+11
+REVERE
+1:58.30
+2:06.37
+Q
+5
+Rieth, Nolan
+11
+BUCKEYE
+2:03.78
+2:06.81
+Q
+6
+Connelly, Kellan
+12
+GREEN
+2:07.37
+2:06.85
+Q
+(2:06.844)
+7
+Bossart, Andrew
+11
+MED HIGHLAND
+2:02.78
+2:06.85
+Q
+(2:06.849)
+8
+Gurley, Micah
+12
+TALLMADGE
+2:08.06
+2:06.95
+Q
+9
+Noah, Donevan
+10
+TALLMADGE
+1:56.52
+2:08.80
+Q
+10
+Buckshaw, Carter
+10
+GREEN
+2:02.20
+2:08.95
+Q
+11
+Malpass, Brayden
+11
+COPLEY
+1:57.01
+2:09.24
+Q
+12
+Williams, Jramayne
+12
+ELLET
+2:10.12
+2:09.35
+Q
+13
+Wells, Will
+12
+REVERE
+1:54.71
+2:09.36
+Q
+14
+Ferguson, Braylon
+12
+ELLET
+2:12.28
+2:09.38
+15
+Blaser, Sebastian
+12
+HOBAN
+2:02.18
+2:09.49
+Q
+16
+Klein, Colton
+11
+MED HIGHLAND
+2:04.69
+2:10.06
+Q
+17
+Foster, Dean
+12
+ROOSEVELT
+2:10.44
+2:12.62
+Q
+18
+Ware, Elijah
+9
+FIRESTONE
+2:13.82
+2:12.85
+19
+Galayda, John
+11
+BUCKEYE
+2:14.06
+20
+Kurtz, Blake
+12
+BARBERTON
+2:21.34
+2:14.52
+21
+Hinkle, Wilson
+9
+WOOSTER
+2:14.15
+2:15.35
+22
+Ali, Amru
+11
+COPLEY
+2:11.23
+2:16.24
+23
+Rice, James
+11
+FIRESTONE
+2:16.22
+2:16.39
+24
+O'Brien, Donny
+12
+BARBERTON
+2:15.43
+2:17.43
+25
+Richard, Trey
+JR
+WOOSTER
+2:14.11
+2:18.44
+26
+Campisi, Domenic
+12
+CUY. FALLS
+2:19.20
+2:20.62
+27
+Richardson, Chauntez
+10
+AK. GARFIELD
+2:46.88
+--
+Schlueter, Owen
+11
+AKRON SVSM
+2:12.64
+SCR
+--
+Rea, Evan
+9
+AKRON SVSM
+2:28.44
+SCR
+--
+Luster, Taurean
+11
+AK. GARFIELD
+2:38.65
+SCR
+--
+Cunningham, Robert
+9
+AK. EAST
+SCR
+Heat 1
+1
+DiNicola, Colin
+12
+HOBAN
+2:00.34
+2:01.70
+Q
+2
+Johnson, Ethan
+10
+CUY. FALLS
+1:55.43
+2:05.52
+Q
+3
+Hawthorne, Braylon
+12
+ROOSEVELT
+1:55.85
+2:05.71
+Q
+4
+Ledley, Jack
+11
+REVERE
+1:58.30
+2:06.37
+Q
+5
+Rieth, Nolan
+11
+BUCKEYE
+2:03.78
+2:06.81
+Q
+6
+Connelly, Kellan
+12
+GREEN
+2:07.37
+2:06.85
+Q
+(2:06.844)
+7
+Bossart, Andrew
+11
+MED HIGHLAND
+2:02.78
+2:06.85
+Q
+(2:06.849)
+8
+Gurley, Micah
+12
+TALLMADGE
+2:08.06
+2:06.95
+Q
+9
+Ferguson, Braylon
+12
+ELLET
+2:12.28
+2:09.38
+10
+Galayda, John
+11
+BUCKEYE
+2:14.06
+11
+Kurtz, Blake
+12
+BARBERTON
+2:21.34
+2:14.52
+12
+Hinkle, Wilson
+9
+WOOSTER
+2:14.15
+2:15.35
+13
+O'Brien, Donny
+12
+BARBERTON
+2:15.43
+2:17.43
+14
+Richardson, Chauntez
+10
+AK. GARFIELD
+2:46.88
+--
+Schlueter, Owen
+11
+AKRON SVSM
+2:12.64
+SCR
+--
+Rea, Evan
+9
+AKRON SVSM
+2:28.44
+SCR
+Heat 2
+1
+Noah, Donevan
+10
+TALLMADGE
+1:56.52
+2:08.80
+Q
+2
+Buckshaw, Carter
+10
+GREEN
+2:02.20
+2:08.95
+Q
+3
+Malpass, Brayden
+11
+COPLEY
+1:57.01
+2:09.24
+Q
+4
+Williams, Jramayne
+12
+ELLET
+2:10.12
+2:09.35
+Q
+5
+Wells, Will
+12
+REVERE
+1:54.71
+2:09.36
+Q
+6
+Blaser, Sebastian
+12
+HOBAN
+2:02.18
+2:09.49
+Q
+7
+Klein, Colton
+11
+MED HIGHLAND
+2:04.69
+2:10.06
+Q
+8
+Foster, Dean
+12
+ROOSEVELT
+2:10.44
+2:12.62
+Q
+9
+Ware, Elijah
+9
+FIRESTONE
+2:13.82
+2:12.85
+10
+Ali, Amru
+11
+COPLEY
+2:11.23
+2:16.24
+11
+Rice, James
+11
+FIRESTONE
+2:16.22
+2:16.39
+12
+Richard, Trey
+JR
+WOOSTER
+2:14.11
+2:18.44
+13
+Campisi, Domenic
+12
+CUY. FALLS
+2:19.20
+2:20.62
+--
+Luster, Taurean
+11
+AK. GARFIELD
+2:38.65
+SCR
+--
+Cunningham, Robert
+9
+AK. EAST
+SCR
+
+#21
+Girls'
+200 Meters
+Varsity
+Prelims
+Athlete
+Yr
+Team
+Seed
+Prelims
+Wind
+Compiled
+1
+Stoops, Jessica
+12
+WADSWORTH
+25.40
+25.56
+q
++2.7
+2
+Harris, Kaidyn
+12
+ROOSEVELT
+27.21
+26.27
+q
++2.7
+3
+Friedman, Mahlia
+12
+ROOSEVELT
+26.59
+26.43
+q
++1.4
+4
+Thompson, Aleece
+11
+HOBAN
+26.86
+26.45
+q
++2.2
+5
+Carter, Janiyah
+10
+ELLET
+26.48
+26.58
+q
++2.2
+6
+Blair, Aliza
+11
+FIRESTONE
+26.47
+26.60
+q
++1.1
+7
+Crews, Trinity
+11
+BARBERTON
+27.80
+26.87
+q
++1.4
+8
+Blum, Bailey
+11
+WADSWORTH
+27.11
+27.38
+q
++1.1
+9
+Bockstoce, Anna
+9
+REVERE
+27.66
+27.49
++1.1
+10
+Hackney, Maliyah
+11
+COPLEY
+27.69
+27.56
++2.2
+11
+Krismer, Addison
+12
+GREEN
+27.85
+27.80
++2.2
+12
+Hicks, Mikenna
+9
+CUY. FALLS
+27.79
+27.81
++1.4
+13
+Washington, Arion
+11
+HOBAN
+27.86
++2.7
+14
+Robinson, Lily
+10
+WOOSTER
+27.59
+27.88
++2.7
+15
+Swain, Jamyrah
+10
+FIRESTONE
+26.68
+27.89
++1.4
+16
+Davis, Navie
+9
+TALLMADGE
+28.43
+28.50
++2.7
+17
+Haney, Rachel
+11
+MED HIGHLAND
+28.02
+28.51
++2.7
+18
+Wendland, Kaitlyn
+9
+TALLMADGE
+28.46
+28.67
++1.1
+19
+Chesney, Uana
+11
+AK. NORTH
+29.42
+28.79
++1.4
+20
+Smith, Grace
+9
+REVERE
+28.93
+28.97
++2.2
+21
+Ohmit, J'Anna
+11
+WOOSTER
+27.99
+29.06
++1.1
+22
+Frank, Carina
+12
+COPLEY
+29.59
++2.2
+(29.585)
+23
+Studd, Aleena
+10
+MED HIGHLAND
+30.08
+29.59
++1.4
+(29.589)
+24
+Adam, Ashley
+11
+GREEN
+29.89
++2.7
+25
+Massey, Myjael
+10
+AK. NORTH
+31.33
+30.46
++2.2
+26
+Green, Moneizja
+12
+AK. GARFIELD
+31.43
++1.1
+27
+Thompson, Sa'Lai
+11
+CUY. FALLS
+31.51
+31.96
++1.1
+Heat 1
+1
+Friedman, Mahlia
+12
+ROOSEVELT
+26.59
+26.43
+q
++1.4
+2
+Crews, Trinity
+11
+BARBERTON
+27.80
+26.87
+q
++1.4
+3
+Hicks, Mikenna
+9
+CUY. FALLS
+27.79
+27.81
++1.4
+4
+Swain, Jamyrah
+10
+FIRESTONE
+26.68
+27.89
++1.4
+5
+Chesney, Uana
+11
+AK. NORTH
+29.42
+28.79
++1.4
+6
+Studd, Aleena
+10
+MED HIGHLAND
+30.08
+29.59
++1.4
+(29.589)
+Heat 2
+1
+Thompson, Aleece
+11
+HOBAN
+26.86
+26.45
+q
++2.2
+2
+Carter, Janiyah
+10
+ELLET
+26.48
+26.58
+q
++2.2
+3
+Hackney, Maliyah
+11
+COPLEY
+27.69
+27.56
++2.2
+4
+Krismer, Addison
+12
+GREEN
+27.85
+27.80
++2.2
+5
+Smith, Grace
+9
+REVERE
+28.93
+28.97
++2.2
+6
+Frank, Carina
+12
+COPLEY
+29.59
++2.2
+(29.585)
+7
+Massey, Myjael
+10
+AK. NORTH
+31.33
+30.46
++2.2
+Heat 3
+1
+Blair, Aliza
+11
+FIRESTONE
+26.47
+26.60
+q
++1.1
+2
+Blum, Bailey
+11
+WADSWORTH
+27.11
+27.38
+q
++1.1
+3
+Bockstoce, Anna
+9
+REVERE
+27.66
+27.49
++1.1
+4
+Wendland, Kaitlyn
+9
+TALLMADGE
+28.46
+28.67
++1.1
+5
+Ohmit, J'Anna
+11
+WOOSTER
+27.99
+29.06
++1.1
+6
+Green, Moneizja
+12
+AK. GARFIELD
+31.43
++1.1
+7
+Thompson, Sa'Lai
+11
+CUY. FALLS
+31.51
+31.96
++1.1
+Heat 4
+1
+Stoops, Jessica
+12
+WADSWORTH
+25.40
+25.56
+q
++2.7
+2
+Harris, Kaidyn
+12
+ROOSEVELT
+27.21
+26.27
+q
++2.7
+3
+Washington, Arion
+11
+HOBAN
+27.86
++2.7
+4
+Robinson, Lily
+10
+WOOSTER
+27.59
+27.88
++2.7
+5
+Davis, Navie
+9
+TALLMADGE
+28.43
+28.50
++2.7
+6
+Haney, Rachel
+11
+MED HIGHLAND
+28.02
+28.51
++2.7
+7
+Adam, Ashley
+11
+GREEN
+29.89
++2.7
+
+#22
+Boys'
+200 Meters
+Varsity
+Prelims
+Athlete
+Yr
+Team
+Seed
+Prelims
+Wind
+Compiled
+1
+Carter, Trey
+11
+ELLET
+22.03
+21.93
+q
++0.4
+2
+Prince, DeCarlo
+12
+AKRON SVSM
+22.64
+22.03
+q
++1.1
+3
+Parmer, Mekhi
+11
+FIRESTONE
+21.88
+22.16
+q
++2.9
+4
+Bonnett, Brayden
+12
+BUCKEYE
+22.46
+22.21
+q
++2.9
+5
+Conley, Brenden
+10
+TALLMADGE
+21.77
+22.27
+q
++1.1
+6
+Garrett, Carter
+9
+FIRESTONE
+22.34
+22.37
+q
++1.6
+7
+Reed, Evan
+12
+GREEN
+22.29
+22.74
+q
++1.6
+8
+Brauneck, Ben
+12
+GREEN
+22.40
+22.77
+q
++0.4
+9
+Folk, La'Near
+12
+HOBAN
+22.82
+23.13
++2.9
+10
+Smith, Jihad
+10
+AK. NORTH
+23.32
+23.24
++1.6
+11
+Gotto, Angelo
+10
+TALLMADGE
+22.67
+23.26
++1.1
+12
+Lutz, Isaiah
+11
+CUY. FALLS
+22.89
+23.39
++0.4
+13
+Dickerson, Timonthy
+9
+AKRON SVSM
+23.62
+23.73
++0.4
+14
+Miller, Brayden
+10
+WOOSTER
+23.34
+23.87
++2.9
+15
+McCray, Tylun
+9
+HOBAN
+23.88
+23.92
++2.9
+16
+Ward, Xavier
+9
+AK. GARFIELD
+23.98
++1.6
+17
+Blair, Ziiyahn
+12
+AK. GARFIELD
+23.99
++2.9
+18
+Bivins, Derrick
+11
+ELLET
+24.02
+24.13
++1.6
+19
+Martens-Kwiatowski, Carson
+12
+MED HIGHLAND
+23.88
+24.19
++0.4
+20
+Childs, Calvin
+11
+REVERE
+24.22
++1.6
+21
+Russo, Brayden
+9
+BUCKEYE
+24.42
+24.57
++0.4
+22
+Fitzpatrick, Colin
+11
+WOOSTER
+24.17
+24.59
++1.6
+23
+Brown, Parker
+9
+COPLEY
+25.77
+24.77
++2.9
+24
+Chambers, Bradley
+11
+COPLEY
+24.83
+25.46
++1.1
+--
+Metzger, Christopher
+12
+MED HIGHLAND
+SCR
+--
+Wharton, Terrell
+12
+AK. EAST
+SCR
+--
+Drvenkar, Harrison
+12
+REVERE
+23.85
+SCR
+--
+Luster, Jordan
+10
+CUY. FALLS
+23.52
+SCR
+--
+Shan Talbert, Ke'
+12
+ROOSEVELT
+22.94
+SCR
+Heat 1
+1
+Garrett, Carter
+9
+FIRESTONE
+22.34
+22.37
+q
++1.6
+2
+Reed, Evan
+12
+GREEN
+22.29
+22.74
+q
++1.6
+3
+Smith, Jihad
+10
+AK. NORTH
+23.32
+23.24
++1.6
+4
+Ward, Xavier
+9
+AK. GARFIELD
+23.98
++1.6
+5
+Bivins, Derrick
+11
+ELLET
+24.02
+24.13
++1.6
+6
+Childs, Calvin
+11
+REVERE
+24.22
++1.6
+7
+Fitzpatrick, Colin
+11
+WOOSTER
+24.17
+24.59
++1.6
+--
+Shan Talbert, Ke'
+12
+ROOSEVELT
+22.94
+SCR
+Heat 2
+1
+Carter, Trey
+11
+ELLET
+22.03
+21.93
+q
++0.4
+2
+Brauneck, Ben
+12
+GREEN
+22.40
+22.77
+q
++0.4
+3
+Lutz, Isaiah
+11
+CUY. FALLS
+22.89
+23.39
++0.4
+4
+Dickerson, Timonthy
+9
+AKRON SVSM
+23.62
+23.73
++0.4
+5
+Martens-Kwiatowski, Carson
+12
+MED HIGHLAND
+23.88
+24.19
++0.4
+6
+Russo, Brayden
+9
+BUCKEYE
+24.42
+24.57
++0.4
+--
+Metzger, Christopher
+12
+MED HIGHLAND
+SCR
+Heat 3
+1
+Parmer, Mekhi
+11
+FIRESTONE
+21.88
+22.16
+q
++2.9
+2
+Bonnett, Brayden
+12
+BUCKEYE
+22.46
+22.21
+q
++2.9
+3
+Folk, La'Near
+12
+HOBAN
+22.82
+23.13
++2.9
+4
+Miller, Brayden
+10
+WOOSTER
+23.34
+23.87
++2.9
+5
+McCray, Tylun
+9
+HOBAN
+23.88
+23.92
++2.9
+6
+Blair, Ziiyahn
+12
+AK. GARFIELD
+23.99
++2.9
+7
+Brown, Parker
+9
+COPLEY
+25.77
+24.77
++2.9
+Heat 4
+1
+Prince, DeCarlo
+12
+AKRON SVSM
+22.64
+22.03
+q
++1.1
+2
+Conley, Brenden
+10
+TALLMADGE
+21.77
+22.27
+q
++1.1
+3
+Gotto, Angelo
+10
+TALLMADGE
+22.67
+23.26
++1.1
+4
+Chambers, Bradley
+11
+COPLEY
+24.83
+25.46
++1.1
+--
+Wharton, Terrell
+12
+AK. EAST
+SCR
+--
+Drvenkar, Harrison
+12
+REVERE
+23.85
+SCR
+--
+Luster, Jordan
+10
+CUY. FALLS
+23.52
+SCR
+
+#3
+Girls'
+3200 Meters
+Varsity
+Finals
+Athlete
+Yr
+Team
+Seed
+Finals
+Pts
+1
+Martuccio, Makayla
+11
+TALLMADGE
+10:58.39
+10:50.65
+10
+2
+Schuler, Katie
+11
+MED HIGHLAND
+10:57.64
+10:55.73
+8
+3
+Gerschutz, Maggie
+11
+WADSWORTH
+11:15.29
+11:16.92
+6
+4
+Ingratta, Kaylee
+9
+COPLEY
+11:28.27
+11:20.86
+5
+5
+Sveda, Lucia
+11
+GREEN
+11:41.24
+11:31.87
+4
+6
+Lang, Keira
+12
+REVERE
+11:37.11
+3
+7
+Martuccio, Mackenzie
+11
+TALLMADGE
+11:46.01
+2
+8
+Cullen, Mary
+9
+MED HIGHLAND
+12:17.89
+11:56.15
+1
+9
+Friedl, Kyleigh
+11
+WADSWORTH
+11:22.73
+11:58.42
+10
+Ingersoll, Claire
+10
+COPLEY
+12:23.46
+12:10.95
+11
+Dougherty, Ashlyn
+9
+HOBAN
+12:45.79
+12:21.96
+12
+Miller, Kathryn
+11
+FIRESTONE
+12:20.49
+12:33.60
+13
+Slaby, Ella
+11
+REVERE
+12:30.60
+12:39.61
+14
+Robey, Abigail
+9
+GREEN
+13:10.18
+12:40.33
+15
+Whyte, Madelynn
+11
+WOOSTER
+12:40.42
+12:48.57
+16
+Wolf, Kennedy
+10
+WOOSTER
+13:07.25
+13:01.91
+17
+Highfield, Fallon
+11
+FIRESTONE
+13:57.12
+13:19.44
+18
+Shay, Bella
+11
+CUY. FALLS
+13:31.66
+13:38.10
+19
+Adkins, Holly
+12
+BARBERTON
+14:17.35
+13:57.76
+20
+Wilson, Emma
+9
+HOBAN
+15:21.03
+14:58.00
+
+#4
+Boys'
+3200 Meters
+Varsity
+Finals
+Athlete
+Yr
+Team
+Seed
+Finals
+Pts
+1
+Malpass, Brayden
+11
+COPLEY
+9:47.55
+10
+2
+Stevenson, Carter
+12
+ROOSEVELT
+9:49.67
+9:50.37
+8
+3
+Owens, John
+10
+REVERE
+9:30.24
+9:53.71
+6
+4
+Stahl, Joseph
+9
+BUCKEYE
+10:13.08
+9:57.59
+5
+5
+Welch, Andrew
+10
+MED HIGHLAND
+10:04.16
+10:05.32
+4
+6
+Skeriotis, Aaron
+9
+FIRESTONE
+10:22.47
+10:06.56
+3
+7
+Durbin, Bryson
+11
+TALLMADGE
+10:10.78
+10:10.97
+2
+8
+Gursky, Max
+10
+HOBAN
+10:30.92
+10:24.83
+1
+9
+Janke, Will
+11
+REVERE
+10:23.70
+10:25.44
+10
+Alba Ordonana, Oier
+10
+BARBERTON
+10:35.62
+10:25.72
+11
+Plazo, Kyle
+12
+GREEN
+10:33.24
+10:26.79
+12
+Wood, Kade
+12
+WOOSTER
+10:33.32
+10:38.29
+13
+Sullivan, Isaac
+11
+AKRON SVSM
+11:01.32
+10:42.32
+14
+Clemans, Adam
+10
+HOBAN
+10:48.99
+10:42.39
+15
+Fox, Nathan
+11
+CUY. FALLS
+10:37.21
+10:49.88
+16
+San Jose, Luke
+9
+GREEN
+11:15.09
+10:50.70
+17
+Messerly, Elliot
+12
+WOOSTER
+10:47.80
+10:53.58
+18
+Dodson, Zackary
+10
+COPLEY
+11:17.99
+10:56.34
+19
+Rea, Evan
+9
+AKRON SVSM
+11:14.85
+11:00.63
+20
+Anderson, Brant
+9
+BUCKEYE
+11:00.89
+11:06.91
+21
+Miller, Micah
+9
+FIRESTONE
+11:41.82
+11:10.47
+22
+Boggs, Benjamin
+12
+MED HIGHLAND
+11:17.51
+11:26.34
+23
+Cybyk, Dorian
+12
+CUY. FALLS
+11:31.66
+11:32.54
+24
+Plough, Chris
+9
+ROOSEVELT
+11:14.45
+11:33.05
+25
+Slusser, Tyler
+10
+ELLET
+11:55.45
+12:08.43
+--
+Myango, Daniel
+10
+AK. GARFIELD
+SCR
+
+#23
+Girls'
+4x400 Relay
+Varsity
+Prelims
+Team
+Relay
+Seed
+Prelims
+Compiled
+1
+MED HIGHLAND
+'A'
+4:08.57
+4:09.68
+q
+1)
+Pylypiak, Celia 11
+2)
+Forshey, Madison 11
+3)
+Gryskiewicz, Allison 12
+4)
+Caples, Jordyn 11
+2
+TALLMADGE
+'A'
+4:04.52
+4:10.16
+q
+1)
+Hay, Allison 12
+2)
+Cuva, Nina 10
+3)
+Walters, Naomi 9
+4)
+Ross, Tapanga 11
+3
+REVERE
+'A'
+4:08.90
+4:13.42
+q
+1)
+Bir, Lauren 10
+2)
+DiSalvo, Lauren 12
+3)
+Carroll, Larkin 10
+4)
+Wilson, Caroline 12
+4
+WOOSTER
+'A'
+4:05.43
+4:15.82
+q
+1)
+Scott, Taeyona 10
+2)
+Russell, Landrey 11
+3)
+Hafner, Teagan 9
+4)
+Strand-Fox, Abi 12
+5
+WADSWORTH
+'A'
+3:59.32
+4:17.45
+q
+1)
+Otradovec, Hailey 12
+2)
+Dolgowicz, Ella 10
+3)
+Maxwell, Bree 10
+4)
+Stoops, Jessica 12
+6
+GREEN
+'A'
+4:12.52
+4:17.74
+q
+1)
+Adekunle, Zakaiya 11
+2)
+Cicerchi, Allison 12
+3)
+Krismer, Addison 12
+4)
+Elrod, Karsyn 11
+7
+HOBAN
+'A'
+4:25.84
+4:27.45
+q
+1)
+Washington, Arion 11
+2)
+Marks, Jane 9
+3)
+Thompson, Aleece 11
+4)
+Owens-Brown, Trinity 10
+8
+ROOSEVELT
+'A'
+4:30.81
+4:32.19
+q
+1)
+Pazderak, Maggie 10
+2)
+Haines, Stella 9
+3)
+Richards, Sophia 10
+4)
+Slack, Maddy 11
+9
+CUY. FALLS
+'A'
+4:53.48
+4:50.30
+1)
+Beasley, Aiken 10
+2)
+Delong, Kaidence 10
+3)
+Schimberg-Campbell, Khenady 11
+4)
+Smith, Ruby 11
+10
+COPLEY
+'A'
+4:40.42
+5:14.88
+1)
+Rochford, Lillian 9
+2)
+Miller, Gabriella 9
+3)
+Fan, Tien-Tien 9
+4)
+Hull, Aaliyah 9
+Heat 1
+1
+TALLMADGE
+'A'
+4:04.52
+4:10.16
+q
+1)
+Hay, Allison 12
+2)
+Cuva, Nina 10
+3)
+Walters, Naomi 9
+4)
+Ross, Tapanga 11
+2
+WOOSTER
+'A'
+4:05.43
+4:15.82
+q
+1)
+Scott, Taeyona 10
+2)
+Russell, Landrey 11
+3)
+Hafner, Teagan 9
+4)
+Strand-Fox, Abi 12
+3
+GREEN
+'A'
+4:12.52
+4:17.74
+q
+1)
+Adekunle, Zakaiya 11
+2)
+Cicerchi, Allison 12
+3)
+Krismer, Addison 12
+4)
+Elrod, Karsyn 11
+4
+HOBAN
+'A'
+4:25.84
+4:27.45
+q
+1)
+Washington, Arion 11
+2)
+Marks, Jane 9
+3)
+Thompson, Aleece 11
+4)
+Owens-Brown, Trinity 10
+5
+CUY. FALLS
+'A'
+4:53.48
+4:50.30
+1)
+Beasley, Aiken 10
+2)
+Delong, Kaidence 10
+3)
+Schimberg-Campbell, Khenady 11
+4)
+Smith, Ruby 11
+Heat 2
+1
+MED HIGHLAND
+'A'
+4:08.57
+4:09.68
+q
+1)
+Pylypiak, Celia 11
+2)
+Forshey, Madison 11
+3)
+Gryskiewicz, Allison 12
+4)
+Caples, Jordyn 11
+2
+REVERE
+'A'
+4:08.90
+4:13.42
+q
+1)
+Bir, Lauren 10
+2)
+DiSalvo, Lauren 12
+3)
+Carroll, Larkin 10
+4)
+Wilson, Caroline 12
+3
+WADSWORTH
+'A'
+3:59.32
+4:17.45
+q
+1)
+Otradovec, Hailey 12
+2)
+Dolgowicz, Ella 10
+3)
+Maxwell, Bree 10
+4)
+Stoops, Jessica 12
+4
+ROOSEVELT
+'A'
+4:30.81
+4:32.19
+q
+1)
+Pazderak, Maggie 10
+2)
+Haines, Stella 9
+3)
+Richards, Sophia 10
+4)
+Slack, Maddy 11
+5
+COPLEY
+'A'
+4:40.42
+5:14.88
+1)
+Rochford, Lillian 9
+2)
+Miller, Gabriella 9
+3)
+Fan, Tien-Tien 9
+4)
+Hull, Aaliyah 9
+
+#24
+Boys'
+4x400 Relay
+Varsity
+Prelims
+Team
+Relay
+Seed
+Prelims
+Compiled
+1
+HOBAN
+'A'
+3:32.14
+3:30.03
+q
+1)
+DiNicola, Colin 12
+2)
+Blaser, Sebastian 12
+3)
+Yomoah, Evans 10
+4)
+Simpson, Eiann 12
+2
+REVERE
+'A'
+3:29.58
+3:30.65
+q
+1)
+Ledley, Jack 11
+2)
+Juby, Donovan 12
+3)
+Peron, Arthur 12
+4)
+Stephens, Gabe 12
+3
+ROOSEVELT
+'A'
+3:31.85
+3:31.66
+q
+1)
+Hawthorne, Braylon 12
+2)
+Hassler, Simon 12
+3)
+Atanga, Josiah 10
+4)
+Portis, Jaiden 12
+4
+TALLMADGE
+'A'
+3:31.06
+3:31.82
+q
+1)
+Reid III, Robert 12
+2)
+Johns, Quenton 12
+3)
+Sferra, Lucas 12
+4)
+Cuva, Sonny 12
+5
+MED HIGHLAND
+'A'
+3:33.05
+3:32.23
+q
+1)
+Gryskiewicz, Braden 12
+2)
+Bossart, Andrew 11
+3)
+Djordjevich, Aleksandar 12
+4)
+Oberhaus, Chase 11
+6
+CUY. FALLS
+'A'
+3:32.19
+3:32.39
+q
+1)
+Johnson, Ethan 10
+2)
+Luster, Jordan 10
+3)
+Lutz, Isaiah 11
+4)
+Smith, Martin 10
+7
+BUCKEYE
+'A'
+3:34.65
+3:33.86
+q
+1)
+Pshonyak, Dimitry 11
+2)
+Rieth, Nolan 11
+3)
+Hondroudakis, Eddie 11
+4)
+Salazar, Brady 12
+8
+COPLEY
+'A'
+3:33.95
+3:36.02
+q
+1)
+Tufts, Aiden 11
+2)
+Idley, Taiki 11
+3)
+McKnight, Andrew 12
+4)
+Stanford, Breylen 10
+9
+WOOSTER
+'A'
+3:30.94
+3:36.53
+1)
+Melrose, Roy 9
+2)
+Meier, Kaj 11
+3)
+Bird, Landen 11
+4)
+Older, William 12
+10
+GREEN
+'A'
+3:46.71
+3:56.84
+1)
+Lord, Justin 12
+2)
+Hane, Brayden 10
+3)
+VanVoorhis, Dorian 12
+4)
+Rutherford, Tristan 11
+11
+AKRON SVSM
+'A'
+4:03.30
+3:59.83
+1)
+Lindsey, Stephen 11
+2)
+Parish, Caleb 11
+3)
+Lee, Daenier 9
+4)
+Hodges, Dwight 10
+--
+AK. GARFIELD
+'A'
+3:52.24
+SCR
+1)
+Blair, Ziiyahn 12
+2)
+Thompson, Monty 11
+3)
+Myers, Journey 9
+4)
+Harrison, Kemonte 11
+Heat 1
+1
+TALLMADGE
+'A'
+3:31.06
+3:31.82
+q
+1)
+Reid III, Robert 12
+2)
+Johns, Quenton 12
+3)
+Sferra, Lucas 12
+4)
+Cuva, Sonny 12
+2
+MED HIGHLAND
+'A'
+3:33.05
+3:32.23
+q
+1)
+Gryskiewicz, Braden 12
+2)
+Bossart, Andrew 11
+3)
+Djordjevich, Aleksandar 12
+4)
+Oberhaus, Chase 11
+3
+CUY. FALLS
+'A'
+3:32.19
+3:32.39
+q
+1)
+Johnson, Ethan 10
+2)
+Luster, Jordan 10
+3)
+Lutz, Isaiah 11
+4)
+Smith, Martin 10
+4
+WOOSTER
+'A'
+3:30.94
+3:36.53
+1)
+Melrose, Roy 9
+2)
+Meier, Kaj 11
+3)
+Bird, Landen 11
+4)
+Older, William 12
+5
+GREEN
+'A'
+3:46.71
+3:56.84
+1)
+Lord, Justin 12
+2)
+Hane, Brayden 10
+3)
+VanVoorhis, Dorian 12
+4)
+Rutherford, Tristan 11
+--
+AK. GARFIELD
+'A'
+3:52.24
+SCR
+1)
+Blair, Ziiyahn 12
+2)
+Thompson, Monty 11
+3)
+Myers, Journey 9
+4)
+Harrison, Kemonte 11
+Heat 2
+1
+HOBAN
+'A'
+3:32.14
+3:30.03
+q
+1)
+DiNicola, Colin 12
+2)
+Blaser, Sebastian 12
+3)
+Yomoah, Evans 10
+4)
+Simpson, Eiann 12
+2
+REVERE
+'A'
+3:29.58
+3:30.65
+q
+1)
+Ledley, Jack 11
+2)
+Juby, Donovan 12
+3)
+Peron, Arthur 12
+4)
+Stephens, Gabe 12
+3
+ROOSEVELT
+'A'
+3:31.85
+3:31.66
+q
+1)
+Hawthorne, Braylon 12
+2)
+Hassler, Simon 12
+3)
+Atanga, Josiah 10
+4)
+Portis, Jaiden 12
+4
+BUCKEYE
+'A'
+3:34.65
+3:33.86
+q
+1)
+Pshonyak, Dimitry 11
+2)
+Rieth, Nolan 11
+3)
+Hondroudakis, Eddie 11
+4)
+Salazar, Brady 12
+5
+COPLEY
+'A'
+3:33.95
+3:36.02
+q
+1)
+Tufts, Aiden 11
+2)
+Idley, Taiki 11
+3)
+McKnight, Andrew 12
+4)
+Stanford, Breylen 10
+6
+AKRON SVSM
+'A'
+4:03.30
+3:59.83
+1)
+Lindsey, Stephen 11
+2)
+Parish, Caleb 11
+3)
+Lee, Daenier 9
+4)
+Hodges, Dwight 10
+
+#5
+Girls'
+100m Hurdles
+Varsity
+Finals
+Athlete
+Yr
+Team
+Seed
+Finals
+Wind
+Pts
+1
+Hafner, Teagan
+9
+WOOSTER
+14.87
+15.02
++0.5
+10
+2
+Haude, Brooke
+10
+WADSWORTH
+15.42
+15.27
++0.5
+8
+3
+Moore, Haley
+11
+FIRESTONE
+15.67
+15.53
++0.5
+6
+4
+Pylypiak, Celia
+11
+MED HIGHLAND
+15.90
+16.07
++0.5
+5
+5
+Adekunle, Ayona
+12
+GREEN
+15.85
+16.32
++0.5
+4
+6
+Hartschuh, Audrey
+11
+MED HIGHLAND
+16.55
+16.42
++0.5
+3
+7
+Hunter, Alizya
+12
+REVERE
+16.94
+16.75
++0.5
+2
+8
+McMurray, Aubrey
+12
+REVERE
+16.85
+17.11
++0.5
+1
+
+#6
+Boys'
+110m Hurdles
+Varsity
+Finals
+Athlete
+Yr
+Team
+Seed
+Finals
+Wind
+Pts
+1
+Hann, Ali
+12
+AKRON SVSM
+14.82
+14.71
++0.3
+10
+2
+McQueen, Kyle
+12
+ROOSEVELT
+14.58
+14.72
++0.3
+8
+3
+Stupczy, Zack
+11
+REVERE
+15.37
+15.19
++0.3
+6
+4
+Demming, Isaac
+9
+MED HIGHLAND
+15.79
+15.66
++0.3
+5
+5
+Hunt, Ty
+11
+TALLMADGE
+15.94
+15.76
++0.3
+4
+6
+Dingle, Xai'Yeire
+11
+AK. NORTH
+15.72
+15.79
++0.3
+3
+7
+Shepard, Jahiem
+12
+ROOSEVELT
+15.77
+15.88
++0.3
+2
+8
+Fockler, Collin
+11
+WOOSTER
+15.94
+15.96
++0.3
+1
+
+#7
+Girls'
+100 Meters
+Varsity
+Finals
+Athlete
+Yr
+Team
+Seed
+Finals
+Wind
+Pts
+1
+Stoops, Jessica
+12
+WADSWORTH
+12.63
+12.59
++0.6
+10
+2
+Harris, Kaidyn
+12
+ROOSEVELT
+12.53
+12.78
++0.6
+8
+3
+Crews, Trinity
+11
+BARBERTON
+13.00
+12.93
++0.6
+6
+4
+Williams, Sayanni
+10
+FIRESTONE
+13.07
+13.08
++0.6
+5
+5
+Carter, Janiyah
+10
+ELLET
+13.06
+13.17
++0.6
+4
+6
+Chesney, Uana
+11
+AK. NORTH
+13.20
+13.24
++0.6
+3
+7
+Milicia, Madeline
+10
+REVERE
+13.24
+13.26
++0.6
+2
+8
+Robinson, Lily
+10
+WOOSTER
+13.21
+13.29
++0.6
+1
+
+#8
+Boys'
+100 Meters
+Varsity
+Finals
+Athlete
+Yr
+Team
+Seed
+Finals
+Wind
+Pts
+1
+Carter, Trey
+11
+ELLET
+10.86
+10.92
++0.1
+10
+2
+Prince, DeCarlo
+12
+AKRON SVSM
+10.73
+10.97
++0.1
+8
+3
+Parmer, Mekhi
+11
+FIRESTONE
+10.87
+11.00
++0.1
+6
+4
+Bonnett, Brayden
+12
+BUCKEYE
+10.95
+11.04
++0.1
+5
+(11.035)
+5
+Conley, Brenden
+10
+TALLMADGE
+10.86
+11.04
++0.1
+4
+(11.037)
+6
+Reid III, Robert
+12
+TALLMADGE
+11.07
+11.04
++0.1
+3
+(11.040)
+7
+Haley, Semaj
+12
+AKRON SVSM
+11.11
+11.20
++0.1
+2
+8
+Reed, Evan
+12
+GREEN
+11.15
+11.22
++0.1
+1
+
+#9
+Girls'
+4x200 Relay
+Varsity
+Finals
+Team
+Relay
+Seed
+Finals
+Pts
+1
+WADSWORTH
+'A'
+1:46.23
+1:42.24
+10
+1)
+Haude, Brooke 10
+2)
+Maxwell, Bree 10
+3)
+Valatka, Ashley 11
+4)
+Otradovec, Hailey 12
+2
+FIRESTONE
+'A'
+1:45.58
+1:44.92
+8
+1)
+Swain, Jamyrah 10
+2)
+Williams, Trinity 10
+3)
+Williams, Sayanni 10
+4)
+Blair, Aliza 11
+3
+WOOSTER
+'A'
+1:48.48
+1:47.20
+6
+1)
+Robinson, Lily 10
+2)
+Scott, Taeyona 10
+3)
+Russell, Landrey 11
+4)
+Strand-Fox, Abi 12
+4
+HOBAN
+'A'
+1:46.98
+1:47.43
+5
+1)
+Golden, Jazze 12
+2)
+Baridor, Muudum 10
+3)
+Pearson, Anastasia 9
+4)
+Thompson, Aleece 11
+5
+REVERE
+'A'
+1:49.86
+1:47.52
+4
+1)
+Gesing, Aubrey 12
+2)
+Bir, Lauren 10
+3)
+DiSalvo, Lauren 12
+4)
+Wilson, Caroline 12
+6
+MED HIGHLAND
+'A'
+1:47.86
+1:47.59
+3
+1)
+Whitling, Audrey 11
+2)
+Marquis, Scout 9
+3)
+Gryskiewicz, Allison 12
+4)
+Caples, Jordyn 11
+7
+COPLEY
+'A'
+1:53.52
+1:49.94
+2
+1)
+Hackney, Maliyah 11
+2)
+Hadi, MacKenzie 9
+3)
+Cowan, Brooklynn 10
+4)
+Owens, Jayli 9
+8
+TALLMADGE
+'A'
+1:50.88
+1:50.14
+1
+1)
+Diamond, Aleena 12
+2)
+Cuva, Nina 10
+3)
+Wendland, Kaitlyn 9
+4)
+Davis, Navie 9
+
+#10
+Boys'
+4x200 Relay
+Varsity
+Finals
+Team
+Relay
+Seed
+Finals
+Pts
+1
+GREEN
+'A'
+1:29.60
+1:28.36
+10
+1)
+Brauneck, Ben 12
+2)
+Liberatore, Reed 10
+3)
+McCann, Cade 11
+4)
+Reed, Evan 12
+2
+ROOSEVELT
+'A'
+1:30.11
+1:28.75
+8
+1)
+Ellington, Tyler 11
+2)
+Shan Talbert, Ke' 12
+3)
+Portis, Jaiden 12
+4)
+Hassler, Simon 12
+3
+TALLMADGE
+'A'
+1:29.48
+1:28.83
+6
+1)
+Cuva, Sonny 12
+2)
+Reid III, Robert 12
+3)
+Gotto, Angelo 10
+4)
+Conley, Brenden 10
+4
+AKRON SVSM
+'A'
+1:31.33
+1:30.29
+5
+1)
+Lindsey, Stephen 11
+2)
+Dickerson, Timonthy 9
+3)
+Hodges, Dwight 10
+4)
+Chapman, Elijah 10
+5
+FIRESTONE
+'A'
+1:30.58
+1:30.80
+4
+1)
+Parmer, Mekhi 11
+2)
+Roebuck, Emmanuel 11
+3)
+Francis, Cortland 12
+4)
+Garrett, Carter 9
+6
+HOBAN
+'A'
+1:31.33
+1:30.91
+3
+1)
+Sneed, Josiah 12
+2)
+Jansky, Reilley 12
+3)
+Folk, La'Near 12
+4)
+Simpson, Eiann 12
+7
+COPLEY
+'A'
+1:33.52
+1:32.25
+2
+1)
+Tufts, Aiden 11
+2)
+Stanford, Breylen 10
+3)
+Conteh, Sonkita 10
+4)
+McKnight, Andrew 12
+8
+BUCKEYE
+'A'
+1:33.00
+1:33.13
+1
+1)
+Salazar, Brady 12
+2)
+Miller, Cael 11
+3)
+Hondroudakis, Eddie 11
+4)
+Bonnett, Brayden 12
+
+#11
+Girls'
+1600 Meters
+Varsity
+Finals
+Athlete
+Yr
+Team
+Seed
+Finals
+Pts
+1
+Schuler, Katie
+11
+MED HIGHLAND
+5:05.80
+5:03.02
+10
+2
+Martuccio, Makayla
+11
+TALLMADGE
+5:00.58
+5:04.60
+8
+3
+Ingratta, Kaylee
+9
+COPLEY
+5:09.14
+5:12.90
+6
+4
+Lang, Keira
+12
+REVERE
+5:20.23
+5:18.70
+5
+5
+Ross, Cami
+12
+WADSWORTH
+5:25.53
+5:21.65
+4
+6
+Cullen, Mary
+9
+MED HIGHLAND
+5:24.66
+5:23.95
+3
+7
+Martuccio, Mackenzie
+11
+TALLMADGE
+5:27.62
+5:24.09
+2
+8
+Sveda, Lucia
+11
+GREEN
+5:23.00
+5:28.06
+1
+9
+Kenst, Lucie
+10
+HOBAN
+5:49.29
+5:32.55
+10
+Glass, Londyn
+11
+GREEN
+5:41.07
+5:32.71
+11
+Dougherty, Ashlyn
+9
+HOBAN
+5:50.51
+5:40.23
+12
+Muhl, Clare
+10
+WADSWORTH
+5:43.13
+5:43.53
+13
+Miller, Kathryn
+11
+FIRESTONE
+5:48.50
+5:44.31
+14
+Slaby, Ella
+11
+REVERE
+5:47.47
+15
+Miller, Macey
+11
+CUY. FALLS
+5:41.31
+5:47.97
+16
+Scott, Ella
+10
+WOOSTER
+5:58.73
+5:58.39
+17
+Highfield, Fallon
+11
+FIRESTONE
+5:54.71
+6:09.87
+18
+Simmons, Cadence
+11
+CUY. FALLS
+6:14.29
+6:12.06
+19
+Gordon, Elli
+12
+WOOSTER
+6:15.26
+20
+Frank, Brooklynn
+11
+ROOSEVELT
+6:26.68
+6:22.83
+21
+Schiavoni, Addison
+9
+ROOSEVELT
+6:32.95
+6:42.39
+--
+Velo, Vivian
+11
+BARBERTON
+6:20.91
+SCR
+--
+Rininger, Cassidy
+12
+ELLET
+7:17.31
+SCR
+--
+Wooten, Samantha
+11
+ELLET
+7:19.12
+SCR
+
+#12
+Boys'
+1600 Meters
+Varsity
+Finals
+Athlete
+Yr
+Team
+Seed
+Finals
+Pts
+1
+Wells, Will
+12
+REVERE
+5:02.63
+4:24.87
+10
+2
+Noah, Donevan
+10
+TALLMADGE
+4:54.38
+4:26.55
+8
+3
+Hildenbrand, John
+10
+MED HIGHLAND
+5:02.55
+4:28.01
+6
+4
+Stevenson, Carter
+12
+ROOSEVELT
+5:02.81
+4:28.78
+5
+5
+Pshonyak, Dimitry
+11
+BUCKEYE
+4:54.17
+4:32.41
+4
+6
+Chuba, Marcus
+11
+AKRON SVSM
+4:53.35
+4:37.70
+3
+7
+Stahl, Joseph
+9
+BUCKEYE
+4:56.69
+4:37.71
+2
+8
+Gursky, Max
+10
+HOBAN
+5:02.66
+4:38.68
+1
+9
+Owens, John
+10
+REVERE
+5:03.01
+4:40.35
+10
+Gaffney, Thomas
+12
+HOBAN
+4:58.05
+4:45.24
+11
+Frazee, Owen
+10
+COPLEY
+5:03.70
+4:48.82
+12
+Miller, Kyle
+10
+CUY. FALLS
+4:58.25
+4:49.76
+13
+Wiandt, Parker
+9
+FIRESTONE
+5:03.77
+4:54.93
+14
+Fox, Nathan
+11
+CUY. FALLS
+5:02.88
+5:00.88
+15
+Schlarb, Ian
+12
+COPLEY
+5:04.01
+5:02.17
+16
+Wendland, Kaleb
+11
+TALLMADGE
+5:05.64
+5:04.26
+
+#13
+Girls'
+4x100 Relay
+Varsity
+Finals
+Team
+Relay
+Seed
+Finals
+Pts
+1
+WADSWORTH
+'A'
+50.46
+50.02
+10
+1)
+Haude, Brooke 10
+2)
+Valatka, Ashley 11
+3)
+Maxwell, Bree 10
+4)
+Blum, Bailey 11
+2
+FIRESTONE
+'A'
+51.56
+50.82
+8
+1)
+Swain, Jamyrah 10
+2)
+Williams, Sayanni 10
+3)
+Johnson, Aubrey 12
+4)
+Stallsworth, Emani 12
+3
+ROOSEVELT
+'A'
+51.29
+51.05
+6
+1)
+Harris, Kaidyn 12
+2)
+Friedman, Mahlia 12
+3)
+Wills, Lindsay 12
+4)
+Johnson, K'yana 9
+4
+HOBAN
+'A'
+51.65
+51.46
+5
+1)
+Hicks, Kaliee 12
+2)
+Golden, Jazze 12
+3)
+Baridor, Muudum 10
+4)
+Thompson, Aleece 11
+5
+TALLMADGE
+'A'
+52.53
+51.57
+4
+1)
+Walters, Naomi 9
+2)
+Diamond, Aleena 12
+3)
+Davis, Navie 9
+4)
+Wendland, Kaitlyn 9
+6
+REVERE
+'A'
+52.48
+51.75
+3
+1)
+Gesing, Aubrey 12
+2)
+Smith, Grace 9
+3)
+Bockstoce, Anna 9
+4)
+Milicia, Madeline 10
+7
+COPLEY
+'A'
+53.62
+52.57
+2
+1)
+Hackney, Maliyah 11
+2)
+Hadi, MacKenzie 9
+3)
+Powell, Ava 11
+4)
+Weaver, TaAjia 11
+8
+CUY. FALLS
+'A'
+53.08
+54.99
+1
+1)
+Hargrove, Savannah 11
+2)
+Gray, Violet 12
+3)
+Beasley, Aiken 10
+4)
+Hicks, Mikenna 9
+
+#14
+Boys'
+4x100 Relay
+Varsity
+Finals
+Team
+Relay
+Seed
+Finals
+Pts
+1
+TALLMADGE
+'A'
+42.96
+42.85
+10
+1)
+Cuva, Sonny 12
+2)
+Conley, Brenden 10
+3)
+Gotto, Angelo 10
+4)
+Reid III, Robert 12
+2
+AKRON SVSM
+'A'
+42.72
+43.28
+8
+1)
+Haley, Semaj 12
+2)
+Hann, Ali 12
+3)
+Chapman, Elijah 10
+4)
+Prince, DeCarlo 12
+3
+GREEN
+'A'
+43.48
+43.70
+6
+1)
+Brauneck, Ben 12
+2)
+McCann, Cade 11
+3)
+Liberatore, Reed 10
+4)
+Reed, Evan 12
+4
+MED HIGHLAND
+'A'
+44.41
+43.90
+5
+1)
+Lazar, Dylan 12
+2)
+Metzger, Christopher 12
+3)
+Iannaggi, Frankie 11
+4)
+Charvat, Charles 10
+5
+HOBAN
+'A'
+43.49
+44.14
+4
+1)
+Sneed, Josiah 12
+2)
+Jansky, Reilley 12
+3)
+Folk, La'Near 12
+4)
+Williams, Antonio 12
+6
+REVERE
+'A'
+44.73
+45.48
+3
+1)
+Drvenkar, Harrison 12
+2)
+Ford, Langston 12
+3)
+Juby, Donovan 12
+4)
+Childs, Calvin 11
+--
+FIRESTONE
+'A'
+43.34
+SCR
+1)
+Wells, Lennox 10
+2)
+Francis, Cortland 12
+3)
+Garrett, Carter 9
+4)
+Parmer, Mekhi 11
+--
+AK. EAST
+'A'
+45.06
+SCR
+1)
+Cherry, Lawrence 11
+2)
+Wharton, Terrell 12
+3)
+Mckinnie, Cashmiere 10
+4)
+Grice, Elijah 10
+
+#15
+Girls'
+400 Meters
+Varsity
+Finals
+Athlete
+Yr
+Team
+Seed
+Finals
+Pts
+1
+Otradovec, Hailey
+12
+WADSWORTH
+1:00.76
+56.36
+10
+2
+Stoops, Jessica
+12
+WADSWORTH
+58.55
+57.95
+8
+3
+Cuva, Nina
+10
+TALLMADGE
+1:02.21
+1:00.45
+6
+4
+Strand-Fox, Abi
+12
+WOOSTER
+1:02.21
+1:00.70
+5
+5
+Caples, Jordyn
+11
+MED HIGHLAND
+1:01.43
+1:00.97
+4
+6
+Thompson, Aleece
+11
+HOBAN
+1:00.97
+1:01.09
+3
+7
+Scott, Taeyona
+10
+WOOSTER
+1:01.02
+1:01.39
+2
+--
+Elrod, Karsyn
+11
+GREEN
+1:02.99
+SCR
+
+#16
+Boys'
+400 Meters
+Varsity
+Finals
+Athlete
+Yr
+Team
+Seed
+Finals
+Pts
+1
+Salazar, Brady
+12
+BUCKEYE
+51.53
+50.03
+10
+2
+Meier, Kaj
+11
+WOOSTER
+50.41
+50.10
+8
+3
+Simpson, Eiann
+12
+HOBAN
+51.04
+50.29
+6
+4
+Roebuck, Emmanuel
+11
+FIRESTONE
+50.77
+50.67
+5
+5
+Stanford, Breylen
+10
+COPLEY
+51.28
+51.10
+4
+6
+Peron, Arthur
+12
+REVERE
+52.32
+52.71
+3
+7
+Tufts, Aiden
+11
+COPLEY
+52.92
+53.14
+2
+8
+Oberhaus, Chase
+11
+MED HIGHLAND
+52.76
+53.38
+1
+
+#17
+Girls'
+300m Hurdles
+Varsity
+Finals
+Athlete
+Yr
+Team
+Seed
+Finals
+Pts
+1
+Pylypiak, Celia
+11
+MED HIGHLAND
+47.02
+45.81
+10
+2
+Haude, Brooke
+10
+WADSWORTH
+46.75
+46.49
+8
+3
+Walters, Naomi
+10
+TALLMADGE
+47.11
+46.66
+6
+4
+Russell, Landrey
+11
+WOOSTER
+48.40
+47.79
+5
+5
+Wills, Lindsay
+12
+ROOSEVELT
+48.63
+48.05
+4
+6
+Adekunle, Ayona
+12
+GREEN
+47.90
+48.68
+3
+7
+Richards, Mariah
+12
+FIRESTONE
+50.60
+49.42
+2
+8
+Moore, Haley
+11
+FIRESTONE
+50.16
+55.53
+1
+
+#18
+Boys'
+300m Hurdles
+Varsity
+Finals
+Athlete
+Yr
+Team
+Seed
+Finals
+Pts
+1
+Thompson, Cleophus
+10
+BARBERTON
+41.00
+38.37
+10
+2
+McQueen, Kyle
+12
+ROOSEVELT
+40.49
+39.52
+8
+3
+Breiding, Ben
+12
+TALLMADGE
+41.36
+40.80
+6
+4
+Isley, Xzavier
+11
+ELLET
+41.51
+41.13
+5
+5
+Fockler, Collin
+11
+WOOSTER
+42.19
+41.20
+4
+6
+Hodges, Dwight
+10
+AKRON SVSM
+42.09
+42.05
+3
+7
+Dingle, Xai'Yeire
+11
+AK. NORTH
+40.98
+42.50
+2
+8
+Trahey, Will
+10
+FIRESTONE
+42.84
+42.84
+1
+
+#19
+Girls'
+800 Meters
+Varsity
+Finals
+Athlete
+Yr
+Team
+Seed
+Finals
+Pts
+1
+Hay, Allison
+12
+TALLMADGE
+2:35.00
+2:19.17
+10
+2
+Wilson, Caroline
+12
+REVERE
+2:32.61
+2:19.36
+8
+3
+Dolgowicz, Ella
+10
+WADSWORTH
+2:35.10
+2:20.26
+6
+4
+Ross, Tapanga
+11
+TALLMADGE
+2:32.38
+2:23.32
+5
+5
+Forshey, Madison
+11
+MED HIGHLAND
+2:35.31
+2:25.96
+4
+6
+Keough, Olivia
+9
+MED HIGHLAND
+2:35.24
+2:27.08
+3
+7
+Bokrossy, Noemi
+10
+WOOSTER
+2:33.43
+2:27.61
+2
+8
+Cicerchi, Allison
+12
+GREEN
+2:36.31
+2:30.50
+1
+9
+Adekunle, Zakaiya
+11
+GREEN
+2:38.57
+2:31.40
+10
+Haines, Stella
+9
+ROOSEVELT
+2:31.53
+2:31.77
+11
+Buzard, Natalie
+10
+WADSWORTH
+2:35.70
+2:32.54
+12
+Scott, Ava
+10
+WOOSTER
+2:36.50
+2:33.75
+13
+Marks, Jane
+9
+HOBAN
+2:36.30
+2:35.19
+14
+Kenst, Lucie
+10
+HOBAN
+2:38.18
+2:44.90
+--
+Eason, Nevaeh
+11
+ELLET
+2:35.79
+SCR
+
+#20
+Boys'
+800 Meters
+Varsity
+Finals
+Athlete
+Yr
+Team
+Seed
+Finals
+Pts
+1
+Wells, Will
+12
+REVERE
+2:09.36
+1:54.06
+10
+2
+Johnson, Ethan
+10
+CUY. FALLS
+2:05.52
+1:54.64
+8
+3
+Noah, Donevan
+10
+TALLMADGE
+2:08.80
+1:54.90
+6
+4
+Hawthorne, Braylon
+12
+ROOSEVELT
+2:05.71
+1:55.05
+5
+5
+DiNicola, Colin
+12
+HOBAN
+2:01.70
+1:55.99
+4
+6
+Malpass, Brayden
+11
+COPLEY
+2:09.24
+1:57.17
+3
+7
+Ledley, Jack
+11
+REVERE
+2:06.37
+1:59.53
+2
+8
+Blaser, Sebastian
+12
+HOBAN
+2:09.49
+1:59.94
+1
+9
+Bossart, Andrew
+11
+MED HIGHLAND
+2:06.85
+2:00.87
+10
+Buckshaw, Carter
+10
+GREEN
+2:08.95
+2:01.58
+11
+Klein, Colton
+11
+MED HIGHLAND
+2:10.06
+2:03.36
+12
+Gurley, Micah
+12
+TALLMADGE
+2:06.95
+2:05.66
+13
+Connelly, Kellan
+12
+GREEN
+2:06.85
+2:06.54
+14
+Williams, Jramayne
+12
+ELLET
+2:09.35
+2:08.30
+15
+Rieth, Nolan
+11
+BUCKEYE
+2:06.81
+2:09.94
+16
+Foster, Dean
+12
+ROOSEVELT
+2:12.62
+2:10.66
+
+#21
+Girls'
+200 Meters
+Varsity
+Finals
+Athlete
+Yr
+Team
+Seed
+Finals
+Wind
+Pts
+1
+Stoops, Jessica
+12
+WADSWORTH
+25.56
+26.15
+-0.4
+10
+2
+Friedman, Mahlia
+12
+ROOSEVELT
+26.43
+26.61
+-0.4
+8
+3
+Harris, Kaidyn
+12
+ROOSEVELT
+26.27
+26.69
+-0.4
+6
+4
+Blair, Aliza
+11
+FIRESTONE
+26.60
+26.70
+-0.4
+5
+5
+Crews, Trinity
+11
+BARBERTON
+26.87
+26.89
+-0.4
+4
+6
+Thompson, Aleece
+11
+HOBAN
+26.45
+26.95
+-0.4
+3
+7
+Carter, Janiyah
+10
+ELLET
+26.58
+26.98
+-0.4
+2
+8
+Blum, Bailey
+11
+WADSWORTH
+27.38
+27.41
+-0.4
+1
+
+#22
+Boys'
+200 Meters
+Varsity
+Finals
+Athlete
+Yr
+Team
+Seed
+Finals
+Wind
+Pts
+1
+Carter, Trey
+11
+ELLET
+21.93
+21.86
+-1.6
+10
+2
+Prince, DeCarlo
+12
+AKRON SVSM
+22.03
+22.07
+-1.6
+8
+3
+Parmer, Mekhi
+11
+FIRESTONE
+22.16
+22.34
+-1.6
+6
+4
+Bonnett, Brayden
+12
+BUCKEYE
+22.21
+22.36
+-1.6
+5
+5
+Conley, Brenden
+10
+TALLMADGE
+22.27
+22.50
+-1.6
+4
+6
+Garrett, Carter
+9
+FIRESTONE
+22.37
+22.65
+-1.6
+3
+7
+Brauneck, Ben
+12
+GREEN
+22.77
+22.79
+-1.6
+2
+--
+Reed, Evan
+12
+GREEN
+22.74
+SCR
+
+#23
+Girls'
+4x400 Relay
+Varsity
+Finals
+Team
+Relay
+Seed
+Finals
+Pts
+1
+WADSWORTH
+'A'
+4:17.45
+4:05.79
+10
+1)
+Otradovec, Hailey 12
+2)
+Dolgowicz, Ella 10
+3)
+Maxwell, Bree 10
+4)
+Stoops, Jessica 12
+2
+REVERE
+'A'
+4:13.42
+4:07.64
+8
+1)
+Bir, Lauren 10
+2)
+DiSalvo, Lauren 12
+3)
+Carroll, Larkin 10
+4)
+Wilson, Caroline 12
+3
+MED HIGHLAND
+'A'
+4:09.68
+4:11.60
+6
+1)
+Pylypiak, Celia 11
+2)
+Forshey, Madison 11
+3)
+Gryskiewicz, Allison 12
+4)
+Caples, Jordyn 11
+4
+TALLMADGE
+'A'
+4:10.16
+4:12.20
+5
+1)
+Hay, Allison 12
+2)
+Cuva, Nina 10
+3)
+Walters, Naomi 9
+4)
+Ross, Tapanga 11
+5
+GREEN
+'A'
+4:17.74
+4:15.62
+4
+1)
+Adekunle, Zakaiya 11
+2)
+Cicerchi, Allison 12
+3)
+Krismer, Addison 12
+4)
+Elrod, Karsyn 11
+6
+WOOSTER
+'A'
+4:15.82
+4:18.01
+3
+1)
+Scott, Taeyona 10
+2)
+Russell, Landrey 11
+3)
+Hafner, Teagan 9
+4)
+Strand-Fox, Abi 12
+7
+ROOSEVELT
+'A'
+4:32.19
+4:30.98
+2
+1)
+Pazderak, Maggie 10
+2)
+Haines, Stella 9
+3)
+Richards, Sophia 10
+4)
+Slack, Maddy 11
+8
+HOBAN
+'A'
+4:27.45
+4:48.63
+1
+1)
+Washington, Arion 11
+2)
+Marks, Jane 9
+3)
+Thompson, Aleece 11
+4)
+Owens-Brown, Trinity 10
+
+#24
+Boys'
+4x400 Relay
+Varsity
+Finals
+Team
+Relay
+Seed
+Finals
+Pts
+1
+REVERE
+'A'
+3:30.65
+3:28.32
+10
+1)
+Ledley, Jack 11
+2)
+Juby, Donovan 12
+3)
+Peron, Arthur 12
+4)
+Stephens, Gabe 12
+2
+ROOSEVELT
+'A'
+3:31.66
+3:29.46
+8
+1)
+Hawthorne, Braylon 12
+2)
+Hassler, Simon 12
+3)
+Atanga, Josiah 10
+4)
+Portis, Jaiden 12
+3
+TALLMADGE
+'A'
+3:31.82
+3:29.79
+6
+1)
+Reid III, Robert 12
+2)
+Johns, Quenton 12
+3)
+Sferra, Lucas 12
+4)
+Cuva, Sonny 12
+4
+CUY. FALLS
+'A'
+3:32.39
+3:29.84
+5
+1)
+Johnson, Ethan 10
+2)
+Luster, Jordan 10
+3)
+Lutz, Isaiah 11
+4)
+Smith, Martin 10
+5
+HOBAN
+'A'
+3:30.03
+3:29.95
+4
+1)
+DiNicola, Colin 12
+2)
+Blaser, Sebastian 12
+3)
+Yomoah, Evans 10
+4)
+Simpson, Eiann 12
+6
+BUCKEYE
+'A'
+3:33.86
+3:36.31
+3
+1)
+Pshonyak, Dimitry 11
+2)
+Rieth, Nolan 11
+3)
+Hondroudakis, Eddie 11
+4)
+Salazar, Brady 12
+7
+MED HIGHLAND
+'A'
+3:32.23
+3:36.66
+2
+1)
+Gryskiewicz, Braden 12
+2)
+Bossart, Andrew 11
+3)
+Djordjevich, Aleksandar 12
+4)
+Oberhaus, Chase 11
+8
+COPLEY
+'A'
+3:36.02
+3:40.85
+1
+1)
+Tufts, Aiden 11
+2)
+Idley, Taiki 11
+3)
+McKnight, Andrew 12
+4)
+Stanford, Breylen 10
+
+#25
+Boys'
+Discus
+Varsity
+Finals
+Athlete
+Yr
+Team
+Seed
+Finals
+Pts
+Compiled
+1
+Fuqua, Wylie
+10
+WOOSTER
+152-06.00
+156-10.00
+10
+2
+Froman, Max
+11
+ROOSEVELT
+147-06.00
+143-11.00
+8
+3
+Shevchenko, Denis
+10
+BUCKEYE
+143-06.00
+142-03.00
+6
+4
+Schrock, Preston
+12
+TALLMADGE
+137-06.00
+139-01.00
+5
+5
+Marquis, Spencer
+11
+MED HIGHLAND
+138-00.00
+134-02.00
+4
+6
+Kramer, Mathew
+11
+ELLET
+146-07.00
+132-07.00
+3
+7
+McSheehy, Luke
+12
+WOOSTER
+135-11.00
+131-00.00
+2
+8
+Shocklee, Brock
+9
+GREEN
+133-11.00
+129-01.00
+1
+9
+Farrow, Jackson
+11
+REVERE
+133-09.00
+128-05.00
+10
+Keaton, Owen
+12
+REVERE
+146-00.00
+124-11.00
+11
+McCarthy, Ethan
+11
+MED HIGHLAND
+129-05.00
+124-08.00
+12
+Fortman, Cyrus
+12
+CUY. FALLS
+117-04.00
+119-07.00
+13
+Clester, Chase
+10
+TALLMADGE
+150-00.00
+119-03.00
+14
+Forestall, Tyler
+12
+BARBERTON
+103-07.00
+113-04.00
+15
+Hatfield, Owen
+12
+CUY. FALLS
+114-01.00
+110-06.00
+16
+Jolliff, Jacob
+12
+GREEN
+124-10.00
+110-04.00
+17
+Lillich, Luke
+11
+HOBAN
+114-07.00
+109-06.00
+18
+Luckart, Aydin
+10
+HOBAN
+118-08.00
+105-11.00
+19
+Wollam, Griffin
+11
+ROOSEVELT
+107-02.00
+103-09.00
+20
+Rau, Joshua
+9
+COPLEY
+91-06.00
+21
+Mathis, Taiyear
+9
+FIRESTONE
+123-00.00
+87-07.00
+22
+Lutz, Cody
+11
+ELLET
+85-03.00
+85-05.00
+23
+McCraney, Quinton
+11
+COPLEY
+123-04.00
+83-04.00
+24
+Rudowicz, Anthony
+9
+AKRON SVSM
+77-03.00
+70-08.00
+25
+McClellan, Ashton
+10
+BUCKEYE
+115-09.00
+67-08.00
+--
+Milliner, Nae'than
+11
+FIRESTONE
+123-00.00
+DNS
+--
+Jenkins, Jamir
+12
+AK. GARFIELD
+92-02.00
+DNS
+--
+McBride, Kaleb
+12
+AKRON SVSM
+100-03.00
+DNS
+Flight 1
+1
+Forestall, Tyler
+12
+BARBERTON
+103-07.00
+113-04.00
+2
+Hatfield, Owen
+12
+CUY. FALLS
+114-01.00
+110-06.00
+3
+Lillich, Luke
+11
+HOBAN
+114-07.00
+109-06.00
+4
+Wollam, Griffin
+11
+ROOSEVELT
+107-02.00
+103-09.00
+5
+Rau, Joshua
+9
+COPLEY
+91-06.00
+6
+Lutz, Cody
+11
+ELLET
+85-03.00
+85-05.00
+7
+Rudowicz, Anthony
+9
+AKRON SVSM
+77-03.00
+70-08.00
+--
+Jenkins, Jamir
+12
+AK. GARFIELD
+92-02.00
+DNS
+--
+McBride, Kaleb
+12
+AKRON SVSM
+100-03.00
+DNS
+Flight 2
+1
+Shocklee, Brock
+9
+GREEN
+133-11.00
+129-01.00
+1
+2
+Farrow, Jackson
+11
+REVERE
+133-09.00
+128-05.00
+3
+McCarthy, Ethan
+11
+MED HIGHLAND
+129-05.00
+124-08.00
+4
+Fortman, Cyrus
+12
+CUY. FALLS
+117-04.00
+119-07.00
+5
+Jolliff, Jacob
+12
+GREEN
+124-10.00
+110-04.00
+6
+Luckart, Aydin
+10
+HOBAN
+118-08.00
+105-11.00
+7
+Mathis, Taiyear
+9
+FIRESTONE
+123-00.00
+87-07.00
+8
+McCraney, Quinton
+11
+COPLEY
+123-04.00
+83-04.00
+--
+Milliner, Nae'than
+11
+FIRESTONE
+123-00.00
+DNS
+Flight 3
+1
+Fuqua, Wylie
+10
+WOOSTER
+152-06.00
+156-10.00
+10
+2
+Froman, Max
+11
+ROOSEVELT
+147-06.00
+143-11.00
+8
+3
+Shevchenko, Denis
+10
+BUCKEYE
+143-06.00
+142-03.00
+6
+4
+Schrock, Preston
+12
+TALLMADGE
+137-06.00
+139-01.00
+5
+5
+Marquis, Spencer
+11
+MED HIGHLAND
+138-00.00
+134-02.00
+4
+6
+Kramer, Mathew
+11
+ELLET
+146-07.00
+132-07.00
+3
+7
+McSheehy, Luke
+12
+WOOSTER
+135-11.00
+131-00.00
+2
+8
+Keaton, Owen
+12
+REVERE
+146-00.00
+124-11.00
+9
+Clester, Chase
+10
+TALLMADGE
+150-00.00
+119-03.00
+10
+McClellan, Ashton
+10
+BUCKEYE
+115-09.00
+67-08.00
+
+#26
+Girls'
+Shot Put
+Varsity
+Finals
+Athlete
+Yr
+Team
+Seed
+Finals
+Pts
+Compiled
+1
+Cooper, Dereon
+11
+HOBAN
+39-00.75
+40-09.00
+10
+2
+Taylor, Elizabeth
+11
+CUY. FALLS
+37-11.25
+36-09.50
+8
+3
+Hale, Namya
+12
+FIRESTONE
+34-01.50
+34-02.00
+6
+4
+Wendl, Audrey
+12
+MED HIGHLAND
+34-10.00
+34-00.00
+5
+5
+Mayle, Skylarr
+9
+FIRESTONE
+34-03.25
+33-08.50
+4
+6
+Pryor, Zion
+12
+WOOSTER
+33-04.50
+33-00.00
+3
+7
+Wagler, Armahni
+12
+GREEN
+33-09.25
+32-10.25
+2
+8
+Parish, Victoria
+12
+REVERE
+33-10.50
+32-07.00
+1
+9
+Keaton, Allison
+10
+REVERE
+32-00.50
+31-10.50
+10
+Lee, Julie
+12
+HOBAN
+33-10.00
+30-05.00
+11
+Mathews, Lakeya
+12
+AK. GARFIELD
+32-01.25
+30-03.50
+12
+Stacy, Meryn
+12
+COPLEY
+32-03.00
+29-07.50
+13
+Melrose, Anna
+11
+WOOSTER
+27-06.75
+29-03.25
+14
+Jodon, Sophia
+10
+CUY. FALLS
+28-02.00
+28-11.00
+15
+Lofgren, Samantha
+12
+GREEN
+32-02.50
+28-10.50
+16
+Hamilton, Natalia
+12
+COPLEY
+31-00.25
+28-03.00
+17
+Letner, Caelyn
+10
+WADSWORTH
+27-04.00
+28-00.00
+18
+Jarvis, Alana
+9
+TALLMADGE
+28-06.00
+27-08.00
+19
+Crooks, Royaly
+11
+ELLET
+29-05.00
+27-02.50
+20
+Piechowiak, Lacy
+11
+MED HIGHLAND
+31-03.00
+26-09.50
+21
+Eads, Airiana
+10
+TALLMADGE
+30-04.50
+26-07.00
+22
+Kuzmik, Callista
+12
+WADSWORTH
+26-00.50
+26-06.50
+23
+Alldredge, Jordyn
+12
+ELLET
+24-03.00
+24-04.50
+--
+Vickers, Elisha
+10
+AK. NORTH
+17-11.50
+DNS
+--
+Polanco Fernandez, Jeanne
+10
+ROOSEVELT
+25-10.75
+DNS
+--
+Amos, Tiffany
+11
+AK. GARFIELD
+26-03.00
+DNS
+--
+Warren, Akira
+10
+ROOSEVELT
+27-01.00
+DNS
+Flight 1
+1
+Melrose, Anna
+11
+WOOSTER
+27-06.75
+29-03.25
+2
+Jodon, Sophia
+10
+CUY. FALLS
+28-02.00
+28-11.00
+3
+Letner, Caelyn
+10
+WADSWORTH
+27-04.00
+28-00.00
+4
+Kuzmik, Callista
+12
+WADSWORTH
+26-00.50
+26-06.50
+5
+Alldredge, Jordyn
+12
+ELLET
+24-03.00
+24-04.50
+--
+Vickers, Elisha
+10
+AK. NORTH
+17-11.50
+DNS
+--
+Polanco Fernandez, Jeanne
+10
+ROOSEVELT
+25-10.75
+DNS
+--
+Amos, Tiffany
+11
+AK. GARFIELD
+26-03.00
+DNS
+--
+Warren, Akira
+10
+ROOSEVELT
+27-01.00
+DNS
+Flight 2
+1
+Keaton, Allison
+10
+REVERE
+32-00.50
+31-10.50
+2
+Mathews, Lakeya
+12
+AK. GARFIELD
+32-01.25
+30-03.50
+3
+Lofgren, Samantha
+12
+GREEN
+32-02.50
+28-10.50
+4
+Hamilton, Natalia
+12
+COPLEY
+31-00.25
+28-03.00
+5
+Jarvis, Alana
+9
+TALLMADGE
+28-06.00
+27-08.00
+6
+Crooks, Royaly
+11
+ELLET
+29-05.00
+27-02.50
+7
+Piechowiak, Lacy
+11
+MED HIGHLAND
+31-03.00
+26-09.50
+8
+Eads, Airiana
+10
+TALLMADGE
+30-04.50
+26-07.00
+Flight 3
+1
+Cooper, Dereon
+11
+HOBAN
+39-00.75
+40-09.00
+10
+2
+Taylor, Elizabeth
+11
+CUY. FALLS
+37-11.25
+36-09.50
+8
+3
+Hale, Namya
+12
+FIRESTONE
+34-01.50
+34-02.00
+6
+4
+Wendl, Audrey
+12
+MED HIGHLAND
+34-10.00
+34-00.00
+5
+5
+Mayle, Skylarr
+9
+FIRESTONE
+34-03.25
+33-08.50
+4
+6
+Pryor, Zion
+12
+WOOSTER
+33-04.50
+33-00.00
+3
+7
+Wagler, Armahni
+12
+GREEN
+33-09.25
+32-10.25
+2
+8
+Parish, Victoria
+12
+REVERE
+33-10.50
+32-07.00
+1
+9
+Lee, Julie
+12
+HOBAN
+33-10.00
+30-05.00
+10
+Stacy, Meryn
+12
+COPLEY
+32-03.00
+29-07.50
+
+#27
+Boys'
+Long Jump
+Varsity
+Finals
+Athlete
+Yr
+Team
+Seed
+Finals
+Pts
+Compiled
+1
+Carter, Trey
+11
+ELLET
+22-11.00
+22-05.25
+10
+2
+Roebuck, Emmanuel
+11
+FIRESTONE
+21-02.75
+21-10.25
+8
+3
+Drvenkar, Harrison
+12
+REVERE
+22-09.50
+21-10.00
+6
+4
+Meier, Kaj
+11
+WOOSTER
+21-11.00
+21-08.75
+5
+5
+Portis, Jaiden
+12
+ROOSEVELT
+22-03.50
+21-08.00
+4
+6
+Grice, Elijah
+10
+AK. EAST
+21-06.50
+20-10.25
+3
+7
+Mancuso, Vincent
+11
+MED HIGHLAND
+21-04.75
+20-09.50
+2
+8
+Mitchell, Christian
+11
+ELLET
+22-02.00
+20-08.25
+1
+9
+Williams, Elijah
+9
+TALLMADGE
+20-07.00
+20-05.75
+10
+Watts, Wesley
+11
+GREEN
+20-10.50
+19-11.75
+11
+Bailey, Terrean
+12
+BARBERTON
+19-05.50
+19-06.75
+12
+Sferra, Lucas
+12
+TALLMADGE
+21-03.00
+19-01.50
+13
+Kharis, Deen
+10
+COPLEY
+18-03.00
+18-08.25
+14
+Hodges, Dwight
+10
+AKRON SVSM
+20-02.50
+18-06.50
+15
+Tamati, Durbin
+12
+MED HIGHLAND
+18-06.00
+18-06.25
+16
+Tuttle, Gavanni
+12
+CUY. FALLS
+19-07.00
+18-05.50
+17
+Hopson, Brandon
+9
+FIRESTONE
+18-11.00
+18-03.50
+18
+Khamvongsouk, Taison
+11
+CUY. FALLS
+17-05.00
+18-03.25
+19
+Parish, Caleb
+11
+AKRON SVSM
+20-06.00
+18-01.00
+20
+Johnson, Jordan
+10
+BARBERTON
+19-05.00
+18-00.25
+21
+McMichael, Anthony
+12
+GREEN
+21-00.00
+17-10.50
+22
+Hagenbush, Ben
+9
+HOBAN
+19-00.00
+17-10.25
+23
+Murkins, Garland
+11
+AK. GARFIELD
+18-03.50
+17-09.00
+24
+Cooley, Ben
+10
+HOBAN
+18-11.50
+17-08.25
+25
+Caipen, Joel
+11
+REVERE
+19-08.50
+17-02.00
+26
+Plisko, Alexander
+11
+BUCKEYE
+17-06.50
+16-09.75
+27
+Jarvis, Rory
+11
+WOOSTER
+16-10.25
+16-08.25
+28
+Chambers, Bradley
+11
+COPLEY
+12-01.75
+--
+Bonnett, Brayden
+12
+BUCKEYE
+19-02.75
+ND
+Flight 1
+1
+Kharis, Deen
+10
+COPLEY
+18-03.00
+18-08.25
+2
+Tamati, Durbin
+12
+MED HIGHLAND
+18-06.00
+18-06.25
+3
+Hopson, Brandon
+9
+FIRESTONE
+18-11.00
+18-03.50
+4
+Khamvongsouk, Taison
+11
+CUY. FALLS
+17-05.00
+18-03.25
+5
+Murkins, Garland
+11
+AK. GARFIELD
+18-03.50
+17-09.00
+6
+Cooley, Ben
+10
+HOBAN
+18-11.50
+17-08.25
+7
+Plisko, Alexander
+11
+BUCKEYE
+17-06.50
+16-09.75
+8
+Jarvis, Rory
+11
+WOOSTER
+16-10.25
+16-08.25
+9
+Chambers, Bradley
+11
+COPLEY
+12-01.75
+Flight 2
+1
+Williams, Elijah
+9
+TALLMADGE
+20-07.00
+20-05.75
+2
+Watts, Wesley
+11
+GREEN
+20-10.50
+19-11.75
+3
+Bailey, Terrean
+12
+BARBERTON
+19-05.50
+19-06.75
+4
+Hodges, Dwight
+10
+AKRON SVSM
+20-02.50
+18-06.50
+5
+Tuttle, Gavanni
+12
+CUY. FALLS
+19-07.00
+18-05.50
+6
+Parish, Caleb
+11
+AKRON SVSM
+20-06.00
+18-01.00
+7
+Johnson, Jordan
+10
+BARBERTON
+19-05.00
+18-00.25
+8
+Hagenbush, Ben
+9
+HOBAN
+19-00.00
+17-10.25
+9
+Caipen, Joel
+11
+REVERE
+19-08.50
+17-02.00
+--
+Bonnett, Brayden
+12
+BUCKEYE
+19-02.75
+ND
+Flight 3
+1
+Carter, Trey
+11
+ELLET
+22-11.00
+22-05.25
+10
+2
+Roebuck, Emmanuel
+11
+FIRESTONE
+21-02.75
+21-10.25
+8
+3
+Drvenkar, Harrison
+12
+REVERE
+22-09.50
+21-10.00
+6
+4
+Meier, Kaj
+11
+WOOSTER
+21-11.00
+21-08.75
+5
+5
+Portis, Jaiden
+12
+ROOSEVELT
+22-03.50
+21-08.00
+4
+6
+Grice, Elijah
+10
+AK. EAST
+21-06.50
+20-10.25
+3
+7
+Mancuso, Vincent
+11
+MED HIGHLAND
+21-04.75
+20-09.50
+2
+8
+Mitchell, Christian
+11
+ELLET
+22-02.00
+20-08.25
+1
+9
+Sferra, Lucas
+12
+TALLMADGE
+21-03.00
+19-01.50
+10
+McMichael, Anthony
+12
+GREEN
+21-00.00
+17-10.50
+
+#28
+Girls'
+High Jump
+Varsity
+Finals
+Athlete
+Yr
+Team
+Seed
+Finals
+Pts
+1
+Hafner, Teagan
+9
+WOOSTER
+5-05.00
+5-02.00
+10
+2
+Stahl, Emery
+12
+WOOSTER
+5-01.00
+5-00.00
+8
+3
+Mastaso, Natalie
+11
+GREEN
+4-10.00
+4-10.00
+5.5
+3
+Chapman, Kameron
+11
+WADSWORTH
+5-00.00
+4-10.00
+5.5
+5
+Burrington, Lucy
+10
+CUY. FALLS
+5-00.00
+4-10.00
+4
+6
+DiSalvo, Lauren
+12
+REVERE
+4-10.00
+4-10.00
+3
+7
+Critchett, Riley
+11
+MED HIGHLAND
+4-08.00
+4-10.00
+2
+8
+Van Horne, Lillian
+12
+TALLMADGE
+4-08.00
+4-08.00
+0.33
+8
+Scavdis, Jolie
+10
+TALLMADGE
+4-10.00
+4-08.00
+0.33
+8
+Kellhofer, Sophia
+12
+ROOSEVELT
+5-00.00
+4-08.00
+0.33
+11
+Rogers, Chyan
+11
+FIRESTONE
+4-08.00
+4-08.00
+12
+Stevens, Niera
+12
+HOBAN
+5-00.00
+4-08.00
+13
+Parsons, Rosa
+12
+REVERE
+4-06.00
+4-06.00
+13
+Moore, Haley
+11
+FIRESTONE
+4-08.00
+4-06.00
+13
+Moore, Ashley
+9
+MED HIGHLAND
+4-08.00
+4-06.00
+16
+Welsh, Riley
+10
+WADSWORTH
+4-08.00
+4-06.00
+16
+Smith, Malaya
+9
+HOBAN
+4-10.00
+4-06.00
+18
+Lindsay, Kyla
+9
+ELLET
+4-06.00
+4-06.00
+--
+Stuchal, Lillian
+10
+COPLEY
+4-00.00
+DNS
+--
+Castillo, Allison
+10
+ROOSEVELT
+4-04.00
+NH
+--
+Andrella, Juliana
+12
+BARBERTON
+4-04.00
+NH
+--
+Koutsis, Ella
+9
+GREEN
+4-04.00
+NH
+--
+Blake, Kinley
+10
+ELLET
+4-04.00
+DNS
+--
+McNulty, Brooklyn
+9
+BARBERTON
+4-06.00
+DNS
+
+#29
+Boys'
+Pole Vault
+Varsity
+Finals
+Athlete
+Yr
+Team
+Seed
+Finals
+Pts
+1
+Peters, Zack
+12
+TALLMADGE
+13-00.00
+13-00.00
+9
+1
+Fike, Caden
+12
+BUCKEYE
+13-03.00
+13-00.00
+9
+3
+McMichael, Anthony
+12
+GREEN
+12-06.00
+12-06.00
+6
+4
+McClure, Caleb
+12
+GREEN
+12-00.00
+12-00.00
+5
+5
+Rees, Aleksandr
+12
+REVERE
+12-00.00
+12-00.00
+4
+6
+Peretti, Vinny
+9
+WOOSTER
+11-09.00
+11-00.00
+3
+7
+Vasel, Lucas
+12
+BUCKEYE
+11-06.00
+11-00.00
+2
+8
+Bauknecht, Mark
+11
+TALLMADGE
+11-00.00
+11-00.00
+1
+9
+Jordan, Tyson
+10
+COPLEY
+10-00.00
+10-06.00
+9
+Farahati, Ryan
+10
+COPLEY
+10-06.00
+10-06.00
+11
+Shemo, Andrew
+11
+MED HIGHLAND
+10-06.00
+10-06.00
+11
+Simmons, Benjamin
+11
+MED HIGHLAND
+11-00.00
+10-06.00
+--
+Waller, Hayden
+12
+HOBAN
+8-06.00
+NH
+--
+Constant, Phillip
+12
+HOBAN
+9-00.00
+NH
+--
+Parker, Shay
+10
+WOOSTER
+10-00.00
+NH
+--
+Gilliland, Caleb
+11
+ROOSEVELT
+10-00.00
+NH
+--
+Sowards, Bobby
+11
+ROOSEVELT
+10-00.00
+DNS
+--
+Stupczy, Zack
+11
+REVERE
+13-06.00
+NH
+
+#30
+Girls'
+Discus
+Varsity
+Finals
+Athlete
+Yr
+Team
+Seed
+Finals
+Pts
+Compiled
+1
+Parish, Victoria
+12
+REVERE
+125-08.00
+122-08.00
+10
+2
+Lofgren, Samantha
+12
+GREEN
+120-02.00
+118-02.00
+8
+3
+Wendl, Audrey
+12
+MED HIGHLAND
+120-08.00
+107-05.00
+6
+4
+West, Nhalani
+9
+HOBAN
+110-09.00
+107-02.00
+5
+5
+Taylor, Elizabeth
+11
+CUY. FALLS
+109-09.00
+105-07.00
+4
+6
+Melrose, Anna
+11
+WOOSTER
+108-09.00
+101-02.00
+3
+7
+Pryor, Zion
+12
+WOOSTER
+112-11.00
+100-00.00
+2
+8
+Hale, Namya
+12
+FIRESTONE
+92-02.00
+98-08.00
+1
+9
+Mayle, Skylarr
+9
+FIRESTONE
+99-10.00
+98-01.00
+10
+Jodon, Sophia
+10
+CUY. FALLS
+90-04.00
+92-09.00
+11
+Keaton, Allison
+10
+REVERE
+102-11.00
+92-02.00
+12
+Hamilton, Natalia
+12
+COPLEY
+98-07.00
+91-04.00
+13
+Alldredge, Jordyn
+12
+ELLET
+95-07.00
+90-04.00
+14
+Knopf, Josephine
+10
+MED HIGHLAND
+92-02.00
+88-07.00
+15
+Gunsch, Julianna
+10
+WADSWORTH
+86-07.00
+87-05.00
+16
+Young, Alaina
+9
+GREEN
+85-07.00
+85-03.00
+17
+Andrew, Jaz'Mynn
+12
+COPLEY
+87-07.00
+83-02.00
+18
+Jarvis, Alana
+9
+TALLMADGE
+79-09.00
+80-00.00
+19
+McCurry, Teaghan
+9
+WADSWORTH
+83-05.00
+75-08.00
+20
+Eads, Airiana
+10
+TALLMADGE
+66-10.00
+74-09.00
+21
+Riddick, Ashlynn
+11
+ROOSEVELT
+68-02.00
+74-03.00
+22
+Cooper, Dereon
+11
+HOBAN
+104-00.00
+66-02.00
+--
+Amos, Tiffany
+11
+AK. GARFIELD
+55-05.00
+DNS
+--
+Warren, Akira
+10
+ROOSEVELT
+89-11.00
+DNS
+--
+Gibbs, Morgan
+12
+BARBERTON
+106-00.00
+DNS
+--
+Mathews, Lakeya
+12
+AK. GARFIELD
+90-09.00
+DNS
+--
+Shelton, Sanaya
+9
+ELLET
+73-05.00
+DNS
+Flight 1
+1
+Gunsch, Julianna
+10
+WADSWORTH
+86-07.00
+87-05.00
+2
+Young, Alaina
+9
+GREEN
+85-07.00
+85-03.00
+3
+Andrew, Jaz'Mynn
+12
+COPLEY
+87-07.00
+83-02.00
+4
+Jarvis, Alana
+9
+TALLMADGE
+79-09.00
+80-00.00
+5
+McCurry, Teaghan
+9
+WADSWORTH
+83-05.00
+75-08.00
+6
+Eads, Airiana
+10
+TALLMADGE
+66-10.00
+74-09.00
+7
+Riddick, Ashlynn
+11
+ROOSEVELT
+68-02.00
+74-03.00
+--
+Amos, Tiffany
+11
+AK. GARFIELD
+55-05.00
+DNS
+--
+Shelton, Sanaya
+9
+ELLET
+73-05.00
+DNS
+Flight 2
+1
+Hale, Namya
+12
+FIRESTONE
+92-02.00
+98-08.00
+1
+2
+Mayle, Skylarr
+9
+FIRESTONE
+99-10.00
+98-01.00
+3
+Jodon, Sophia
+10
+CUY. FALLS
+90-04.00
+92-09.00
+4
+Keaton, Allison
+10
+REVERE
+102-11.00
+92-02.00
+5
+Hamilton, Natalia
+12
+COPLEY
+98-07.00
+91-04.00
+6
+Alldredge, Jordyn
+12
+ELLET
+95-07.00
+90-04.00
+7
+Knopf, Josephine
+10
+MED HIGHLAND
+92-02.00
+88-07.00
+--
+Warren, Akira
+10
+ROOSEVELT
+89-11.00
+DNS
+--
+Mathews, Lakeya
+12
+AK. GARFIELD
+90-09.00
+DNS
+Flight 3
+1
+Parish, Victoria
+12
+REVERE
+125-08.00
+122-08.00
+10
+2
+Lofgren, Samantha
+12
+GREEN
+120-02.00
+118-02.00
+8
+3
+Wendl, Audrey
+12
+MED HIGHLAND
+120-08.00
+107-05.00
+6
+4
+West, Nhalani
+9
+HOBAN
+110-09.00
+107-02.00
+5
+5
+Taylor, Elizabeth
+11
+CUY. FALLS
+109-09.00
+105-07.00
+4
+6
+Melrose, Anna
+11
+WOOSTER
+108-09.00
+101-02.00
+3
+7
+Pryor, Zion
+12
+WOOSTER
+112-11.00
+100-00.00
+2
+8
+Cooper, Dereon
+11
+HOBAN
+104-00.00
+66-02.00
+--
+Gibbs, Morgan
+12
+BARBERTON
+106-00.00
+DNS
+
+#31
+Boys'
+Shot Put
+Varsity
+Finals
+Athlete
+Yr
+Team
+Seed
+Finals
+Pts
+Compiled
+1
+Fuqua, Wylie
+10
+WOOSTER
+52-08.75
+50-01.00
+10
+2
+Froman, Max
+11
+ROOSEVELT
+50-11.00
+49-06.00
+8
+3
+Ammons, Jonez
+11
+ELLET
+49-11.00
+48-09.50
+6
+4
+Schrock, Preston
+12
+TALLMADGE
+48-01.50
+48-08.00
+5
+5
+Clester, Chase
+10
+TALLMADGE
+47-07.75
+45-03.00
+4
+6
+Luckart, Aydin
+10
+HOBAN
+43-05.00
+44-10.50
+3
+7
+Keaton, Owen
+12
+REVERE
+44-06.00
+42-06.50
+2
+8
+Shevchenko, Denis
+10
+BUCKEYE
+46-03.00
+42-06.50
+1
+9
+Marquis, Spencer
+11
+MED HIGHLAND
+43-08.50
+42-04.50
+10
+Mathis, Taiyear
+9
+FIRESTONE
+40-11.00
+40-10.25
+11
+Klein, Teagan
+10
+REVERE
+44-08.00
+40-08.75
+12
+Tufts, Anthony
+9
+COPLEY
+41-06.25
+40-00.75
+13
+Mendenhall, Caden
+12
+MED HIGHLAND
+41-05.75
+39-11.50
+14
+Shocklee, Brock
+9
+GREEN
+40-00.75
+39-04.75
+15
+Boreman, Brody
+12
+WOOSTER
+41-11.00
+38-11.50
+16
+Bally-Freiberg, Jacob
+12
+BUCKEYE
+38-11.00
+38-03.50
+17
+Parker, Braylin
+12
+HOBAN
+42-11.50
+37-04.00
+18
+Hatfield, Owen
+12
+CUY. FALLS
+37-06.00
+37-02.50
+19
+Mindzora, Jacob
+11
+COPLEY
+37-09.00
+36-03.75
+20
+Hampton, Jermaine
+12
+CUY. FALLS
+39-10.00
+35-10.50
+21
+Lutz, Cody
+11
+ELLET
+39-06.00
+34-11.75
+22
+Foreman, Cyler
+11
+ROOSEVELT
+35-00.00
+32-09.00
+--
+Loyed, Dietrich
+12
+AKRON SVSM
+30-02.00
+DNS
+--
+McCray, Jamar
+12
+BARBERTON
+43-08.75
+DNS
+--
+McBride, Kaleb
+12
+AKRON SVSM
+35-00.50
+DNS
+--
+Milliner, Nae'than
+11
+FIRESTONE
+41-09.50
+DNS
+--
+Lombardi, Dario
+12
+GREEN
+47-07.50
+ND
+--
+Jenkins, Jamir
+12
+AK. GARFIELD
+39-09.50
+DNS
+Flight 1
+1
+Bally-Freiberg, Jacob
+12
+BUCKEYE
+38-11.00
+38-03.50
+2
+Hatfield, Owen
+12
+CUY. FALLS
+37-06.00
+37-02.50
+3
+Mindzora, Jacob
+11
+COPLEY
+37-09.00
+36-03.75
+4
+Hampton, Jermaine
+12
+CUY. FALLS
+39-10.00
+35-10.50
+5
+Lutz, Cody
+11
+ELLET
+39-06.00
+34-11.75
+6
+Foreman, Cyler
+11
+ROOSEVELT
+35-00.00
+32-09.00
+--
+Loyed, Dietrich
+12
+AKRON SVSM
+30-02.00
+DNS
+--
+McBride, Kaleb
+12
+AKRON SVSM
+35-00.50
+DNS
+--
+Jenkins, Jamir
+12
+AK. GARFIELD
+39-09.50
+DNS
+Flight 2
+1
+Luckart, Aydin
+10
+HOBAN
+43-05.00
+44-10.50
+3
+2
+Marquis, Spencer
+11
+MED HIGHLAND
+43-08.50
+42-04.50
+3
+Mathis, Taiyear
+9
+FIRESTONE
+40-11.00
+40-10.25
+4
+Tufts, Anthony
+9
+COPLEY
+41-06.25
+40-00.75
+5
+Mendenhall, Caden
+12
+MED HIGHLAND
+41-05.75
+39-11.50
+6
+Shocklee, Brock
+9
+GREEN
+40-00.75
+39-04.75
+7
+Boreman, Brody
+12
+WOOSTER
+41-11.00
+38-11.50
+8
+Parker, Braylin
+12
+HOBAN
+42-11.50
+37-04.00
+--
+Milliner, Nae'than
+11
+FIRESTONE
+41-09.50
+DNS
+Flight 3
+1
+Fuqua, Wylie
+10
+WOOSTER
+52-08.75
+50-01.00
+10
+2
+Froman, Max
+11
+ROOSEVELT
+50-11.00
+49-06.00
+8
+3
+Ammons, Jonez
+11
+ELLET
+49-11.00
+48-09.50
+6
+4
+Schrock, Preston
+12
+TALLMADGE
+48-01.50
+48-08.00
+5
+5
+Clester, Chase
+10
+TALLMADGE
+47-07.75
+45-03.00
+4
+6
+Keaton, Owen
+12
+REVERE
+44-06.00
+42-06.50
+2
+7
+Shevchenko, Denis
+10
+BUCKEYE
+46-03.00
+42-06.50
+1
+8
+Klein, Teagan
+10
+REVERE
+44-08.00
+40-08.75
+--
+McCray, Jamar
+12
+BARBERTON
+43-08.75
+DNS
+--
+Lombardi, Dario
+12
+GREEN
+47-07.50
+ND
+
+#32
+Girls'
+Long Jump
+Varsity
+Finals
+Athlete
+Yr
+Team
+Seed
+Finals
+Pts
+Compiled
+1
+Harris, Kaidyn
+12
+ROOSEVELT
+17-01.50
+17-10.75
+10
+2
+Hafner, Teagan
+9
+WOOSTER
+17-06.50
+17-06.25
+8
+3
+Moore, Haley
+11
+FIRESTONE
+17-06.00
+17-03.50
+6
+4
+Gray, Violet
+12
+CUY. FALLS
+15-10.50
+17-00.50
+5
+5
+Cuva, Nina
+10
+TALLMADGE
+16-02.00
+17-00.25
+4
+6
+Golden, Jazze
+12
+HOBAN
+17-00.00
+16-11.25
+3
+7
+Cope, Bridget
+11
+MED HIGHLAND
+15-08.50
+16-06.50
+2
+8
+Bockstoce, Anna
+9
+REVERE
+15-11.00
+16-04.50
+1
+9
+Carroll, Larkin
+10
+REVERE
+15-11.50
+16-03.50
+10
+Rembert, Rion
+9
+HOBAN
+15-08.00
+15-10.50
+11
+Elrod, Karsyn
+11
+GREEN
+17-02.00
+15-07.75
+12
+Gryskiewicz, Allison
+12
+MED HIGHLAND
+16-10.00
+15-07.50
+13
+Carter, Janiyah
+10
+ELLET
+17-01.00
+15-06.50
+14
+Stallsworth, Emani
+12
+FIRESTONE
+15-08.00
+15-04.25
+15
+Burrington, Lucy
+10
+CUY. FALLS
+15-02.00
+15-03.75
+16
+Aschenbrener, Ellie
+12
+TALLMADGE
+14-11.00
+14-06.75
+17
+Stahl, Emery
+12
+WOOSTER
+15-06.75
+13-10.50
+18
+Myles, Kailey
+9
+BARBERTON
+12-00.00
+13-03.00
+19
+Welsh, Riley
+10
+WADSWORTH
+13-10.00
+12-11.25
+20
+Ross, Ally
+9
+ROOSEVELT
+11-06.00
+12-00.00
+Flight 1
+1
+Burrington, Lucy
+10
+CUY. FALLS
+15-02.00
+15-03.75
+2
+Aschenbrener, Ellie
+12
+TALLMADGE
+14-11.00
+14-06.75
+3
+Myles, Kailey
+9
+BARBERTON
+12-00.00
+13-03.00
+4
+Welsh, Riley
+10
+WADSWORTH
+13-10.00
+12-11.25
+5
+Ross, Ally
+9
+ROOSEVELT
+11-06.00
+12-00.00
+Flight 2
+1
+Gray, Violet
+12
+CUY. FALLS
+15-10.50
+17-00.50
+5
+2
+Cope, Bridget
+11
+MED HIGHLAND
+15-08.50
+16-06.50
+2
+3
+Bockstoce, Anna
+9
+REVERE
+15-11.00
+16-04.50
+1
+4
+Rembert, Rion
+9
+HOBAN
+15-08.00
+15-10.50
+5
+Stallsworth, Emani
+12
+FIRESTONE
+15-08.00
+15-04.25
+6
+Stahl, Emery
+12
+WOOSTER
+15-06.75
+13-10.50
+Flight 3
+1
+Harris, Kaidyn
+12
+ROOSEVELT
+17-01.50
+17-10.75
+10
+2
+Hafner, Teagan
+9
+WOOSTER
+17-06.50
+17-06.25
+8
+3
+Moore, Haley
+11
+FIRESTONE
+17-06.00
+17-03.50
+6
+4
+Cuva, Nina
+10
+TALLMADGE
+16-02.00
+17-00.25
+4
+5
+Golden, Jazze
+12
+HOBAN
+17-00.00
+16-11.25
+3
+6
+Carroll, Larkin
+10
+REVERE
+15-11.50
+16-03.50
+7
+Elrod, Karsyn
+11
+GREEN
+17-02.00
+15-07.75
+8
+Gryskiewicz, Allison
+12
+MED HIGHLAND
+16-10.00
+15-07.50
+9
+Carter, Janiyah
+10
+ELLET
+17-01.00
+15-06.50
+
+#33
+Boys'
+High Jump
+Varsity
+Finals
+Athlete
+Yr
+Team
+Seed
+Finals
+Pts
+1
+Bontempo, Anthony
+12
+TALLMADGE
+6-09.25
+6-03.00
+10
+2
+Stupczy, Zack
+11
+REVERE
+6-05.00
+6-03.00
+8
+3
+Smith, Maurice
+11
+ELLET
+6-04.00
+6-02.00
+6
+4
+Sferra, Lucas
+12
+TALLMADGE
+5-10.00
+6-02.00
+5
+5
+Watts, Wesley
+11
+GREEN
+6-00.00
+6-02.00
+4
+6
+Wyatt, Reginald
+10
+BARBERTON
+6-00.00
+6-01.00
+3
+7
+Metcalf, Cole
+12
+GREEN
+6-00.00
+6-00.00
+2
+8
+Adams, Deyveair
+9
+AKRON SVSM
+6-00.00
+5-10.00
+1
+9
+Chapman, Elijah
+10
+AKRON SVSM
+5-11.00
+5-10.00
+10
+Kost, Andy
+11
+BUCKEYE
+5-08.00
+5-10.00
+--
+Blair, King
+12
+WOOSTER
+5-00.00
+NH
+--
+Warner, Darian
+10
+WOOSTER
+5-02.00
+NH
+--
+Mathis, Elijah
+11
+AK. GARFIELD
+5-02.00
+NH
+--
+Jordan, Tyson
+10
+COPLEY
+5-03.00
+NH
+--
+Hajdu, Carter
+10
+REVERE
+5-06.00
+NH
+--
+Lipinski, John
+9
+CUY. FALLS
+5-06.00
+NH
+--
+Miller, Cael
+11
+BUCKEYE
+5-06.00
+NH
+--
+McKee, Owen
+10
+HOBAN
+5-06.00
+NH
+--
+Cole, Rayden
+9
+FIRESTONE
+5-08.00
+NH
+--
+Spencer-Jackson, Payton
+11
+FIRESTONE
+5-08.00
+NH
+--
+Lehman, Grady
+12
+HOBAN
+5-10.00
+NH
+--
+Farahati, Ryan
+10
+COPLEY
+5-10.00
+DNS
+--
+Zielinski, Cooper
+12
+MED HIGHLAND
+5-10.00
+NH
+--
+Rapp, Owen
+12
+MED HIGHLAND
+5-10.00
+DNS
+--
+Williams, Elijah
+10
+ELLET
+6-03.00
+DNS
+
+#34
+Girls'
+Pole Vault
+Varsity
+Finals
+Athlete
+Yr
+Team
+Seed
+Finals
+Pts
+1
+Sifferlin, Ella
+12
+GREEN
+11-06.00
+11-00.00
+10
+2
+Riedy, Bria
+10
+MED HIGHLAND
+11-04.00
+11-00.00
+8
+3
+Coleman, Anna
+10
+MED HIGHLAND
+10-00.00
+10-08.00
+6
+4
+Powell, Ava
+11
+COPLEY
+9-00.00
+9-06.00
+5
+5
+Duta, Carmela
+12
+WOOSTER
+9-06.00
+9-06.00
+4
+6
+Adekunle, Yaminah
+10
+GREEN
+9-06.00
+9-00.00
+3
+7
+Dove, Valerie
+12
+TALLMADGE
+8-00.00
+8-00.00
+1.5
+7
+Hartman, Julia
+10
+WADSWORTH
+8-06.00
+8-00.00
+1.5
+9
+Keaton, Allison
+10
+REVERE
+7-00.00
+8-00.00
+10
+Hickey, Kaylee
+10
+ROOSEVELT
+6-06.00
+7-00.00
+10
+Norris, Delia
+10
+CUY. FALLS
+6-06.00
+7-00.00
+10
+Senff, Marie
+10
+WOOSTER
+6-09.00
+7-00.00
+10
+Rubino, Gigi
+10
+TALLMADGE
+7-00.00
+7-00.00
+10
+Hays, Alexandria
+9
+REVERE
+7-06.00
+7-00.00
+--
+Easter-Manthe, Mariyauna
+11
+HOBAN
+DNS
+--
+Brown, Adryanah
+12
+HOBAN
+DNS
+--
+Beasley, Aiken
+10
+CUY. FALLS
+7-00.00
+NH
+--
+McDonald, Terra
+11
+ROOSEVELT
+7-00.00
+NH
+--
+Mattle, Ella
+11
+WADSWORTH
+9-00.00
+NH
+--
+Easterly, Presley
+12
+COPLEY
+10-00.00
+NH

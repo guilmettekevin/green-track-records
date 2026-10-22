@@ -1,0 +1,848 @@
+Licensed to OHSAA Championship Meet     HY-TEK's Meet Manager 6/9/2013 07:52 AM
+                 2013 OHSAA Division I - 6/7/2013 to 6/8/2013                  
+                       State Track and Field Tournament                        
+                 Jesse Owens Memorial Stadium-Ohio State Univ.                 
+                                    Results                                    
+ 
+Event 2  Boys 4x800 Meter Relay
+=======================================================================
+OHSAA Div. 1: % 7:39.72  6/4/2010    Wadsworth, Wadsworth                      
+                         J Sussman, A Tipton, R McCune, J Hiltner          
+State Meet 1: # 7:39.72  6/4/2010    Wadsworth, Wadsworth                      
+                         J Sussman, A Tipton, R McCune, J Hiltner          
+ Owens Stad.: @ 7:37.43  6/3/2011    Peninsula Woodridge, Peninsula Woodridge  
+                         J Charles, D Sulzer, J Onifer, V Sivakumaran      
+    School                                               Finals  Points
+=======================================================================
+Finals
+  1 Wester. North                                       7:42.47   10   
+     1) 814 Nick Chatel 12              2) 827 Trevor Dilley 10           
+     3) 813 Evan Larrick 12             4) 829 Jacob Dumford 12           
+  2 Mason                                               7:45.96    8   
+     1) 877 Joey Stimler 12             2) 857 Paul Dhyver 12             
+     3) 841 Alexander Notton 12         4) 852 Ethan Valentine 11         
+  3 St. Xavier                                          7:49.07    6   
+     1) 305 Michael Vitucci 10          2) 306 Jake Grabowski 12          
+     3) 308 Brad Eagan                  4) 310 Michael Hall 11            
+  4 Solon                                               7:50.62    5   
+     1) 651 Zack Zimmers 12             2) 617 Eric Hansen 12             
+     3) 610 John Riordan 12             4) 611 Kevin Blank 11             
+  5 Tippecanoe                                          7:52.57    4   
+     1) 906 Sam Wharton 12              2) 901 Mitchell Poynter 09        
+     3) 904 Rick Andrews 12             4) 911 Grant Koch 12              
+  6 Centerville                                         7:53.34    3   
+     1) 813 Garrett Morrison 12         2) 817 Josh Steible 12            
+     3) 810 Caleb Andreason 11          4) 826 Ryan Larkin 11             
+  7 Steele                                              7:56.23    2   
+     1) 476 Nick Glowacki 12            2) 412 Mike Kardos 11             
+     3) 444 Chase Klingshirn 12         4) 401 Kevin Burgett 12           
+  8 Marysville                                          7:57.28    1   
+     1) 318 Clay Cochran 12             2) 306 Nick Williams 11           
+     3) 301 Jordan Bollmann 12          4) 335 Josh Brady 12              
+  9 Twinsburg                                           7:58.62  
+     1) 605 Ryan Scanlon 12             2) 613 Tommy King 12              
+     3) 621 Nick Schank 11              4) 610 Garrett Crichlow 11        
+ 10 Hudson                                              7:59.19  
+     1) 910 Kyle Mau 10                 2) 919 Mark Zubenko 12            
+     3) 923 Michael Spaans 11           4) 907 Vince Moeglin 12           
+ 11 Newark                                              7:59.45  
+     1) 911 Toby Hardwick 11            2) 972 Anthony Johnson 12         
+     3) 955 Kameron Carpenter 12        4) 973 Isaac Wheeler 11           
+ 12 Mas. Jackson                                        8:00.20  
+     1) 141 Tyler Berg 12               2) 106 Micah Johnson 11           
+     3) 114 Ben Hyde 11                 4) 135 Josh Reed 12               
+ 13 Medina                                              8:01.47  
+     1) 512 Tommy Menyes 12             2) 511 Dan Schwendler 11          
+     3) 502 Dylan Dombi 11              4) 513 Ian McKee 12               
+ 14 Tol. St. Francis                                    8:03.03  
+     1) 909 Daniel Lenart 12            2) 935 David St. John 10          
+     3) 910 Jacob Baugh 10              4) 906 Kyle Lach 12               
+ 15 Norwalk                                             8:04.63  
+     1) 827 Zachary Tanzillo 12         2) 842 Quentin Howell 11          
+     3) 832 Caden Foos 10               4) 802 Jared Lee 11               
+ 16 Dub. Jerome                                         8:06.88  
+     1) 529 Graham Stecz 11             2) 543 Mitch Leitch 11            
+     3) 532 Jake Mandel 11              4) 512 Nick Foley 10              
+ 
+Event 4  Boys 110 Meter Hurdles 39"
+========================================================================
+OHSAA Div. 1: % 13.30  1990        Chris Nelloms, Dayton Dunbar                
+State Meet 1: # 13.40  2004        Ted Ginn Jr., Cleveland Glenville           
+ Owens Stad.: @ 13.40  2004        Ted Ginn Jr., Cleveland Glenville           
+    Name                    Year School                 Prelims  Wind H#
+========================================================================
+Preliminaries
+  1   703 Steele Wasik        11 St. Edward               13.88Q  2.2  2 
+  2   592 Desmond Palmer      12 Pick. North              13.90Q  1.3  1 
+  3   858 Asad Maiden         12 Mason                    14.31Q  1.3  1 
+  4   129 Sam Ortz            11 Austintown-F             14.49Q  2.2  2 
+  5   924 Paedyn Gomes        11 West Geauga              14.32q  1.3  1 
+  6   785 Richard Floyd       10 Strongsville             14.34q  1.3  1 
+  7   860 Alex Frye           12 New Albany               14.53q  1.3  1  14.523
+  8   322 Rameses Owens       11 Shaker Hts.              14.53q  2.2  2  14.526
+  9   328 DJ Hickman          11 Northmont                14.68q  2.2  2 
+ 10   337 Brentten Wiley      12 Avon                     14.74   2.2  2 
+ 11   827 Hunter Rogerson     12 Granville                14.82   2.2  2 
+ 12    21 Jack Nagy           12 Oregon Clay              14.87   1.3  1 
+ 13   201 Andrew Kraus        12 Moeller                  14.88   2.2  2 
+ 14   311 Demarcus Wilson     11 Trotwood-Mad             14.96   1.3  1 
+ 15   930 Richard Dahome      12 Wester. Sout             15.15   1.3  1 
+ 
+Event 4  Boys 110 Meter Hurdles 39"
+============================================================================
+OHSAA Div. 1: % 13.30  1990        Chris Nelloms, Dayton Dunbar                
+State Meet 1: # 13.40  2004        Ted Ginn Jr., Cleveland Glenville           
+ Owens Stad.: @ 13.40  2004        Ted Ginn Jr., Cleveland Glenville           
+    Name                    Year School                  Finals  Wind Points
+============================================================================
+Finals
+  1   592 Desmond Palmer      12 Pick. North              14.03  -1.0  10   
+  2   703 Steele Wasik        11 St. Edward               14.06  -1.0   8   
+  3   858 Asad Maiden         12 Mason                    14.40  -1.0   6   
+  4   924 Paedyn Gomes        11 West Geauga              14.53  -1.0   5   
+  5   129 Sam Ortz            11 Austintown-F             14.69  -1.0   4   
+  6   785 Richard Floyd       10 Strongsville             14.77  -1.0   3   
+  7   322 Rameses Owens       11 Shaker Hts.              14.79  -1.0   2   
+  8   328 DJ Hickman          11 Northmont                15.08  -1.0   1   
+ 
+Event 6  Boys 100 Meter Dash
+========================================================================
+OHSAA Div. 1: % 10.38  2006        Brandon Saine, Piqua                        
+State Meet 1: # 10.47  6/5/2009    Blake Heriot, Gahanna Lincoln               
+ Owens Stad.: @ 10.47  6/5/2009    Blake Heriot, Gahanna Lincoln               
+    Name                    Year School                 Prelims  Wind H#
+========================================================================
+Preliminaries
+  1   545 Riak Reese          12 Lincoln                  10.41Q  3.4  1 
+  2   762 Shaun Crawford      10 St. Edward               10.54Q  1.2  2 
+  3   621 Khoury Crenshaw     12 Solon                    10.58Q  1.2  2 
+  4   774 Anthony Young       12 St. Edward               10.59Q  3.4  1 
+  5   622 Phillipie Motley    11 Hil. Davidso             10.63q  3.4  1 
+  6   480 Malcolm Johnson     11 Syl. Southvi             10.67q  3.4  1 
+  7   408 Shelton Gibson      12 Cle. Heights             10.74q  3.4  1  10.733
+  8   502 DeVohn Jackson      10 Cin. Northwe             10.74q  1.2  2  10.736
+  9   205 Dekan Ekpo          12 Beavercreek              10.76q  3.4  1 
+ 10   742 David Hatchett      11 Wester. Cent             10.77   3.4  1  10.762
+ 11   945 James Freeman II    12 Toledo C.C.              10.77   1.2  2  10.763
+ 12   536 Charlie Ronan       12 Turpin                   10.78   3.4  1 
+ 13   701 Nathan Jones        12 Boardman                 10.83   1.2  2 
+ 14   331 Josh Blanton        11 Northmont                10.86   1.2  2 
+ 15   596 Godwin Igwebuike    12 Pick. North              10.87   1.2  2 
+ 16   299 Jeff Richardson     12 Canton McKin             10.90   1.2  2 
+ 
+Event 6  Boys 100 Meter Dash
+============================================================================
+OHSAA Div. 1: % 10.38  2006        Brandon Saine, Piqua                        
+State Meet 1: # 10.47  6/5/2009    Blake Heriot, Gahanna Lincoln               
+ Owens Stad.: @ 10.47  6/5/2009    Blake Heriot, Gahanna Lincoln               
+    Name                    Year School                  Finals  Wind Points
+============================================================================
+Finals
+  1   545 Riak Reese          12 Lincoln                  10.68  -1.1  10   
+  2   621 Khoury Crenshaw     12 Solon                    10.75  -1.1   8   
+  3   762 Shaun Crawford      10 St. Edward               10.84  -1.1   6   
+  4   774 Anthony Young       12 St. Edward               10.91  -1.1   5    10.907
+  5   622 Phillipie Motley    11 Hil. Davidso             10.91  -1.1   4    10.908
+  6   480 Malcolm Johnson     11 Syl. Southvi             10.96  -1.1   3   
+  7   502 DeVohn Jackson      10 Cin. Northwe             11.05  -1.1   2   
+  8   408 Shelton Gibson      12 Cle. Heights             11.14  -1.1   1   
+  9   205 Dekan Ekpo          12 Beavercreek              11.17  -1.1 
+ 
+Event 8  Boys 4x200 Meter Relay
+===================================================================
+OHSAA Div. 1: % 1:25.09  6/4/2005    Cleveland Glenville, Cleveland Glenville  
+                         R Fisher, D McBryde, F Lenix, A Evans             
+State Meet 1: # 1:25.09  6/4/2005    Cleveland Glenville, Cleveland Glenville  
+                         R Fisher, D McBryde, F Lenix, A Evans             
+ Owens Stad.: @ 1:25.09  6/4/2005    Cleveland Glenville, Cleveland Glenville  
+                         R Fisher, D McBryde, F Lenix, A Evans             
+    School                                              Prelims  H#
+===================================================================
+Preliminaries
+  1 Austintown-Fitch                                    1:27.68Q  1 
+     1) 138 Gary Gibson 11              2) 143 Nathan Bowlen 11           
+     3) 125 Darrin Hall 10              4) 145 Joe Harrington 10          
+  2 Mason                                               1:27.92Q  2 
+     1) 870 Reece Pontious 10           2) 873 Billy Chanatry 12          
+     3) 861 Robert Diehl 12             4) 872 Juan Cummings 12           
+  3 Syl. Southview                                      1:28.07Q  1 
+     1) 474 Keith Gilmore 10            2) 485 Jernard Pinckney 11        
+     3) 486 Perry Burkes 11             4) 480 Malcolm Johnson 11         
+  4 Pick. North                                         1:28.38Q  2 
+     1) 596 Godwin Igwebuike 12         2) 541 Nick Gray 10               
+     3) 557 Roland Ladipo 12            4) 592 Desmond Palmer 12          
+  5 Wester. Central                                     1:28.45q  1 
+     1) 762 Eldin Anu 11                2) 701 Charlie Moushey 12         
+     3) 761 Joshua Beaumont 10          4) 742 David Hatchett 11          
+  6 Wayne                                               1:28.52q  1 
+     1) 208 Javan Richardson 12         2) 235 Jesse Bray 12              
+     3) 209 De' Anthony Morgan 11       4) 258 Jordan Whitfield 11        
+  7 Wooster                                             1:29.08q  1 
+     1) 705 Javonte Lidge 11            2) 711 Stefan Fraga 12            
+     3) 733 Connor Kubiak 11            4) 701 James Preston 12           
+  8 Granville                                           1:29.28q  2 
+     1) 827 Hunter Rogerson 12          2) 817 Cody Lenfest 12            
+     3) 820 Ajay Alderman 11            4) 804 Casey Lenfest 11           
+  9 Hil. Davidson                                       1:29.68q  2 
+     1) 669 DaMarcus Nelson 11          2) 637 Josiah Bernard 11          
+     3) 645 Dametrius Clark 11          4) 622 Phillipie Motley 11        
+ 10 Centerville                                         1:29.83   2 
+     1) 816 Sam Fintel 12               2) 818 Keith Beason 12            
+     3) 811 Davin Fleming 12            4) 808 Brad Schluter 12           
+ 11 John Adams                                          1:30.13   2 
+     1) 505 Ronnie Turner 11            2) 520 Jojuan Hundley 11          
+     3) 510 Myron Smith 11              4) 507 Reggie Thomas 11           
+ 12 Nordonia                                            1:30.19   1 
+     1) 607 Sterling Brabson 11         2) 610 Brandon Truett 11          
+     3) 602 Brandon Wilson 10           4) 603 Jordan Nobles 11           
+ 13 Berea                                               1:31.15   1 
+     1) 309 Caleb Samol 10              2) 375 Marlon Robertson 11        
+     3) 378 Justin Harris 10            4) 307 Vaughn Fultz 12            
+ 14 Tol. St. John's Jesuit                              1:31.61   1 
+     1) 103 Keionn Gray 10              2) 108 Shawn Howze 11             
+     3) 112 Samuel Edwards 11           4) 107 Taylor Jones 12            
+ 15 Northmont                                           1:32.82   2 
+     1) 331 Josh Blanton 11             2) 329 Drew Hickman 10            
+     3) 328 DJ Hickman 11               4) 337 Cameron Beltom 12          
+ -- Glenville                                                DQ   2 
+     1) 505 Falonte Jackson 11          2) 523 Omar Dhyll Jr. 10          
+     3) 506 Darrien Hickman 11          4) 501 Jacquez Riggs 12           
+ 
+Event 8  Boys 4x200 Meter Relay
+=======================================================================
+OHSAA Div. 1: % 1:25.09  6/4/2005    Cleveland Glenville, Cleveland Glenville  
+                         R Fisher, D McBryde, F Lenix, A Evans             
+State Meet 1: # 1:25.09  6/4/2005    Cleveland Glenville, Cleveland Glenville  
+                         R Fisher, D McBryde, F Lenix, A Evans             
+ Owens Stad.: @ 1:25.09  6/4/2005    Cleveland Glenville, Cleveland Glenville  
+                         R Fisher, D McBryde, F Lenix, A Evans             
+    School                                               Finals  Points
+=======================================================================
+Finals
+  1 Pick. North                                         1:26.14   10   
+     1) 596 Godwin Igwebuike 12         2) 541 Nick Gray 10               
+     3) 557 Roland Ladipo 12            4) 592 Desmond Palmer 12          
+  2 Mason                                               1:26.44    8   
+     1) 870 Reece Pontious 10           2) 873 Billy Chanatry 12          
+     3) 861 Robert Diehl 12             4) 872 Juan Cummings 12           
+  3 Wayne                                               1:27.14    6   
+     1) 208 Javan Richardson 12         2) 235 Jesse Bray 12              
+     3) 209 De' Anthony Morgan 11       4) 258 Jordan Whitfield 11        
+  4 Austintown-Fitch                                    1:27.15    5   
+     1) 138 Gary Gibson 11              2) 143 Nathan Bowlen 11           
+     3) 125 Darrin Hall 10              4) 145 Joe Harrington 10          
+  5 Syl. Southview                                      1:27.85    4   
+     1) 474 Keith Gilmore 10            2) 485 Jernard Pinckney 11        
+     3) 486 Perry Burkes 11             4) 480 Malcolm Johnson 11         
+  6 Granville                                           1:28.33    3   
+     1) 827 Hunter Rogerson 12          2) 817 Cody Lenfest 12            
+     3) 820 Ajay Alderman 11            4) 804 Casey Lenfest 11           
+  7 Wooster                                             1:28.42    2   
+     1) 705 Javonte Lidge 11            2) 711 Stefan Fraga 12            
+     3) 733 Connor Kubiak 11            4) 701 James Preston 12           
+  8 Hil. Davidson                                       1:29.12    1   
+     1) 669 DaMarcus Nelson 11          2) 637 Josiah Bernard 11          
+     3) 645 Dametrius Clark 11          4) 622 Phillipie Motley 11        
+  9 Wester. Central                                     1:29.15  
+     1) 762 Eldin Anu 11                2) 701 Charlie Moushey 12         
+     3) 761 Joshua Beaumont 10          4) 742 David Hatchett 11          
+ 
+Event 10  Boys 1600 Meter Run
+=======================================================================
+OHSAA Div. 1: % 4:05.13  1988        Bob Kennedy, Westerville North            
+State Meet 1: # 4:05.13  1988        Bob Kennedy, Westerville North            
+ Owens Stad.: @ 4:08.41  6/2/2007    Corey Leslie, Sandusky Perkins            
+    Name                    Year School                  Finals  Points
+=======================================================================
+  1   829 Jacob Dumford       12 Wester. Nort           4:08.21@  10   
+  2   310 Michael Hall        11 St. Xavier             4:09.45    8   
+  3   611 Kevin Blank         11 Solon                  4:10.86    6   
+  4   610 Garrett Crichlow    11 Twinsburg              4:11.30    5   
+  5   302 Daniel Zupan        12 Berea                  4:12.94    4   
+  6   910 Kyle Mau            10 Hudson                 4:13.19    3   
+  7   808 Lou Styles          12 Midpark                4:13.29    2   
+  8   823 Tyler Otterstedt    11 Granville              4:13.41    1   
+  9   305 Michael Vitucci     10 St. Xavier             4:15.71  
+ 10   906 Kyle Lach           12 Tol. St. Fra           4:15.95  
+ 11   814 Nick Chatel         12 Wester. Nort           4:16.90  
+ 12   102 Owen Norley         12 Kenston                4:18.02  
+ 13   624 Zach VanGundy       12 Olen. Libert           4:18.14  
+ 14   214 Zachary Hoffman     12 Moeller                4:19.92  
+ 15   817 Josh Steible        12 Centerville            4:20.93  
+ 16   878 Luke Wagner         09 St. Ignatius           4:21.84  
+ 
+Event 12  Boys 4x100 Meter Relay
+===================================================================
+OHSAA Div. 1: % 40.79  2002        Middletown, Middletown                      
+                       T Thompson, N Ahmad, M Johnson, D Hunter          
+State Meet 1: # 40.91  2002        Middletown, Middletown                      
+                       T Thompson, N Ahmad, M Johnson, D Hunter          
+ Owens Stad.: @ 41.59  2004        Cleveland Glenville, Cleveland Glenville    
+                       F Lenix, D Jones, S Fuqua, M Howard               
+    School                                              Prelims  H#
+===================================================================
+Preliminaries
+  1 Cin. Northwest                                        42.20Q  1 
+     1) 510 Dominick Williams 12        2) 501 Miles Baldwin 12           
+     3) 502 DeVohn Jackson 10           4) 513 Jamiel Trimble 12          
+  2 Cle. Heights                                          42.33Q  2 
+     1) 406 Dorien Hudson 12            2) 408 Shelton Gibson 12          
+     3) 404 Jackson Jones 12            4) 409 Deanti Powell 11           
+  3 No. Ridgeville                                        42.36Q  1 
+     1) 113 Jason Lucas 11              2) 112 Demario McCall 9           
+     3) 125 Zack Bowden 12              4) 116 Paul Sonego 12             
+  4 Lincoln                                               42.44Q  2 
+     1) 530 Kevin KJ Jackson 12         2) 595 Mark Daniels 12            
+     3) 538 Eric Buckner 12             4) 545 Riak Reese 12              
+  5 Austintown-Fitch                                      42.39q  1 
+     1) 128 Ty'Reese Anderson 12        2) 145 Joe Harrington 10          
+     3) 138 Gary Gibson 11              4) 143 Nathan Bowlen 11           
+  6 New Albany                                            42.51q  1 
+     1) 811 Wyatt Johnston 11           2) 848 Darren Lee 12              
+     3) 815 OB Oppong 11                4) 809 Alan Watson 12             
+  7 St. Ignatius                                          42.55q  2 
+     1) 807 Enzo Cannata 11             2) 815 Dan Way 12                 
+     3) 809 Pat Jeffries 12             4) 874 James Norris 09            
+  8 Trotwood-Madison                                      42.57q  2  42.566
+     1) 304 Romello Crisp 11            2) 315 Harrison Johnson 10        
+     3) 311 Demarcus Wilson 11          4) 301 Reon Dawson 12             
+  9 Olentangy                                             42.57q  2  42.569
+     1) 785 Ramal Iverson 12            2) 701 Jeff Clark 11              
+     3) 794 Dan Wruble 12               4) 716 Colin McShane 12           
+ 10 Mason                                                 42.59   1 
+     1) 873 Billy Chanatry 12           2) 858 Asad Maiden 12             
+     3) 842 Cameron Elliott 11          4) 872 Juan Cummings 12           
+ 11 Warren G Harding                                      42.63   2 
+     1) 150 LeShun Daniels 12           2) 101 Dalyn Gattison 12          
+     3) 111 Kevonte' Jordan 12          4) 123 Keemari Murry 9            
+ 12 Solon                                                 42.76   1 
+     1) 606 Darian Hicks 12             2) 621 Khoury Crenshaw 12         
+     3) 602 Kollyn Crenshaw 11          4) 601 Brandon Bolden 11          
+ 13 Toledo C.C.                                           43.02   2 
+     1) 971 Aaron Taylor 12             2) 945 James Freeman II 12        
+     3) 951 Elijah Morant 12            4) 948 Tre'Von Wade 9             
+ 14 Pick. North                                           43.22   1 
+     1) 565 Cortez Goodwin 12           2) 551 Kody Kasey 12              
+     3) 557 Roland Ladipo 12            4) 596 Godwin Igwebuike 12        
+ 15 Berea                                                 43.84   2 
+     1) 309 Caleb Samol 10              2) 375 Marlon Robertson 11        
+     3) 378 Justin Harris 10            4) 379 Chris Neumann 9            
+ 16 Troy                                                  44.16   1 
+     1) 490 Devante Bush 12             2) 492 Miles Hibbler 11           
+     3) 496 Nick Zimmer 12              4) 484 Blake Williams 12          
+ 
+Event 12  Boys 4x100 Meter Relay
+=======================================================================
+OHSAA Div. 1: % 40.79  2002        Middletown, Middletown                      
+                       T Thompson, N Ahmad, M Johnson, D Hunter          
+State Meet 1: # 40.91  2002        Middletown, Middletown                      
+                       T Thompson, N Ahmad, M Johnson, D Hunter          
+ Owens Stad.: @ 41.59  2004        Cleveland Glenville, Cleveland Glenville    
+                       F Lenix, D Jones, S Fuqua, M Howard               
+    School                                               Finals  Points
+=======================================================================
+Finals
+  1 Cin. Northwest                                        41.28@  10   
+     1) 510 Dominick Williams 12        2) 501 Miles Baldwin 12           
+     3) 502 DeVohn Jackson 10           4) 513 Jamiel Trimble 12          
+  2 Trotwood-Madison                                      41.85    8   
+     1) 304 Romello Crisp 11            2) 315 Harrison Johnson 10        
+     3) 311 Demarcus Wilson 11          4) 301 Reon Dawson 12             
+  3 Lincoln                                               41.98    6   
+     1) 530 Kevin KJ Jackson 12         2) 595 Mark Daniels 12            
+     3) 538 Eric Buckner 12             4) 545 Riak Reese 12              
+  4 New Albany                                            42.08    5   
+     1) 811 Wyatt Johnston 11           2) 848 Darren Lee 12              
+     3) 815 OB Oppong 11                4) 809 Alan Watson 12             
+  5 Cle. Heights                                          42.21    4   
+     1) 407 Marcus McShepard 12         2) 408 Shelton Gibson 12          
+     3) 404 Jackson Jones 12            4) 409 Deanti Powell 11           
+  6 Austintown-Fitch                                      42.22    3   
+     1) 128 Ty'Reese Anderson 12        2) 145 Joe Harrington 10          
+     3) 138 Gary Gibson 11              4) 143 Nathan Bowlen 11           
+  7 No. Ridgeville                                        42.26    2   
+     1) 113 Jason Lucas 11              2) 112 Demario McCall 9           
+     3) 125 Zack Bowden 12              4) 116 Paul Sonego 12             
+  8 St. Ignatius                                          42.61    1   
+     1) 807 Enzo Cannata 11             2) 815 Dan Way 12                 
+     3) 809 Pat Jeffries 12             4) 874 James Norris 09            
+ -- Olentangy                                               DNF  
+     1) 785 Ramal Iverson 12            2) 701 Jeff Clark 11              
+     3) 794 Dan Wruble 12               4) 716 Colin McShane 12           
+ 
+Event 14  Boys 400 Meter Dash
+===================================================================
+OHSAA Div. 1: % 45.59  1990        Chris Nelloms, Dayton Dunbar                
+State Meet 1: # 45.59  1990        Chris Nelloms, Dayton Dunbar                
+ Owens Stad.: @ 46.64  2004        Zach Logan, Trotwood-Madison                
+    Name                    Year School                 Prelims  H#
+===================================================================
+Preliminaries
+  1   451 Tyler Brown         12 Findlay                  48.38Q  1 
+  2   635 Antwon Smith        12 Cle. JFK                 48.70Q  2 
+  3   501 Miles Baldwin       12 Cin. Northwe             48.87Q  1 
+  4   501 Jacquez Riggs       12 Glenville                49.13Q  2 
+  5   485 Jernard Pinckney    11 Syl. Southvi             49.28q  2 
+  6   509 Bryant Switzer      12 Lexington                49.34q  1 
+  7   541 Nick Gray           10 Pick. North              49.58q  1 
+  8   315 Halen Witcher       11 Princeton                49.75q  1 
+  9   880 Otis Conel          12 Lakeside                 49.86q  1 
+ 10   813 Kevin Konkoly       12 Oak Hills                49.90   2 
+ 11   102 Austin Niemann      11 Hamilton Tow             49.98   2 
+ 12   637 Josiah Bernard      11 Hil. Davidso             50.45   1 
+ 13   546 Emmit Bryan         10 St. Charles              50.68   2 
+ 14   718 Jaylen Dowdy        12 Mentor                   50.71   2 
+ 15   329 Drew Hickman        10 Northmont                50.72   2 
+ 16   421 Gareon Conley       12 Massillon                50.77   1 
+ 
+Event 14  Boys 400 Meter Dash
+=======================================================================
+OHSAA Div. 1: % 45.59  1990        Chris Nelloms, Dayton Dunbar                
+State Meet 1: # 45.59  1990        Chris Nelloms, Dayton Dunbar                
+ Owens Stad.: @ 46.64  2004        Zach Logan, Trotwood-Madison                
+    Name                    Year School                  Finals  Points
+=======================================================================
+Finals
+  1   451 Tyler Brown         12 Findlay                  47.08   10   
+  2   635 Antwon Smith        12 Cle. JFK                 47.15    8   
+  3   501 Jacquez Riggs       12 Glenville                48.05    6   
+  4   501 Miles Baldwin       12 Cin. Northwe             48.25    5   
+  5   541 Nick Gray           10 Pick. North              48.28    4   
+  6   509 Bryant Switzer      12 Lexington                48.68    3   
+  7   485 Jernard Pinckney    11 Syl. Southvi             48.76    2   
+  8   315 Halen Witcher       11 Princeton                49.05    1   
+  9   880 Otis Conel          12 Lakeside                 49.81  
+ 
+Event 16  Boys 300 Meter Hurdles 36"
+===================================================================
+OHSAA Div. 1: % 35.96  6/2/2012    Donovan Robertson, Berea                    
+State Meet 1: # 35.96  6/2/2012    Donovan Robertson, Berea                    
+ Owens Stad.: @ 35.96  6/2/2012    Donovan Robertson, Berea                    
+    Name                    Year School                 Prelims  H#
+===================================================================
+Preliminaries
+  1   592 Desmond Palmer      12 Pick. North              36.91Q  1 
+  2   703 Steele Wasik        11 St. Edward               37.51Q  2 
+  3   513 Jamiel Trimble      12 Cin. Northwe             38.25Q  1 
+  4    81 Grant Mlack         11 Chardon                  38.81Q  2 
+  5   817 Cody Lenfest        12 Granville                38.52q  1 
+  6   858 Asad Maiden         12 Mason                    38.62q  1 
+  7   404 Frank Douglas       10 Mad. Compreh             38.96q  1 
+  8   903 Dionte Carey        12 Start                    39.44q  2 
+  9   209 Ethan George        12 Watkins Memo             39.86q  2 
+ 10   322 Rameses Owens       11 Shaker Hts.              39.92   1 
+ 11   668 Guillebaldo Cepeda  12 Fairborn                 40.01   2 
+ 12   337 Brentten Wiley      12 Avon                     40.05   1 
+ 13   860 Alex Frye           12 New Albany               40.09   1 
+ 14   313 Zach Lynett         11 St. Xavier               40.46   2 
+ 15   508 William Robinson    12 Glenville                40.77   2 
+ 16   927 Grant Mercer        12 Roosevelt                42.47   2 
+ 
+Event 16  Boys 300 Meter Hurdles 36"
+=======================================================================
+OHSAA Div. 1: % 35.96  6/2/2012    Donovan Robertson, Berea                    
+State Meet 1: # 35.96  6/2/2012    Donovan Robertson, Berea                    
+ Owens Stad.: @ 35.96  6/2/2012    Donovan Robertson, Berea                    
+    Name                    Year School                  Finals  Points
+=======================================================================
+Finals
+  1   592 Desmond Palmer      12 Pick. North              36.31   10   
+  2   703 Steele Wasik        11 St. Edward               36.91    8   
+  3   513 Jamiel Trimble      12 Cin. Northwe             38.24    6   
+  4   404 Frank Douglas       10 Mad. Compreh             38.47    5   
+  5   817 Cody Lenfest        12 Granville                38.48    4   
+  6   858 Asad Maiden         12 Mason                    38.57    3   
+  7   903 Dionte Carey        12 Start                    38.82    2   
+  8    81 Grant Mlack         11 Chardon                  39.17    1   
+  9   209 Ethan George        12 Watkins Memo             39.96  
+ 
+Event 18  Boys 800 Meter Run
+=======================================================================
+OHSAA Div. 1: % 1:48.93  2001        Mark Sylvester, Cleveland St. Ignatius    
+State Meet 1: # 1:48.93  2001        Mark Sylvester, Cleveland St. Ignatius    
+ Owens Stad.: @ 1:50.77  6/7/2008    Cory Leslie, Sandusky Perkins             
+    Name                    Year School                  Finals  Points
+=======================================================================
+  1   972 Anthony Johnson     12 Newark                 1:51.58   10   
+  2   141 Dominik Seitzer     12 Reynoldsburg           1:52.49    8   
+  3   829 Jacob Dumford       12 Wester. Nort           1:52.85    6   
+  4   717 Stephen Sparks      11 Lancaster              1:53.12    5   
+  5   911 Grant Koch          12 Tippecanoe             1:53.42    4   
+  6   916 Brian McGovern      11 Tallmadge              1:53.68    3   
+  7   129 Caleb Mellon        12 Mayfield               1:54.32    2    1:54.317
+  8   606 Sean Batt           12 Anderson               1:54.32    1    1:54.318
+  9   302 Daniel Zupan        12 Berea                  1:54.42  
+ 10   724 Kevin White         10 Wooster                1:55.79  
+ 11   412 Mike Kardos         11 Steele                 1:56.10  
+ 12   502 Paul Lovell         12 Stow-Munroe            1:57.44  
+ 13   852 Ethan Valentine     11 Mason                  1:59.01  
+ 14   761 Michael Navratil    12 St. Edward             1:59.73  
+ 15   310 Michael Hall        11 St. Xavier             2:01.00  
+ 16   380 Bryant Byrd         12 Perrysburg             2:03.66  
+ 
+Event 20  Boys 200 Meter Dash
+========================================================================
+OHSAA Div. 1: % 20.47  1990        Chris Nelloms, Dayton Dunbar                
+State Meet 1: # 20.47  1990        Chris Nelloms, Dayton Dunbar                
+ Owens Stad.: @ 21.13  6/7/2013    Riak Reese, Gahanna Lincoln                 
+    Name                    Year School                 Prelims  Wind H#
+========================================================================
+Preliminaries
+  1   545 Riak Reese          12 Lincoln                @ 21.13Q  1.1  1 
+  2   774 Anthony Young       12 St. Edward               21.45Q  1.3  2 
+  3   804 Casey Lenfest       11 Granville                21.33Q  1.1  1 
+  4   480 Malcolm Johnson     11 Syl. Southvi             21.70Q  1.3  2 
+  5   762 Shaun Crawford      10 St. Edward               21.47q  1.1  1 
+  6   299 Jeff Richardson     12 Canton McKin             21.80q  1.3  2 
+  7   331 Josh Blanton        11 Northmont                21.90q  1.1  1 
+  8   408 Shelton Gibson      12 Cle. Heights             21.93q  1.3  2 
+  9   742 David Hatchett      11 Wester. Cent             22.08q  1.1  1  22.076
+ 10   622 Phillipie Motley    11 Hil. Davidso             22.08   1.3  2  22.080
+ 11    15 Aaron Murray        12 Withrow                  22.12   1.1  1 
+ 12   145 Joe Harrington      10 Austintown-F             22.18   1.1  1 
+ 13   872 Juan Cummings       12 Mason                    22.20   1.3  2 
+ 14   205 Dekan Ekpo          12 Beavercreek              22.22   1.3  2 
+ 15   621 Khoury Crenshaw     12 Solon                    22.28   1.3  2 
+ 
+Event 20  Boys 200 Meter Dash
+============================================================================
+OHSAA Div. 1: % 20.47  1990        Chris Nelloms, Dayton Dunbar                
+State Meet 1: # 20.47  1990        Chris Nelloms, Dayton Dunbar                
+ Owens Stad.: @ 21.13  6/7/2013    Riak Reese, Gahanna Lincoln                 
+    Name                    Year School                  Finals  Wind Points
+============================================================================
+Finals
+  1   545 Riak Reese          12 Lincoln                  21.53  -1.9  10   
+  2   774 Anthony Young       12 St. Edward               21.81  -1.9   8   
+  3   804 Casey Lenfest       11 Granville                21.83  -1.9   6   
+  4   299 Jeff Richardson     12 Canton McKin             21.92  -1.9   5   
+  5   762 Shaun Crawford      10 St. Edward               21.95  -1.9   4   
+  6   480 Malcolm Johnson     11 Syl. Southvi             22.06  -1.9   3   
+  7   742 David Hatchett      11 Wester. Cent             22.10  -1.9   2   
+  8   408 Shelton Gibson      12 Cle. Heights             22.16  -1.9   1   
+  9   331 Josh Blanton        11 Northmont                22.39  -1.9 
+ 
+Event 22  Boys 3200 Meter Run
+=======================================================================
+OHSAA Div. 1: % 8:55.04  6/2/2012    Tsehaye Hiluf, Reynoldsburg               
+State Meet 1: # 8:55.04  6/2/2012    Tsehaye Hiluf, Reynoldsburg               
+ Owens Stad.: @ 8:55.04  6/2/2012    Tsehaye Hiluf, Reynoldsburg               
+    Name                    Year School                  Finals  Points
+=======================================================================
+  1   906 Sam Wharton         12 Tippecanoe             8:56.61   10   
+  2    17 Nick Elswick        11 Chardon                9:00.43    8   
+  3   731 Mark Hadley         11 Boardman               9:05.66    6   
+  4   804 Kent Ford           12 Wester. Nort           9:11.07    5   
+  5   876 Tom Clark           11 Mason                  9:15.77    4   
+  6   543 Mitch Leitch        11 Dub. Jerome            9:17.02    3   
+  7   862 Nick Grismer        10 Mason                  9:18.77    2   
+  8   609 Andrew Johnston     11 Olen. Libert           9:19.16    1   
+  9   553 Matt Rice           12 Lak. East              9:20.91  
+ 10   836 Jack Miller         12 St. Ignatius           9:22.41  
+ 11   532 Jake Mandel         11 Dub. Jerome            9:27.13  
+ 12   935 David St. John      10 Tol. St. Fra           9:36.25  
+ 13   872 Joe Arquillo        12 St. Ignatius           9:42.41  
+ 14   307 Tyler Menear        12 Brunswick              9:46.53  
+ 15   711 Ryan Sullivan       11 Howland                9:56.62  
+ 16   753 Jeff Gudowicz       12 Mentor                10:04.50  
+ 
+Event 24  Boys 4x400 Meter Relay
+===================================================================
+OHSAA Div. 1: % 3:13.05  6/5/2010    Trotwood-Madison, Trotwood-Mad            
+                         J Ruby, J Paschal, R Lorenzo, W Henry             
+State Meet 1: # 3:13.05  6/5/2010    Trotwood-Madison, Trotwood-Madison        
+                         J Ruby, J Paschal, R Lorenz, W Henry              
+ Owens Stad.: @ 3:13.05  6/5/2010    Trotwood-Madison, Trotwood-Madison        
+                         J Ruby, J Paschal, R Lorenz, W Henry              
+    School                                              Prelims  H#
+===================================================================
+Preliminaries
+  1 Pick. North                                         3:15.34Q  1 
+     1) 541 Nick Gray 10                2) 561 Lucas Miller 10            
+     3) 566 Trey Browder 11             4) 592 Desmond Palmer 12          
+  2 Granville                                           3:19.09Q  2 
+     1) 817 Cody Lenfest 12             2) 881 Trey Zangmeister 12        
+     3) 823 Tyler Otterstedt 11         4) 804 Casey Lenfest 11           
+  3 Mason                                               3:18.46Q  1 
+     1) 861 Robert Diehl 12             2) 845 Amit Maity 10              
+     3) 870 Reece Pontious 10           4) 874 Andrew Klapproth 11        
+  4 Glenville                                           3:19.74Q  2 
+     1) 528 Adam Lett 11                2) 523 Omar Dhyll Jr. 10          
+     3) 506 Darrien Hickman 11          4) 501 Jacquez Riggs 12           
+  5 Syl. Southview                                      3:20.16q  2 
+     1) 479 Chad Justus 12              2) 486 Perry Burkes 11            
+     3) 478 Jeremy Cook 12              4) 485 Jernard Pinckney 11        
+  6 Olentangy                                           3:20.99q  2 
+     1) 785 Ramal Iverson 12            2) 794 Dan Wruble 12              
+     3) 701 Jeff Clark 11               4) 716 Colin McShane 12           
+  7 St. Edward                                          3:22.26q  2 
+     1) 762 Shaun Crawford 10           2) 703 Steele Wasik 11            
+     3) 775 Soloman Warfield 12         4) 774 Anthony Young 12           
+  8 Hil. Davidson                                       3:22.28q  1 
+     1) 637 Josiah Bernard 11           2) 645 Dametrius Clark 11         
+     3) 669 DaMarcus Nelson 11          4) 622 Phillipie Motley 11        
+  9 Mentor                                              3:22.43q  2 
+     1) 718 Jaylen Dowdy 12             2) 726 Austin Hankins 11          
+     3) 735 Darren Ingram 11            4) 752 Marc Walton 10             
+ 10 Miamisburg                                          3:22.58   1 
+     1) 615 Cody Callison 12            2) 680 Greg Hubbard 11            
+     3) 685 Robert Young 11             4) 640 Andrew Denlinger 12        
+ 11 Withrow                                             3:23.34   1 
+     1) 7 Abdoulaye Ball 11             2) 23 John Fields 12              
+     3) 9 Devin Weems 12                4) 15 Aaron Murray 12             
+ 12 Lexington                                           3:23.81   2 
+     1) 533 Morgen McQuillen 12         2) 500 Andru Switzer 12           
+     3) 559 Brandon Henderson 12        4) 509 Bryant Switzer 12          
+ 13 Fairborn                                            3:24.06   1 
+     1) 671 Matt Cline 12               2) 668 Guillebaldo Cepeda 12      
+     3) 663 Adam Knaub 9                4) 688 Jeremy Bridges 11          
+ 14 Brunswick                                           3:26.67   2 
+     1) 331 Austin Fallon 10            2) 309 Brandon Emert 11           
+     3) 333 Tyler Laffin 11             4) 314 Alex Hartill 12            
+ 15 Warren G Harding                                    3:26.70   1 
+     1) 111 Kevonte' Jordan 12          2) 116 Zavien Bennett 12          
+     3) 102 Marcus Boomer 11            4) 114 James Rumple 12            
+ 16 Cle. Heights                                        3:32.72   1 
+     1) 402 Brandon Fields 12           2) 409 Deanti Powell 11           
+     3) 406 Dorien Hudson 12            4) 408 Shelton Gibson 12          
+ 
+Event 24  Boys 4x400 Meter Relay
+=======================================================================
+OHSAA Div. 1: % 3:13.05  6/5/2010    Trotwood-Madison, Trotwood-Mad            
+                         J Ruby, J Paschal, R Lorenzo, W Henry             
+State Meet 1: # 3:13.05  6/5/2010    Trotwood-Madison, Trotwood-Madison        
+                         J Ruby, J Paschal, R Lorenz, W Henry              
+ Owens Stad.: @ 3:13.05  6/5/2010    Trotwood-Madison, Trotwood-Madison        
+                         J Ruby, J Paschal, R Lorenz, W Henry              
+    School                                               Finals  Points
+=======================================================================
+Finals
+  1 Pick. North                                         3:14.73   10   
+     1) 541 Nick Gray 10                2) 561 Lucas Miller 10            
+     3) 566 Trey Browder 11             4) 592 Desmond Palmer 12          
+  2 Mason                                               3:16.19    8   
+     1) 870 Reece Pontious 10           2) 861 Robert Diehl 12            
+     3) 845 Amit Maity 10               4) 858 Asad Maiden 12             
+  3 Granville                                           3:17.09    6   
+     1) 817 Cody Lenfest 12             2) 881 Trey Zangmeister 12        
+     3) 823 Tyler Otterstedt 11         4) 804 Casey Lenfest 11           
+  4 Glenville                                           3:17.42    5   
+     1) 508 William Robinson 12         2) 523 Omar Dhyll Jr. 10          
+     3) 506 Darrien Hickman 11          4) 501 Jacquez Riggs 12           
+  5 Hil. Davidson                                       3:18.12    4   
+     1) 637 Josiah Bernard 11           2) 645 Dametrius Clark 11         
+     3) 669 DaMarcus Nelson 11          4) 622 Phillipie Motley 11        
+  6 St. Edward                                          3:20.51    3   
+     1) 705 Frank Schenkelberg 12       2) 774 Anthony Young 12           
+     3) 775 Soloman Warfield 12         4) 703 Steele Wasik 11            
+  7 Syl. Southview                                      3:20.63    2   
+     1) 486 Perry Burkes 11             2) 478 Jeremy Cook 12             
+     3) 471 Frank Hayes 9               4) 485 Jernard Pinckney 11        
+  8 Mentor                                              3:20.80    1   
+     1) 718 Jaylen Dowdy 12             2) 726 Austin Hankins 11          
+     3) 735 Darren Ingram 11            4) 752 Marc Walton 10             
+  9 Olentangy                                           3:20.91  
+     1) 785 Ramal Iverson 12            2) 794 Dan Wruble 12              
+     3) 701 Jeff Clark 11               4) 716 Colin McShane 12           
+ 
+Event 26  Boys Discus Throw
+=======================================================================
+OHSAA Div. 1: % 206-04  4/26/2012   Macklin Tudor, Mt. Orab Western Brown      
+State Meet 1: # 201-11  1987        Charles Moye, Akron Ellet                  
+ Owens Stad.: @ 200-07  6/4/2011    A.J. Hicks, Solon                          
+    Name                    Year School                  Finals  Points
+=======================================================================
+  1   777 Aaron Zedella       12 St. Edward              196-06   10   
+      176-09  196-06  192-11  192-04  190-02  185-09
+  2   180 Billy Price         12 Austintown-F            184-04    8   
+      FOUL  FOUL  182-11  175-06  166-10  184-04
+  3   299 Lovell Peterson     12 Wayne                   181-11    6   
+      181-09  181-11  179-04  FOUL  FOUL  FOUL
+  4   933 Anthony Wilks       12 Marlington              179-11    5   
+      171-00  160-03  176-09  FOUL  179-11  FOUL
+  5   574 Collin Prouty       11 Tri-Valley              176-02    4   
+      176-02  159-01  146-05  170-11  169-02  FOUL
+  6   453 Bryce Burnside      12 Findlay                 175-09    3   
+      170-05  161-03  175-09  162-02  169-07  FOUL
+  7   860 Kevin Kavalec       12 St. Ignatius            175-00    2   
+      148-02  167-10  175-00  FOUL  162-11  166-08
+  8   764 Kyle Trout          11 Lancaster               174-06    1   
+      169-03  FOUL  174-06  163-10  164-09  FOUL
+  9   974 Nick Seme           12 Wadsworth               170-05  
+      FOUL  170-05  FOUL  FOUL  162-06  FOUL
+ 10   940 Chris Daniels       12 Canton McKin            164-11  
+      164-11  FOUL  149-02            
+ 11   869 Jared Ballenger     11 Fremont Ross            164-08  
+      164-08  FOUL  FOUL            
+ 12   135 Ellery Lassiter     11 Walnut Hills            155-00  
+      FOUL  147-05  155-00            
+ 13   641 Tyler Anthony       12 Hil. Davidso            153-01  
+      143-07  FOUL  153-01            
+ --   535 AJ Burdine          12 Elder                     FOUL  
+      FOUL  FOUL  FOUL            
+ --   832 Alex Nichols        12 Pick. Centra              FOUL  
+      FOUL  FOUL  FOUL            
+ --   439 Todd Lewis          11 Sycamore                  FOUL  
+      FOUL  FOUL  FOUL            
+ 
+Event 28  Boys High Jump
+=======================================================================
+OHSAA Div. 1: % 7-03.50  5/15/2009   Erik Kynard Jr., Toledo Rogers            
+State Meet 1: # 7-02.25  1987        Mark Cannon, Elyria                       
+ Owens Stad.: @ 7-01.50  6/7/2008    Ryan Fleck, Napoleon                      
+    Name                    Year School                  Finals  Points
+=======================================================================
+  1   451 Tyler Brown         12 Findlay                6-10.25   10   
+  2   705 Jalin Marshall      12 Middletown             6-08.00    8   
+  3   860 Alex Frye           12 New Albany             6-08.00    6   
+  4   251 Jordan Latimer      11 Wayne                  6-07.00    5   
+  5   830 Josh Fridley        12 Logan                  6-06.00    4   
+  6   547 John Harris         11 Pick. North            6-06.00    3   
+  7   759 Eddie Daugherty     10 Mentor                 6-06.00    2   
+  8   911 Jeffrey Ondo        11 Midview                6-06.00    1   
+  9   426 Damion Smith        12 Massillon              6-04.00  
+  9   930 Jermil Powell       11 Canal Winche           6-04.00  
+ 11   410 Cameron Cross       12 Cle. Heights           6-04.00  
+ 11   533 Giovanni Ricci      10 Loveland               6-04.00  
+ 13   909 Christopher Boykin  11 Whitmer                6-02.00  
+ 14   909 Andy Droesch        11 Tippecanoe             6-02.00  
+ 15   709 Kareem Hunt         12 Will. South            6-00.00  
+ 16   393 CJ Barwise          11 Berea                  6-00.00  
+ 
+Event 30  Boys Long Jump
+============================================================================
+OHSAA Div. 1: % 25-09.50  1996        Ra'Mon Johnson, Warrensville Heights     
+State Meet 1: # 25-09.50  1996        Ra'Mon Johnson, Warrensville Heights     
+ Owens Stad.: @    24-07  6/4/2011    Devin Smith, Massillon Washington        
+    Name                    Year School                  Finals  Wind Points
+============================================================================
+  1   251 Jordan Latimer      11 Wayne                 23-04.75   0.5  10   
+     21-06.50(-0.0) 19-04.25(-0.0) FOUL      FOUL      FOUL      23-04.75(-0.0)
+  2   451 Tyler Brown         12 Findlay               23-01.75   1.0   8   
+     22-11.25(-0.0) FOUL      FOUL      23-01.75(-0.0) FOUL      22-10.75(-0.0)
+  3   635 Antwon Smith        12 Cle. JFK              23-00.50   1.6   6   
+     FOUL      FOUL      21-07.50(-0.0) 21-09(-0.0) 23-00.50(-0.0) FOUL     
+  4   485 Jernard Pinckney    11 Syl. Southvi          23-00.25   1.0   5   
+     23-00.25(-0.0) 21-10.25(-0.0) 22-05.25(-0.0) 21-08(-0.0) FOUL      FOUL     
+  5   817 Cody Lenfest        12 Granville             22-10.50   0.3   4   
+     18-08(-0.0) 21-02.50(-0.0) 22-02.75(-0.0) 22-05.50(-0.0) 22-05.50(-0.0) 22-10.50(-0.0)
+  6   705 Jalin Marshall      12 Middletown            22-09.50   0.4   3   
+     21-08.25(-0.0) 22-06.75(-0.0) 22-06(-0.0) 21-00(-0.0) 22-06(-0.0) 22-09.50(-0.0)
+  7   742 Brendan Cope        12 Howland               22-02.50   0.1   2   
+     FOUL      FOUL      22-02.50(-0.0) 21-08.75(-0.0) FOUL      22-01.25(-0.0)
+  8   606 Darian Hicks        12 Solon                 21-11.50  -0.1   1   
+     21-10.75(-0.0) 21-11.50(-0.0) 21-03.50(-0.0) FOUL      21-04.25(-0.0) FOUL     
+  9   560 Jamie Hence         12 Pick. North           21-08.00   1.2 
+     20-10.25(-0.0) 21-06.50(-0.0) 21-08(-0.0) 21-03.50(-0.0) 20-10.25(-0.0) FOUL     
+ 10    15 Aaron Murray        12 Withrow               21-05.75  -1.3 
+     21-05.75(-0.0) FOUL      18-02(-0.0)            
+ 11   559 Brandon Henderson   12 Lexington             21-05.50   NWI 
+     19-11.50(-0.0) 21-05.50(-0.0) 21-04.25(-0.0)            
+ 12   628 Denzel Ward         10 Nordonia              21-05.25   NWI 
+     FOUL      20-10.25(-0.0) 21-05.25(-0.0)            
+ 13   559 Ronald Bonner       10 Pick. North           21-05.00   1.1 
+     20-02.75(-0.0) 20-10.50(-0.0) 21-05(-0.0)            
+ 14   515 Malyk Burks         11 Thom. Worthi          21-04.75   1.0 
+     21-04.75(-0.0) 20-08.25(-0.0) FOUL                 
+ 15   709 Kareem Hunt         12 Will. South           21-03.25   1.9 
+     19-04.75(-0.0) 20-01(-0.0) 21-03.25(-0.0)            
+ 16   329 Airion Kosak        12 Butler                20-11.25   0.1 
+     19-11.50(-0.0) 20-11.25(-0.0) 20-10.25(-0.0)            
+ 
+Event 32  Boys Shot Put
+=======================================================================
+OHSAA Div. 1: % 71-07.50  6/5/2010    Dustin Brode, Canfield                   
+State Meet 1: # 71-07.50  6/5/2010    Dustin Brode, Canfield                   
+ Owens Stad.: @ 71-07.50  6/5/2010    Dustin Brode, Canfield                   
+    Name                    Year School                  Finals  Points
+=======================================================================
+  1   777 Aaron Zedella       12 St. Edward            61-04.50   10   
+      FOUL  57-05.25  58-04.50  57-09.75  FOUL  61-04.50
+  2   860 Kevin Kavalec       12 St. Ignatius          60-00.00    8   
+      60-00  57-00  FOUL  FOUL  FOUL  FOUL
+  3   791 John Maurins        11 Mentor                59-05.25    6   
+      51-06.25  54-09.25  58-01.75  59-05.25  58-07.50  FOUL
+  4   180 Billy Price         12 Austintown-F         J59-05.25    5   
+      FOUL  FOUL  59-05.25  FOUL  FOUL  FOUL
+  5   485 Max Seipel          11 Avon Lake             57-08.50    4   
+      55-02.50  52-09.75  53-02.50  53-03.25  55-06.50  57-08.50
+  6   940 Chris Daniels       12 Canton McKin          57-03.25    3   
+      54-06.75  54-09.50  55-02.50  54-02  57-03.25  FOUL
+  7   764 Kyle Trout          11 Lancaster             55-09.00    2   
+      55-09  52-03.50  54-02.25  53-05.25  FOUL  FOUL
+  8   525 Mike Hierholzer     11 Medina                55-03.50    1   
+      54-06.75  55-03.50  53-07  54-09.50  54-00  FOUL
+  9   369 Dylan Wiesman       12 Colerain              55-01.75  
+      52-02.50  53-04.50  55-01.75  FOUL  51-07  52-10.75
+ 10   299 Lovell Peterson     12 Wayne                 54-04.50  
+      54-04.50  53-09.25  FOUL            
+ 11   291 Robert Landers      10 Wayne                 53-11.25  
+      FOUL  53-10  53-11.25            
+ 12   439 Todd Lewis          11 Sycamore              53-08.75  
+      53-07.50  52-10  53-08.75            
+ 13   832 Alex Nichols        12 Pick. Centra          51-01.25  
+      47-01  49-11  51-01.25            
+ 14   247 Nic Eader           12 Watkins Memo          50-02.75  
+      50-02.75  FOUL  50-00.75            
+ 15   752 Christian Herold    10 Lancaster             50-02.25  
+      FOUL  50-02.25  FOUL            
+ 16   183 Chris Treadwell     12 Euclid                47-09.25  
+      FOUL  FOUL  47-09.25            
+ 
+Event 34  Boys Pole Vault
+=======================================================================
+OHSAA Div. 1: % 17-02  6/2/2012    Jacob Blankenship, Gahanna Lincoln          
+State Meet 1: # 17-02  6/2/2012    Jacob Blankenship, Gahanna Lincoln          
+ Owens Stad.: @ 17-02  6/2/2012    Jacob Blankenship, Gahanna Lincoln          
+    Name                    Year School                  Finals  Points
+=======================================================================
+  1   856 Aaron Owens         12 Midpark               16-00.00   10   
+  2   701 Charlie Moushey     12 Wester. Cent          15-09.00    8   
+  3   417 Nathan Fleischer    11 Troy                  15-00.00    6   
+  4   631 Kyle Peterson       12 Solon                 14-09.00    5   
+  5   821 Branson Repasy      12 Midpark               14-06.00    4   
+  6   913 Nick Holley         12 Whitmer               14-06.00    2.50
+  6   386 Bryan Justice       11 Licking Hts.          14-06.00    2.50
+  8   545 Kyle Hutchinson     11 Medina                14-00.00    1   
+  9   645 Johnathon Spilker   12 Solon                 14-00.00  
+  9   605 Matt Ludwig         10 Lake Cath.            14-00.00  
+ 11   617 Zak Kruer           12 Miamisburg            14-00.00  
+ 11   501 Joe Ratterman       11 Elder                 14-00.00  
+ 13   764 Alex Murray         12 LaSalle               13-06.00  
+ 14   432 Triston Richardson  12 Olen. Orange          13-06.00  
+ 15   569 Kirill Loginov      11 Pick. North           13-00.00  
+ 16   777 Andrew Vincent      11 Perry                 13-00.00  
+ 
+                    Men - Team Rankings - 17 Events Scored
+===============================================================================
+    1) St. Edward                  62        2) Pick. North                47   
+    3) Mason                       39        4) Wester. North              31   
+    4) Findlay                     31        6) Wayne                      27   
+    7) Lincoln                     26        8) Austintown-Fitch           25   
+    8) Solon                       25       10) Granville                  24   
+   11) Cin. Northwest              23       12) Syl. Southview             19   
+   13) Tippecanoe                  18       14) Midpark                    16   
+   15) Cle. JFK                    14       15) St. Xavier                 14   
+   17) Glenville                   11       17) Middletown                 11   
+   17) New Albany                  11       17) St. Ignatius               11   
+   21) Wester. Central             10       21) Newark                     10   
+   23) Chardon                      9       23) Mentor                      9   
+   23) Hil. Davidson                9       26) Reynoldsburg                8   
+   26) Canton McKinley              8       26) Lancaster                   8   
+   26) Trotwood-Madison             8       30) Cle. Heights                6   
+   30) Boardman                     6       30) Troy                        6   
+   33) Twinsburg                    5       33) Mad. Comprehensive          5   
+   33) West Geauga                  5       33) Marlington                  5   
+   37) Logan                        4       37) Tri-Valley                  4   
+   37) Avon Lake                    4       37) Berea                       4   
+   41) Dub. Jerome                  3       41) Strongsville                3   
+   41) Lexington                    3       41) Centerville                 3   
+   41) Tallmadge                    3       41) Hudson                      3   
+   47) Licking Hts.                 2.50    47) Whitmer                     2.50
+   49) Shaker Hts.                  2       49) Medina                      2   
+   49) Howland                      2       49) Mayfield                    2   
+   49) Start                        2       49) Wooster                     2   
+   49) Steele                       2       49) No. Ridgeville              2   
+   57) Princeton                    1       57) Olen. Liberty               1   
+   57) Marysville                   1       57) Anderson                    1   
+   57) Midview                      1       57) Northmont                   1   
