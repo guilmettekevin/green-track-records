@@ -116,6 +116,15 @@ def wind_text(raw):
     return f"{v:+.1f}" if abs(v) >= 0.05 else "0.0"
 
 
+def advance_rules():
+    """How many advance from district and regional each year (shared with the What If page)."""
+    try:
+        from build_fields import ADVANCE
+        return ADVANCE
+    except Exception:
+        return {"District": [[2000, 4]], "Regional": [[2000, 4], [2026, 5]]}
+
+
 def main():
     cfg = load_config()
     review = defaultdict(list)
@@ -308,7 +317,8 @@ def main():
                 review["marks"].append({**where, "mark": mark, "why": "better than looks possible"})
             if wind and float(wind) > 2.0:
                 flags |= WINDY
-            if aster:  # note shown with the asterisk: [.., place, wind, series, note]
+            # note: shown with the asterisk; "lost the tiebreak" also tells the site a cutoff place didn't advance
+            if aster or "lost the tiebreak" in (r.get("Notes") or "").lower():  # [.., place, wind, series, note]
                 tail = (tail + [None, None, None])[:3]
                 tail[0] = tail[0] or 0
                 tail.append((r.get("Notes") or "").strip())
@@ -903,6 +913,7 @@ def main():
         "coverage": coverage,
         "team": team,
         "points": points,
+        "advance": advance_rules(),
     }
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     # "Updated" on the site means the data changed, not that the nightly build ran:

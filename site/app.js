@@ -290,8 +290,28 @@
     };
     PS = A.map(() => ({ rows: [], yrs: {} }));
     const add = (a, row) => { PS[a].rows.push(row); (PS[a].yrs[row.t] = PS[a].yrs[row.t] || new Set()).add(row.y); };
-    D.results.forEach((r) => { const t = counts(r[1], r[2], r[5], A[r[0]][1]); if (t) add(r[0], { t, y: yearOf(r[2]), e: r[1], m: r[2], mk: r[4], f: r[5], pl: r[6] || 0, w: r[7] }); });
+    D.results.forEach((r) => { const t = counts(r[1], r[2], r[5], A[r[0]][1]); if (t) add(r[0], { t, y: yearOf(r[2]), e: r[1], m: r[2], mk: r[4], f: r[5], pl: r[6] || 0, w: r[7], nt: r[9] || "" }); });
     D.relays.forEach((r) => { const t = counts(r[0], r[1], r[5], r[2]); if (t) r[6].forEach((l) => add(l[0], { t, y: yearOf(r[1]), e: r[0], m: r[1], mk: r[4], f: r[5], pl: r[7] || 0, relay: r })); });
+    // Qualified but didn't compete: a top-4 district final (top 5 from regional to state from 2026) earns the
+    // next round even when the athlete scratched. Relays only count when no Bulldog team ran that relay there.
+    const ADV = D.advance || { District: [[2000, 4]], Regional: [[2000, 4], [2026, 5]] };
+    const advN = (lv, y) => (ADV[lv] || []).reduce((n, [from, k]) => (y >= from ? k : n), 0);
+    const NEXT = { District: "Regional", Regional: "State" };
+    const relayRan = new Set();
+    D.relays.forEach((r) => relayRan.add([M[r[1]][2], yearOf(r[1]), r[2], r[0]].join("|")));
+    PS.forEach((p, a) => {
+      p.qual = [];
+      const seen = new Set(p.rows.map((x) => [x.t, x.y, x.e].join("|")));
+      p.rows.forEach((x) => {
+        const nx = NEXT[x.t];
+        if (!nx || !x.pl || x.f & PRELIM || x.pl > advN(x.t, x.y) || seen.has([nx, x.y, x.e].join("|"))) return;
+        if (/lost the tiebreak/i.test(x.nt || "")) return; // tied at the cutoff and didn't get the spot
+        if (x.relay && relayRan.has([nx, x.y, x.relay[2], x.e].join("|"))) return;
+        seen.add([nx, x.y, x.e].join("|"));
+        p.qual.push({ t: nx, y: x.y, e: x.e, from: x });
+        (p.yrs[nx] = p.yrs[nx] || new Set()).add(x.y);
+      });
+    });
     PS.forEach((p) => {
       p.rows.sort((x, y) => (dateOf(x.m) < dateOf(y.m) ? 1 : dateOf(x.m) > dateOf(y.m) ? -1 : E[x.e].o - E[y.e].o));
       // Reaching state means qualifying out of regionals, and regionals out of district finals.
@@ -304,6 +324,12 @@
       if (p.allOhio.length) p.yrs.AllOhio = new Set(p.allOhio.map((x) => x.y));
     });
     return PS;
+  }
+  function postRows(a) {
+    const p = postseasonIndex()[a], out = [];
+    const q = (p.qual || []).slice().sort((x, y) => y.y - x.y || (x.t === "State" ? -1 : 1));
+    p.rows.forEach((x) => { while (q.length && q[0].y >= x.y) out.push(q.shift()); out.push(x); });
+    return out.concat(q);
   }
   function topLevel(a) {
     const p = postseasonIndex()[a];
@@ -963,11 +989,13 @@
         ${evs.some((e) => FIELD_KEYS.has(E[e].k)) ? `<p class="wi-link"><a href="#/whatif/${encodeURIComponent(E[evs.filter((e) => FIELD_KEYS.has(E[e].k)).sort((x, y) => (ranks[evs.indexOf(x)] || 999) - (ranks[evs.indexOf(y)] || 999))[0]].k)}/${g}/${slugOf[a]}">What if? See where ${esc(nameOf(a).split(" ")[0])}'s PRs would have placed at district, regional and state in every year →</a></p>` : ""}</section>` : ""}
       ${postseasonIndex()[a].rows.length ? `<section class="section jump-target" id="a-post"><h2>Postseason</h2>
         <div class="tbl-wrap stk"><table><thead><tr><th>Season</th><th>Level</th><th>Event</th><th>Mark</th><th>Place</th><th>Meet</th></tr></thead><tbody>
-        ${postseasonIndex()[a].rows.map((x, i) => `<tr class="${x.t === "State" && x.pl === 1 && !(x.f & PRELIM) ? "champ-row" : ""}"${i >= 12 ? " hidden data-more" : ""}><td class="nowrap">${x.y}</td><td class="nowrap"><span class="honor sm ${LEVEL[x.t].cls}">${LEVEL[x.t].short}</span></td>
+        ${postRows(a).map((x, i) => x.from ? `<tr${i >= 12 ? " hidden data-more" : ""}><td class="nowrap">${x.y}</td><td class="nowrap"><span class="honor sm ${LEVEL[x.t].cls}">${LEVEL[x.t].short}</span></td>
+          <td class="nowrap">${esc(E[x.e].n)}</td><td class="dim">—</td><td class="nowrap dim">Qualified</td>
+          <td class="full dim">Didn't compete · qualified by placing ${ordinal(x.from.pl)} at ${x.from.t.toLowerCase()}</td></tr>` : `<tr class="${x.t === "State" && x.pl === 1 && !(x.f & PRELIM) ? "champ-row" : ""}"${i >= 12 ? " hidden data-more" : ""}><td class="nowrap">${x.y}</td><td class="nowrap"><span class="honor sm ${LEVEL[x.t].cls}">${LEVEL[x.t].short}</span></td>
           <td class="nowrap">${esc(E[x.e].n)}${x.f & PRELIM ? ' <span class="chip">Prelim</span>' : ""}</td><td class="mark">${x.f & NOMARK ? nmHTML(x.mk) : markHTML(x.mk, x.f, x.w)}</td>
           <td class="nowrap">${x.pl && !(x.f & PRELIM) ? (x.t === "State" && x.pl === 1 ? `<span class="honor sm champ">${STAR}Champion</span>` : x.t === "State" && x.pl <= 8 ? `${ordinal(x.pl)} <span class="honor sm allohio">All-Ohio</span>` : ordinal(x.pl)) : ""}</td>
           <td class="full dim">${meetLink(x.m)} <span class="dim nowrap">${fmtDate(dateOf(x.m))}</span></td></tr>`).join("")}
-        </tbody></table></div>${moreBtn(postseasonIndex()[a].rows.length, 12, "postseason results")}</section>` : ""}
+        </tbody></table></div>${moreBtn(postRows(a).length, 12, "postseason results")}</section>` : ""}
       ${rels.length ? `<section class="section jump-target" id="a-rel"><h2>Relays</h2><div class="tbl-wrap stk"><table><thead><tr><th>Event</th><th>Mark</th><th>Team</th><th>Meet</th><th>Date</th></tr></thead><tbody>
         ${rels.map((r, i) => { const rk = relayRanking(r[0], r[2]).find((x) => x.r === r);
           return `<tr${i >= 10 ? " hidden data-more" : ""}><td class="nowrap">${esc(E[r[0]].n)}</td><td class="mark">${markHTML(r[4], r[5], r)}${rk && rk.rank <= 10 ? ` <span class="chip ${rk.rank === 1 ? "sr" : "top"}">${rk.rank === 1 ? "Record" : "#" + rk.rank}</span>` : ""}</td>
@@ -1063,8 +1091,9 @@
       ps.forEach((p, a) => {
         if (!p.yrs[l.k] || !p.yrs[l.k].has(y)) return;
         let rows = p.rows.filter((x) => x.t === l.k && x.y === y);
-        if (!rows.length) rows = p.rows.filter((x) => x.y === y && (x.t === "Regional" || x.t === "State")); // district final implied by a regional trip
-        byA.set(a, new Set(rows.map((x) => E[x.e].n)));
+        const q = (p.qual || []).filter((x) => x.t === l.k && x.y === y);
+        if (!rows.length && !q.length) rows = p.rows.filter((x) => x.y === y && (x.t === "Regional" || x.t === "State")); // district final implied by a regional trip
+        byA.set(a, new Set(rows.map((x) => E[x.e].n).concat(q.map((x) => `${E[x.e].n} (qualified, didn't compete)`))));
       });
       if (!byA.size) return "";
       const ids = [...byA.keys()].sort((p, q) => A[p][1].localeCompare(A[q][1]) || A[p][0].localeCompare(A[q][0]));
@@ -1608,11 +1637,13 @@
   const TROPHY = `<svg class="trophy" viewBox="0 0 64 64" aria-hidden="true"><path d="M18 6h28v8h10v6c0 8-6 14-13 15-2 6-6 9-9 10v7h9v6H21v-6h9v-7c-3-1-7-4-9-10C14 34 8 28 8 20v-6h10V6zm-4 14c0 4 3 8 6 9-1-3-2-6-2-9v-1h-4v1zm32 0c0 3-1 6-2 9 3-1 6-5 6-9v-1h-4v1z" fill="currentColor"/></svg>`;
   const teamPlace = (t) => t.pl ? `${t.tie ? "T-" : ""}${ordinal(t.pl)}` : "";
   const teamLvName = (t) => (TEAM_LV.includes(t.lv) || t.lv === "League" ? t.lv : t.m || t.lv);
-  function teamTitles() { return (D.team || []).filter((t) => t.pl === 1); }
+  // Team championships: league and OHSAA tournament titles only (invitational wins still show on the Team page)
+  const CHAMP_LV = new Set(["League", "District", "Regional", "State", "Indoor State"]);
+  function teamTitles() { return (D.team || []).filter((t) => t.pl === 1 && CHAMP_LV.has(t.lv)); }
   function teamTitlesHTML() {
     const titles = teamTitles();
     const best = {};
-    (D.team || []).forEach((t) => { if (t.pl > 1) { const k = t.g + t.lv; if (!best[k] || t.pl < best[k].pl) best[k] = t; } });
+    (D.team || []).forEach((t) => { if (t.pl > 1 && CHAMP_LV.has(t.lv)) { const k = t.g + t.lv; if (!best[k] || t.pl < best[k].pl) best[k] = t; } });
     const top = Object.values(best).filter((t) => t.pl <= 3).sort((a, b) => a.pl - b.pl || b.y - a.y).slice(0, 4);
     if (!titles.length && !top.length) return "";
     return `<section class="section"><div class="section-head"><h2>${TROPHY}Team championships</h2><a href="#/team">Every team finish →</a></div>
@@ -1662,7 +1693,7 @@
       </div>
       ${titles.length ? `<section class="section"><div class="team-roll">${titles.map((t) => `<div class="team-card">${TROPHY}<span><span class="tc-year">${t.y}</span><span class="tc-name">${G[t.g]} ${esc(teamLvName(t))} Champions</span><span class="tc-ev">${t.pts != null ? `${fmtPts(t.pts)} points` : ""}${t.note ? ` · ${esc(t.note)}` : ""}</span></span></div>`).join("")}</div></section>` : ""}
       ${table("B")}${table("G")}
-      <p class="note">District, regional and state finishes from 2001 on come from the team scores printed in the official results, or are worked out from the finals (10-8-6-5-4-3-2-1 for the top eight) where the results copy has no team scores. Older seasons, and league or invitational titles, come from the Team Results tab in the sheet. League: Green's points at the varsity league meet (Suburban League through 2015, Federal League since), from the Track Central scoring reports; JV league meets don't count. Only a few league places are on file so far; coaches can add the rest in the Team Results tab. Hover over or tap a box for the winner and source. A blank box means that meet isn't on file.</p>`);
+      <p class="note">District, regional and state finishes from 2001 on come from the team scores printed in the official results, or are worked out from the finals (10-8-6-5-4-3-2-1 for the top eight) where the results copy has no team scores. Older seasons, and league or invitational titles, come from the Team Results tab in the sheet. Invitational wins are listed here but don't count as team championships. League: Green's points at the varsity league meet (Suburban League through 2015, Federal League since), from the Track Central scoring reports; JV league meets don't count. Only a few league places are on file so far; coaches can add the rest in the Team Results tab. Hover over or tap a box for the winner and source. A blank box means that meet isn't on file.</p>`);
   }
   function seasonTeam(y) {
     const T = (D.team || []).filter((t) => t.y === y && (t.pl || t.n || t.pts != null));
